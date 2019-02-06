@@ -17,8 +17,10 @@
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fpeter-henry5%2Fone-for-ross-part-1%2F" frameborder="0" ></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-ross-part-2%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/j8q2zbp1vr5kive/One%20For%20Ross%20%28Part%201%29.mp3?dl=0">Part 1 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/jn28lklime54pr7/One%20For%20Ross%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p>
+[Part 1 Recording](https://www.dropbox.com/s/j8q2zbp1vr5kive/One%20For%20Ross%20%28Part%201%29.mp3?dl=0)
+
+[Part 2 Recording](https://www.dropbox.com/s/jn28lklime54pr7/One%20For%20Ross%20%28Part%202%29.mp3?dl=0)
+
 [Tracklist](lists/One For Ross.txt)
 
 # A Night At Hawthorn
@@ -28,8 +30,10 @@
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-night-at-hawthorn-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-night-at-hawthorn-part-2%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/c27xeva6rbm0ehz/A%20Night%20At%20Hawthorn%20%28Part%201%29.mp3?dl=0">Part 1 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/zpjq7l8z92086rx/A%20Night%20At%20Hawthorn%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p>
+[Part 1 Recording](https://www.dropbox.com/s/c27xeva6rbm0ehz/A%20Night%20At%20Hawthorn%20%28Part%201%29.mp3?dl=0)
+
+[Part 2 Recording](https://www.dropbox.com/s/zpjq7l8z92086rx/A%20Night%20At%20Hawthorn%20%28Part%202%29.mp3?dl=0)
+
 [Tracklist](lists/A Night At Hawthorn.txt)
 
 # A Day In The Park
@@ -40,10 +44,14 @@
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-day-in-the-park-part-3%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-day-in-the-park-part-4%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/6wgs8lzeas3fvgs/A%20Day%20In%20The%20Park%20%28Part%201%29.mp3?dl=0">Part 1 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/h2q6odrx7lqr2oo/A%20Day%20In%20The%20Park%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/k26vijjqycqv2w8/A%20Day%20In%20The%20Park%20%28Part%203%29.mp3?dl=0">Part 3 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/c4uso1tltf11r63/A%20Day%20In%20The%20Park%20%28Part%204%29.mp3?dl=0">Part 4 Recording</a></p>
+[Part 1 Recording](https://www.dropbox.com/s/6wgs8lzeas3fvgs/A%20Day%20In%20The%20Park%20%28Part%201%29.mp3?dl=0)
+
+[Part 2 Recording](https://www.dropbox.com/s/h2q6odrx7lqr2oo/A%20Day%20In%20The%20Park%20%28Part%202%29.mp3?dl=0)
+
+[Part 3 Recording](https://www.dropbox.com/s/k26vijjqycqv2w8/A%20Day%20In%20The%20Park%20%28Part%203%29.mp3?dl=0)
+
+[Part 4 Recording](https://www.dropbox.com/s/c4uso1tltf11r63/A%20Day%20In%20The%20Park%20%28Part%204%29.mp3?dl=0)
+
 [Tracklist](lists/A Day in the Park.txt)
 
 # Shasta Lake
@@ -118,14 +126,17 @@ Roof Part 2 Recording</a><br></p><p><a href="https://www.dropbox.com/s/zv2zjnwru
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Froof-therapy%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/esmzd0v24oa6l3d/Roof%20Therapy%20Part%201.mp3?dl=0">Part 1 Recording</a></p><p><a href="https://www.dropbox.com/s/2z4o697d0mrg668/Roof%20Therapy%20Part%201.txt?dl=0">Part 1 Tracklist</a></p><p>Other parts may be more forthcoming...</p>
+<p><a href="https://www.dropbox.com/s/esmzd0v24oa6l3d/Roof%20Therapy%20Part%201.mp3?dl=0">Recording</a></p>
+<p><a href="https://www.dropbox.com/s/2z4o697d0mrg668/Roof%20Therapy%20Part%201.txt?dl=0">Tracklist</a></p>
 
 # Upper Decker
 <p>Surprise opportunity to DJ on the roof.  4/23/17.</p>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fupper-decker%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/d1drynxq971ycxy/Upper%20Decker.txt?dl=0">Tracklist</a></p>
+[Recording](https://www.dropbox.com/s/927mtw64qxgmug2/Upper%20Decker.mp3?dl=0)
+
+[Tracklist](lists/Upper Decker.txt)
 
 # Fleet Week 2016
 <p><iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Ffleet-week-2016-saturday-part-1%2F" frameborder="0"></iframe>
