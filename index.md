@@ -14,8 +14,7 @@
 # One For Ross
 2018-12-08.  Thanks for the great party Ross and Aldo!
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fpeter-henry5%2Fone-for-ross-part-1%2F" frameborder="0" ></iframe>
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-ross-part-2%2F" frameborder="0"></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-ross%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/j8q2zbp1vr5kive/One%20For%20Ross%20%28Part%201%29.mp3?dl=0)
 
