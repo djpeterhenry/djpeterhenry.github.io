@@ -21,7 +21,6 @@
 <p><a href="https://www.dropbox.com/s/jn28lklime54pr7/One%20For%20Ross%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p>
 [Tracklist](lists/One For Ross.txt)
 
-<!--
 # A Night At Hawthorn
 
 <p>2018-09-29.  Happy birthday Dylan!  Thanks Carla and Chadwick for the great venue.</p>
@@ -134,5 +133,3 @@ Roof Part 2 Recording</a><br></p><p><a href="https://www.dropbox.com/s/zv2zjnwru
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Ffleet-week-2016-sunday%2F" frameborder="0"></iframe>
 
 </p><p><a href="https://www.dropbox.com/s/fh2luj5m4j9ftsr/SFT%20Roof%20Saturday%20Part%201.mp3?dl=0">Saturday Part 1</a></p><p><a href="https://www.dropbox.com/s/e7x7zcbi1anojkn/SFT%20Roof%20Saturday%20Part%202.mp3?dl=0">Saturday Part 2</a></p><p><a href="https://www.dropbox.com/s/z4xpfb3x6i567rl/Fleet%20Week%20Saturday.txt?dl=0">Saturday Tracklist</a><br></p><p><a href="https://www.dropbox.com/s/774e1z3n1c7733e/SFT%20Roof%20Sunday.mp3?dl=0">Sunday</a></p><p><a href="https://www.dropbox.com/s/953m5t5c6sr27vk/Fleet%20Week%20Sunday.txt?dl=0">Sunday Tracklist</a></p>
-
--->
