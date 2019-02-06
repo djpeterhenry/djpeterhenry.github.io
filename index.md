@@ -71,8 +71,32 @@
 [Session 1](https://www.dropbox.com/s/dpn35aui0i08d0u/Shasta%20Session%201.mp3?dl=0)
 [(Tracklist)](lists/Shasta Session 1.txt)
 
-<p><a href="https://www.dropbox.com/s/9c29l1bui9ns796/Shasta%20Session%202%20Part%201.mp3?dl=0">Session 2 (Part 1)</a> <a href="https://www.dropbox.com/s/gc9aavpqs0xgy2z/Shasta%20Session%202%20%28Part%201%29.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/oqaslpazqi6b12q/Shasta%20Session%202%20Part%202.mp3?dl=0">
-Session 2 (Part 2)</a> <a href="https://www.dropbox.com/s/w0uern7ejck12ur/Shasta%20Session%202%20%28Part%202%29.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/2h9a4dtqe4ve0ph/Shasta%20Session%203.mp3?dl=0">Session 3</a> <a href="https://www.dropbox.com/s/12xkkkva7mps2mt/Shasta%20Session%203.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/7jixd6j3kay9s47/Shasta%20Session%204.mp3?dl=0">Session 4</a> <a href="https://www.dropbox.com/s/2k7a28mevdgqba6/Shasta%20Session%204.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/672ju4berfphvrm/Shasta%20Session%205.mp3?dl=0">Session 5</a> <a href="https://www.dropbox.com/s/c2kpzj7fzl20c61/Shasta%20Session%205.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/twxh6kpv765zmqn/Shasta%20Session%206.mp3?dl=0">Session 6</a> <a href="https://www.dropbox.com/s/8hf87sbt1kn7og9/Shasta%20Session%206.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/i5q6zbs2aln1nx0/Shasta%20Session%207.mp3?dl=0">Session 7</a> <a href="https://www.dropbox.com/s/h6u4wsgj0jda1hn/Shasta%20Session%207.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/imf6r0fx1nz3qx4/Shasta%20Session%208%20Part%201.mp3?dl=0">Session 8 (Part 1)</a> <a href="https://www.dropbox.com/s/zj349yk2grn1gpe/Shasta%20Session%208%20%28Part%201%29.txt?dl=0">(Tracklist)</a></p><p><a href="https://www.dropbox.com/s/13j3kdmh7snspxc/Shasta%20Session%208%20Part%202.mp3?dl=0">Session 8 (Part 2)</a> <a href="https://www.dropbox.com/s/5qi36i1sqexoilo/Shasta%20Session%208%20%28Part%202%29.txt?dl=0">(Tracklist)</a></p>
+[Session 2 (Part 1)](https://www.dropbox.com/s/9c29l1bui9ns796/Shasta%20Session%202%20Part%201.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 2 (Part 1).txt)
+
+[Session 2 (Part 2)](https://www.dropbox.com/s/oqaslpazqi6b12q/Shasta%20Session%202%20Part%202.mp3?dl=0
+[(Tracklist)](lists/Shasta Session 2 (Part 2).txt)
+
+[Session 3](https://www.dropbox.com/s/2h9a4dtqe4ve0ph/Shasta%20Session%203.mp3?dl=0
+[(Tracklist)](lists/Shasta Session 3.txt)
+
+[Session 4](https://www.dropbox.com/s/7jixd6j3kay9s47/Shasta%20Session%204.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 4.txt)
+
+[Session 5](https://www.dropbox.com/s/672ju4berfphvrm/Shasta%20Session%205.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 5.txt)
+
+[Session 6](https://www.dropbox.com/s/twxh6kpv765zmqn/Shasta%20Session%206.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 6.txt)
+
+[Session 7](https://www.dropbox.com/s/i5q6zbs2aln1nx0/Shasta%20Session%207.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 7.txt)
+
+[Session 8 (Part 1)](https://www.dropbox.com/s/imf6r0fx1nz3qx4/Shasta%20Session%208%20Part%201.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 8 (Part 1).txt)
+
+[Session 8 (Part 2)](https://www.dropbox.com/s/13j3kdmh7snspxc/Shasta%20Session%208%20Part%202.mp3?dl=0)
+[(Tracklist)](lists/Shasta Session 8 (Part 2).txt)
 
 # Kansas Meets Hawaii
 <p>2018-05-12.  What a great party...thanks Johannes!</p>
