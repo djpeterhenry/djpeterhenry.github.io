@@ -5,7 +5,7 @@
 # One For Carla
 2018-02-03.  Happy birthday Carla!  Maybe they'll let me turn it up next time...
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fone-for-carla%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fone-for-carla%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/jc2534aiaktk60l/One%20For%20Carla.mp3?dl=0)
 
@@ -14,7 +14,7 @@
 # One For Ross
 2018-12-08.  Thanks for the great party Ross and Aldo!
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-ross%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-ross%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/j8q2zbp1vr5kive/One%20For%20Ross%20%28Part%201%29.mp3?dl=0)
 
@@ -25,7 +25,7 @@
 # A Night At Hawthorn
 2018-09-29.  Happy birthday Dylan!  Thanks Carla and Chadwick for the great venue.
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fa-night-at-hawthorn%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fa-night-at-hawthorn%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/c27xeva6rbm0ehz/A%20Night%20At%20Hawthorn%20%28Part%201%29.mp3?dl=0)
 
@@ -36,7 +36,7 @@
 # A Day In The Park
 A glorious birthday in the park with Fabien and Karen.  2018-07-07.
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fa-day-in-the-park%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fa-day-in-the-park%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/6wgs8lzeas3fvgs/A%20Day%20In%20The%20Park%20%28Part%201%29.mp3?dl=0)
 
@@ -51,7 +51,7 @@ A glorious birthday in the park with Fabien and Karen.  2018-07-07.
 # Shasta Lake
 Memorial Day Weekend 2018.
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-lake%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-lake%2F" frameborder="0" ></iframe>
 
 [Session 1](https://www.dropbox.com/s/dpn35aui0i08d0u/Shasta%20Session%201.mp3?dl=0)
 [(Tracklist)](lists/Shasta Session 1.txt)
@@ -86,7 +86,7 @@ Memorial Day Weekend 2018.
 # Kansas Meets Hawaii
 2018-05-12.  What a great party...thanks Johannes!
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fkansas-meets-hawaii%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fkansas-meets-hawaii%2F" frameborder="0" ></iframe>
 
 [Terrace](https://www.dropbox.com/s/i02er02cmbs4xmr/Kansas%20Meets%20Hawaii%20%28Terrace%29.mp3?dl=0)
 
@@ -99,7 +99,7 @@ Memorial Day Weekend 2018.
 # One For Oren
 2018-03-17.  Happy birthday to Oren and Mattia.  Featuring DJ Dylon.
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-oren%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-oren%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/ceqra91rxlwxv7k/One%20For%20Oren%20%28Part%201%29.mp3?dl=0)
 
@@ -110,7 +110,7 @@ Memorial Day Weekend 2018.
 # One For Alaa
 2018-03-10.  Thanks for the sweet rooftop Ashley.  Happy birthday Alaa!
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-alaa%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-alaa%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/ajy22jda7iijgtt/One%20For%20Alaa%20%28Part%201%29.mp3?dl=0)
 
@@ -123,7 +123,7 @@ Memorial Day Weekend 2018.
 # One For Emma
 2018-02-10.  Baby shower for Danny, Sandra, and Emma.  Good times!
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-emma%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fone-for-emma%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/fnshw9tag17r643/One%20For%20Emma%20Part%201.mp3?dl=0)
 
@@ -134,7 +134,7 @@ Memorial Day Weekend 2018.
 # Nema
 2018-01-06.  Top of Nema.  Thanks Michael and Aldo :)
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Fnema%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Fnema%2F" frameborder="0" ></iframe>
 
 [Part 1 Recording](https://www.dropbox.com/s/duwyw4lc0doqjnq/Nema%20Part%201.mp3?dl=0)
 
@@ -145,7 +145,7 @@ Memorial Day Weekend 2018.
 # Roof Therapy
 2017-05-28.  Memorial weekend Sunday on the roof for hours...but only recorded the first couple!
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Froof-therapy%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Froof-therapy%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/esmzd0v24oa6l3d/Roof%20Therapy%20Part%201.mp3?dl=0)
 
@@ -154,7 +154,7 @@ Memorial Day Weekend 2018.
 # Upper Decker
 2017-04-23.  Surprise opportunity to DJ on the roof.
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fupper-decker%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fupper-decker%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/927mtw64qxgmug2/Upper%20Decker.mp3?dl=0)
 
@@ -162,7 +162,7 @@ Memorial Day Weekend 2018.
 
 # Fleet Week 2016
 
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fpeter-henry5%2Fplaylists%2Ffleet-week-2016%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fpeter-henry5%2Fplaylists%2Ffleet-week-2016%2F" frameborder="0" ></iframe>
 
 [Saturday Recording (Part 1)](https://www.dropbox.com/s/fh2luj5m4j9ftsr/SFT%20Roof%20Saturday%20Part%201.mp3?dl=0)
 
