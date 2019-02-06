@@ -62,7 +62,7 @@ Memorial Day Weekend 2018.
 [Session 2 (Part 2)](https://www.dropbox.com/s/oqaslpazqi6b12q/Shasta%20Session%202%20Part%202.mp3?dl=0)
 [(Tracklist)](lists/Shasta Session 2 (Part 2).txt)
 
-[Session 3](https://www.dropbox.com/s/2h9a4dtqe4ve0ph/Shasta%20Session%203.mp3?dl=0
+[Session 3](https://www.dropbox.com/s/2h9a4dtqe4ve0ph/Shasta%20Session%203.mp3?dl=0)
 [(Tracklist)](lists/Shasta Session 3.txt)
 
 [Session 4](https://www.dropbox.com/s/7jixd6j3kay9s47/Shasta%20Session%204.mp3?dl=0)
