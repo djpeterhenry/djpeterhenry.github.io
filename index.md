@@ -24,8 +24,7 @@
 [Tracklist](lists/One For Ross.txt)
 
 # A Night At Hawthorn
-
-<p>2018-09-29.  Happy birthday Dylan!  Thanks Carla and Chadwick for the great venue.</p>
+2018-09-29.  Happy birthday Dylan!  Thanks Carla and Chadwick for the great venue.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-night-at-hawthorn-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-night-at-hawthorn-part-2%2F" frameborder="0"></iframe>
@@ -37,7 +36,7 @@
 [Tracklist](lists/A Night At Hawthorn.txt)
 
 # A Day In The Park
-<p>A glorious birthday in the park with Fabien and Karen.  2018-07-07.</p>
+A glorious birthday in the park with Fabien and Karen.  2018-07-07.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-day-in-the-park-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fa-day-in-the-park-part-2%2F" frameborder="0"></iframe>
@@ -55,7 +54,7 @@
 [Tracklist](lists/A Day in the Park.txt)
 
 # Shasta Lake
-<p>Memorial Day Weekend 2018.</p>
+Memorial Day Weekend 2018.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fshasta-session-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fshasta-session-2-part-1%2F" frameborder="0"></iframe>
@@ -99,64 +98,82 @@
 [(Tracklist)](lists/Shasta Session 8 (Part 2).txt)
 
 # Kansas Meets Hawaii
-<p>2018-05-12.  What a great party...thanks Johannes!</p>
+2018-05-12.  What a great party...thanks Johannes!
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fkansas-meets-hawaii-terrace%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fkansas-meets-hawaii-roof-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fkansas-meets-hawaii-roof-part-2%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/i02er02cmbs4xmr/Kansas%20Meets%20Hawaii%20%28Terrace%29.mp3?dl=0">Terrace Recording</a></p><p><a href="https://www.dropbox.com/s/j4xy9na5pudbi7v/Kansas%20Meets%20Hawaii%20%28Roof%20Part%201%29.mp3?dl=0">Roof Part 1 Recording</a></p><p><a href="https://www.dropbox.com/s/b8ngt9smcn55umj/Kansas%20Meets%20Hawaii%20%28Roof%20Part%202%29.mp3?dl=0">
+[Terrace](https://www.dropbox.com/s/i02er02cmbs4xmr/Kansas%20Meets%20Hawaii%20%28Terrace%29.mp3?dl=0)
 
-Roof Part 2 Recording</a><br></p><p><a href="https://www.dropbox.com/s/zv2zjnwrub5q3d3/Kansas%20Meets%20Hawaii.txt?dl=0">Tracklist</a></p>
+[Roof (Part 1)](https://www.dropbox.com/s/j4xy9na5pudbi7v/Kansas%20Meets%20Hawaii%20%28Roof%20Part%201%29.mp3?dl=0)
+
+[Roof (Part 2)](https://www.dropbox.com/s/b8ngt9smcn55umj/Kansas%20Meets%20Hawaii%20%28Roof%20Part%202%29.mp3?dl=0)
+
+[Tracklist](lists/Kansas Meets Hawaii.txt)
 
 # One For Oren
-<p>2018-03-17.  Happy birthday to Oren and Mattia.  Featuring DJ Dylon.</p>
+2018-03-17.  Happy birthday to Oren and Mattia.  Featuring DJ Dylon.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-oren-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-oren-part-2%2F" frameborder="0"></iframe>
 
+[Part 1 Recording](https://www.dropbox.com/s/ceqra91rxlwxv7k/One%20For%20Oren%20%28Part%201%29.mp3?dl=0)
 
-<p><a href="https://www.dropbox.com/s/ceqra91rxlwxv7k/One%20For%20Oren%20%28Part%201%29.mp3?dl=0">Part 1 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/0ku1o922ow38egw/One%20For%20Oren%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/mrxkl5ulth6y3ag/One%20For%20Oren.txt?dl=0">Tracklist</a></p>
+[Part 2 Recording](https://www.dropbox.com/s/0ku1o922ow38egw/One%20For%20Oren%20%28Part%202%29.mp3?dl=0)
+
+[Tracklist](lists/One For Oren.txt)
 
 # One For Alaa
-<p>2018-03-10.  Thanks for the sweet rooftop Ashley.  Happy birthday Alaa!</p>
+2018-03-10.  Thanks for the sweet rooftop Ashley.  Happy birthday Alaa!
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-alaa-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-alaa-part-2%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-alaa-part-3%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/ajy22jda7iijgtt/One%20For%20Alaa%20%28Part%201%29.mp3?dl=0">Part 1 Recording</a></p><p><a href="https://www.dropbox.com/s/3xnl7afxwze2ii5/One%20For%20Alaa%20%28Part%202%29.mp3?dl=0">Part 2 Recording</a></p><p><a href="https://www.dropbox.com/s/qz8vzd9nhc1gimm/One%20For%20Alaa%20%28Part%203%29.mp3?dl=0">Part 3 Recording</a></p><p><a href="https://www.dropbox.com/s/wdmrxlzoldcg1g0/One%20For%20Alaa.txt?dl=0">Tracklist</a></p>
+[Part 1 Recording](https://www.dropbox.com/s/ajy22jda7iijgtt/One%20For%20Alaa%20%28Part%201%29.mp3?dl=0)
+
+[Part 2 Recording](https://www.dropbox.com/s/3xnl7afxwze2ii5/One%20For%20Alaa%20%28Part%202%29.mp3?dl=0)
+
+[Part 3 Recording](https://www.dropbox.com/s/qz8vzd9nhc1gimm/One%20For%20Alaa%20%28Part%203%29.mp3?dl=0)
+
+[Tracklist](lists/One For Alaa.txt)
 
 # One For Emma
-<p>2018-02-10.  Baby shower for Danny, Sandra, and Emma.  Good times!</p>
+2018-02-10.  Baby shower for Danny, Sandra, and Emma.  Good times!
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-emma-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fone-for-emma-part-2%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/fnshw9tag17r643/One%20For%20Emma%20Part%201.mp3?dl=0">Part 1 Recording</a></p><p><a href="https://www.dropbox.com/s/60e8t7ff8q5md9v/One%20For%20Emma%20Part%202.mp3?dl=0">Part 2 Recording</a> (featuring DJ Dylon)</p><p><a href="https://www.dropbox.com/s/dsjm07wdkotgdke/One%20For%20Emma.txt?dl=0">Tracklist</a></p>
+[Part 1 Recording](https://www.dropbox.com/s/fnshw9tag17r643/One%20For%20Emma%20Part%201.mp3?dl=0)
+
+[Part 2 Recording (featuring DJ Dylon)](https://www.dropbox.com/s/60e8t7ff8q5md9v/One%20For%20Emma%20Part%202.mp3?dl=0)
+
+[Tracklist](lists/One For Emma.txt)
 
 # Nema
-<p>2018-01-06.  Top of Nema.  Thanks Michael and Aldo :)</p>
+2018-01-06.  Top of Nema.  Thanks Michael and Aldo :)
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fnema-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fnema-part-2%2F" frameborder="0"></iframe>
 
+[Part 1 Recording](https://www.dropbox.com/s/duwyw4lc0doqjnq/Nema%20Part%201.mp3?dl=0)
 
-<p><a href="https://www.dropbox.com/s/duwyw4lc0doqjnq/Nema%20Part%201.mp3?dl=0">Part 1 Recording</a></p>
-<p><a href="https://www.dropbox.com/s/7lhx1fyd44gsxsy/Nema%20Part%202.mp3?dl=0">Part 2 Recording</a></p><p><a href="https://www.dropbox.com/s/c1ds0fojmbg03kf/Nema.txt?dl=0">Tracklist</a></p>
+[Part 2 Recording](https://www.dropbox.com/s/7lhx1fyd44gsxsy/Nema%20Part%202.mp3?dl=0)
+
+[Tracklist](lists/Nema.txt)
 
 # Roof Therapy
-<p>2017-05-28.  Memorial weekend Sunday on the roof for hours...</p>
+2017-05-28.  Memorial weekend Sunday on the roof for hours...but only recorded the first couple!
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Froof-therapy%2F" frameborder="0"></iframe>
 
-<p><a href="https://www.dropbox.com/s/esmzd0v24oa6l3d/Roof%20Therapy%20Part%201.mp3?dl=0">Recording</a></p>
-<p><a href="https://www.dropbox.com/s/2z4o697d0mrg668/Roof%20Therapy%20Part%201.txt?dl=0">Tracklist</a></p>
+[Recording](https://www.dropbox.com/s/esmzd0v24oa6l3d/Roof%20Therapy%20Part%201.mp3?dl=0)
+
+[Tracklist](lists/Roof Therapy Part 1.txt)
 
 # Upper Decker
-<p>Surprise opportunity to DJ on the roof.  4/23/17.</p>
+2017-04-23.  Surprise opportunity to DJ on the roof.
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Fupper-decker%2F" frameborder="0"></iframe>
 
@@ -165,8 +182,17 @@ Roof Part 2 Recording</a><br></p><p><a href="https://www.dropbox.com/s/zv2zjnwru
 [Tracklist](lists/Upper Decker.txt)
 
 # Fleet Week 2016
+
 <p><iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Ffleet-week-2016-saturday-part-1%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Ffleet-week-2016-saturday-part-2%2F" frameborder="0"></iframe>
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;mini=1&amp;feed=%2Fpeter-henry5%2Ffleet-week-2016-sunday%2F" frameborder="0"></iframe>
 
-</p><p><a href="https://www.dropbox.com/s/fh2luj5m4j9ftsr/SFT%20Roof%20Saturday%20Part%201.mp3?dl=0">Saturday Part 1</a></p><p><a href="https://www.dropbox.com/s/e7x7zcbi1anojkn/SFT%20Roof%20Saturday%20Part%202.mp3?dl=0">Saturday Part 2</a></p><p><a href="https://www.dropbox.com/s/z4xpfb3x6i567rl/Fleet%20Week%20Saturday.txt?dl=0">Saturday Tracklist</a><br></p><p><a href="https://www.dropbox.com/s/774e1z3n1c7733e/SFT%20Roof%20Sunday.mp3?dl=0">Sunday</a></p><p><a href="https://www.dropbox.com/s/953m5t5c6sr27vk/Fleet%20Week%20Sunday.txt?dl=0">Sunday Tracklist</a></p>
+[Saturday Recording (Part 1)](https://www.dropbox.com/s/fh2luj5m4j9ftsr/SFT%20Roof%20Saturday%20Part%201.mp3?dl=0)
+
+[Saturday Recording (Part 2)](https://www.dropbox.com/s/e7x7zcbi1anojkn/SFT%20Roof%20Saturday%20Part%202.mp3?dl=0)
+
+[Saturday Tracklist](lists/Fleet Week Saturday.txt)
+
+[Sunday Recording](https://www.dropbox.com/s/774e1z3n1c7733e/SFT%20Roof%20Sunday.mp3?dl=0)
+
+[Sunday Tracklist](lists/Fleet Week Sunday.txt)
