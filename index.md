@@ -1,6 +1,6 @@
 ![alt text](dj_website_boat.png)
 
-[Please like my Facebook page](https://www.facebook.com/djpeterhenryofficial/)
+Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
 # One For Carla
 2018-02-03.  Happy birthday Carla!  Maybe they'll let me turn it up next time...
