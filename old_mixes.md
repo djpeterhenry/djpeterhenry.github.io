@@ -34,6 +34,8 @@ From 2016.
 
 [Recording](https://www.dropbox.com/s/yosgl033evc3q7u/Just%20For%20Rebecca.mp3?dl=0)
 
+[Tracklist](Just For Rebecca.txt)
+
 # Solstice Parade
 From 2015.
 
