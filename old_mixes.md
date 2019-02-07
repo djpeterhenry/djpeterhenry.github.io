@@ -12,7 +12,7 @@ From 2017.  A mix just for fun.
 
 [Tracklist](lists/1234.txt)
 
-#SFT Halloween
+# SFT Halloween
 
 Halloween 2016 at the SFT.
 
@@ -22,19 +22,19 @@ Halloween 2016 at the SFT.
 
 [Tracklist](lists/SFT Halloween.txt)
 
-#Rooftop Blast
+# Rooftop Blast
 From 2016.  You had to be there for part 2.
 
 [Recording](https://www.dropbox.com/s/q56iuv41jke9b8q/Rooftop%20Blast.mp3?dl=0)
 
 [Tracklist](lists/Rooftop Blast.txt)
 
-#Just For Rebecca
+# Just For Rebecca
 From 2016.
 
 [Recording](https://www.dropbox.com/s/yosgl033evc3q7u/Just%20For%20Rebecca.mp3?dl=0)
 
-#Solstice Parade
+# Solstice Parade
 From 2015.
 
 [Recording (Part 1)](https://www.dropbox.com/s/ulvp3to57k9cobe/Solstice%201.mp3?dl=0)
@@ -50,7 +50,7 @@ From 2015.
 
 [Tracklist](lists/Bees Knees.txt)
 
-#Royal Four To The Floor
+# Royal Four To The Floor
 2015-02-27.  @ Royal Bar & Patio
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Froyal-four-to-the-floor%2F" frameborder="0" ></iframe>
@@ -59,13 +59,13 @@ From 2015.
 
 [Tracklist](lists/Royal Four To The Floor.txt)
 
-#Royal Bar & Patio 3
+# Royal Bar & Patio 3
 
 [Recording](https://www.dropbox.com/s/oj8wlwkk8k5v006/Royal%203.mp3?dl=0)
 
 [Tracklist](lists/Royal 3.txt)
 
-#Tailgait
+# Tailgait
 Recorded at a UW tailgate party in 2015.  
 
 That dude with the trumpet played along at the end (sadly not in the recording).
@@ -74,7 +74,7 @@ That dude with the trumpet played along at the end (sadly not in the recording).
 
 [Tracklist](lists/Tailgate.txt)
 
-#The Contented Cow
+# The Contented Cow
 From 2014.
 
 [Recording](https://www.dropbox.com/s/fe0r22akd390ia2/The%20Contented%20Cow%202014.mp3?dl=0)
