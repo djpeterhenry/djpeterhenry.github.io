@@ -12,6 +12,55 @@ title: Old Mixes
 
 [Tracklist](lists/1234.txt)
 
+#SFT Halloween
+
+Halloween 2016 at the SFT.
+
+[Part 1](https://www.dropbox.com/s/1ws1w3a9vmo7w79/SFT%20Halloween%20Part%201.mp3?dl=0)
+
+[Part 2](https://www.dropbox.com/s/9r4ritay1nat3sg/SFT%20Halloween%20Part%202.mp3?dl=0)
+
+[Tracklist](lists/SFT Halloween.txt)
+
+#Rooftop Blast
+From 2016.  You had to be there for part 2.
+
+[Recording](https://www.dropbox.com/s/q56iuv41jke9b8q/Rooftop%20Blast.mp3?dl=0)
+
+[Tracklist](lists/Rooftop Blast.txt)
+
+#Just For Rebecca
+From 2016.
+
+[Recording](https://www.dropbox.com/s/yosgl033evc3q7u/Just%20For%20Rebecca.mp3?dl=0)
+
+
+
+#Solstice Parade
+From 2015.
+
+[Recording (Part 1)](https://www.dropbox.com/s/ulvp3to57k9cobe/Solstice%201.mp3?dl=0)
+[Recording (Part 2)](https://www.dropbox.com/s/zlgozuva54x6q1l/Solstice%202.mp3?dl=0)
+[Recording (Part 3)](https://www.dropbox.com/s/q0azgstwx7fjyjb/Solstice%203.mp3?dl=0)
+
+[Tracklist](COMBINE!)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Woke Up Early
 
 2013.  Quite enjoyable!
@@ -29,8 +78,6 @@ title: Old Mixes
 [Recording](https://www.dropbox.com/s/pvdx39kxgzxgayv/It%27s%20Cool%20To%20Know%20Nothing.mp3?dl=0)
 
 [Tracklist](lists/It's Cool To Know Nothing.txt)
-
-href="https://www.dropbox.com/s/asnrc2yez8j0blk/It%27s%20Cool%20To%20Know%20Nothing.txt?dl=0">Tracklist</a></p>
 
 # Bitter Orange Marmalade
 
