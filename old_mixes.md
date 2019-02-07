@@ -27,6 +27,8 @@ Halloween 2016 at the SFT.
 # Rooftop Blast
 From 2016.  You had to be there for part 2.
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Frooftop-blast%2F" frameborder="0" ></iframe>
+
 [Recording](https://www.dropbox.com/s/q56iuv41jke9b8q/Rooftop%20Blast.mp3?dl=0)
 
 [Tracklist](lists/Rooftop Blast.txt)
@@ -34,12 +36,16 @@ From 2016.  You had to be there for part 2.
 # Just For Rebecca
 From 2016.
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fjust-for-rebecca%2F" frameborder="0" ></iframe>
+
 [Recording](https://www.dropbox.com/s/yosgl033evc3q7u/Just%20For%20Rebecca.mp3?dl=0)
 
 [Tracklist](lists/Just For Rebecca.txt)
 
 # Solstice Parade
 From 2015.
+
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fsolstice-2015%2F" frameborder="0" ></iframe>
 
 [Recording (Part 1)](https://www.dropbox.com/s/ulvp3to57k9cobe/Solstice%201.mp3?dl=0)
 
@@ -67,14 +73,16 @@ From 2015.
 
 # Royal Bar & Patio 3
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Froyal-bar-patio-3%2F" frameborder="0" ></iframe>
+
 [Recording](https://www.dropbox.com/s/oj8wlwkk8k5v006/Royal%203.mp3?dl=0)
 
 [Tracklist](lists/Royal 3.txt)
 
 # Tailgait
-Recorded at a UW tailgate party in 2015.  
+Recorded at a UW tailgate party in 2015.  That dude with the trumpet played along at the end (sadly not in the recording).
 
-That dude with the trumpet played along at the end (sadly not in the recording).
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Ftailgate%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/4lk6k6443y28ovt/Tailgate.mp3?dl=0)
 
@@ -82,6 +90,8 @@ That dude with the trumpet played along at the end (sadly not in the recording).
 
 # The Contented Cow
 From 2014.
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fthe-contented-cow-2014%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/fe0r22akd390ia2/The%20Contented%20Cow%202014.mp3?dl=0)
 
@@ -108,6 +118,8 @@ From 2013.  Quite enjoyable!
 # It's Cool To Know Nothing
 
 From 2011. I’d caught that case of dubstep that was going around.
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fits-cool-to-know-nothing%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/pvdx39kxgzxgayv/It%27s%20Cool%20To%20Know%20Nothing.mp3?dl=0)
 
@@ -147,6 +159,8 @@ Summer 2007.  Recorded live on vinyl.  There’s some fun live mashups using voc
 
 From 2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
 
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fenchanted-broccoli-forest%2F" frameborder="0" ></iframe>
+
 [Part 1 (Electro)](https://www.dropbox.com/s/ke75vqsv99cu7pr/Enchanted%20Broccoli%20Forest%201%20%28Electro%29.mp3?dl=0)
 
 [Part 2 (Breakbeats)](https://www.dropbox.com/s/kx2u5yq03vw90i5/Enchanted%20Broccoli%20Forest%202%20%28Breakbeats%29.mp3?dl=0)
@@ -155,7 +169,9 @@ From 2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
 
 # Breakbeat Mix
 
-Maybe 2004?  One of my first proper mixes. Recorded live on vinyl, naturally.
+From 2004.  One of my first proper mixes. Recorded live on vinyl, naturally.
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fbreakbeat-mix%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/mcvf5bve2tcd9na/Breakbeat%20Mix.mp3?dl=0)
 
