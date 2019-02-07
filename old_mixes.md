@@ -42,12 +42,23 @@ Summer 2007.  Recorded live on vinyl.  There’s some fun live mashups using voc
 
 [Tracklist](lists/Live From Neverland.txt)
 
+# Enchanted Broccoli Forest
+
+2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
+
+[Part 1 (Electro)](https://www.dropbox.com/s/ke75vqsv99cu7pr/Enchanted%20Broccoli%20Forest%201%20%28Electro%29.mp3?dl=0)
+
+[Part 2 (Breakbeats)](https://www.dropbox.com/s/kx2u5yq03vw90i5/Enchanted%20Broccoli%20Forest%202%20%28Breakbeats%29.mp3?dl=0)
+
+[Tracklist](lists/Enchanted Broccoli Forest.txt)
+
 # Breakbeat Mix
 
-Maybe 2004?  One of my first proper mixes. Recorded live on vinyl, naturally
+Maybe 2004?  One of my first proper mixes. Recorded live on vinyl, naturally.
 
 [Recording](https://www.dropbox.com/s/mcvf5bve2tcd9na/Breakbeat%20Mix.mp3?dl=0)
 
 [Tracklist](lists/Breakbeat Mix.txt)
+
 
 
