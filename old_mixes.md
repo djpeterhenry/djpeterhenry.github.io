@@ -4,7 +4,7 @@ title: Old Mixes
 
 # 1234
 
-2017.  A mix just for fun.
+From 2017.  A mix just for fun.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2F1234%2F" frameborder="0" ></iframe>
 
@@ -65,13 +65,6 @@ From 2015.
 
 [Tracklist](lists/Royal 3.txt)
 
-#The Contented Cow
-From 2014.
-
-[Recording](https://www.dropbox.com/s/fe0r22akd390ia2/The%20Contented%20Cow%202014.mp3?dl=0)
-
-[Tracklist](lists/The Contented Cow 2014.txt)
-
 #Tailgait
 Recorded at a UW tailgate party in 2015.  
 
@@ -81,6 +74,15 @@ That dude with the trumpet played along at the end (sadly not in the recording).
 
 [Tracklist](lists/Tailgate.txt)
 
+#The Contented Cow
+From 2014.
+
+[Recording](https://www.dropbox.com/s/fe0r22akd390ia2/The%20Contented%20Cow%202014.mp3?dl=0)
+
+[Tracklist](lists/The Contented Cow 2014.txt)
+
+
+
 #Golden Gardens
 
 TODO
@@ -89,7 +91,7 @@ TODO
 
 # Woke Up Early
 
-2013.  Quite enjoyable!
+From 2013.  Quite enjoyable!
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fwoke-up-early%2F" frameborder="0" ></iframe>
 
@@ -99,7 +101,7 @@ TODO
 
 # It's Cool To Know Nothing
 
-2011. I’d caught that case of dubstep that was going around.
+From 2011. I’d caught that case of dubstep that was going around.
 
 [Recording](https://www.dropbox.com/s/pvdx39kxgzxgayv/It%27s%20Cool%20To%20Know%20Nothing.mp3?dl=0)
 
@@ -107,7 +109,7 @@ TODO
 
 # Bitter Orange Marmalade
 
-2011.  Still enjoy this one for sure.
+From 2011.  Still enjoy this one for sure.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fbitter-orange-marmalade%2F" frameborder="0" ></iframe>
 
@@ -117,7 +119,7 @@ TODO
 
 # Left To My Own Devices
 
-2009.  My first all-digital mix.  Plenty of fun live mashups.
+From 2009.  My first all-digital mix.  Plenty of fun live mashups.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fleft-to-my-own-devices%2F" frameborder="0" ></iframe>
 
@@ -137,7 +139,7 @@ Summer 2007.  Recorded live on vinyl.  There’s some fun live mashups using voc
 
 # Enchanted Broccoli Forest
 
-2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
+From 2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
 
 [Part 1 (Electro)](https://www.dropbox.com/s/ke75vqsv99cu7pr/Enchanted%20Broccoli%20Forest%201%20%28Electro%29.mp3?dl=0)
 
@@ -152,7 +154,6 @@ Maybe 2004?  One of my first proper mixes. Recorded live on vinyl, naturally.
 [Recording](https://www.dropbox.com/s/mcvf5bve2tcd9na/Breakbeat%20Mix.mp3?dl=0)
 
 [Tracklist](lists/Breakbeat Mix.txt)
-
 
 
 
