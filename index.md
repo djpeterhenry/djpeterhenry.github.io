@@ -1,3 +1,7 @@
+---
+title: djpeterhenry.com
+---
+
 ![alt text](dj_website_boat.png)
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
