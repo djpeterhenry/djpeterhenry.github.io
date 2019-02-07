@@ -34,8 +34,6 @@ From 2016.
 
 [Recording](https://www.dropbox.com/s/yosgl033evc3q7u/Just%20For%20Rebecca.mp3?dl=0)
 
-
-
 #Solstice Parade
 From 2015.
 
@@ -43,21 +41,49 @@ From 2015.
 [Recording (Part 2)](https://www.dropbox.com/s/zlgozuva54x6q1l/Solstice%202.mp3?dl=0)
 [Recording (Part 3)](https://www.dropbox.com/s/q0azgstwx7fjyjb/Solstice%203.mp3?dl=0)
 
-[Tracklist](COMBINE!)
+[Tracklist](lists/Solstice.txt)
 
+#Bees Knees
+From 2015.
 
+[Recording](https://www.dropbox.com/s/o1lg42anx0cxyop/Bees%20Knees.mp3?dl=0)
 
+[Tracklist](lists/Bees Knees.txt)
 
+#Royal Four To The Floor
+2015-02-27.  @ Royal Bar & Patio
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Froyal-four-to-the-floor%2F" frameborder="0" ></iframe>
 
+[Recording](https://www.dropbox.com/s/3tav5a1rutue8jn/Royal%20Four%20To%20The%20Floor.mp3?dl=0)
 
+[Tracklist](lists/Royal Four To The Floor.txt)
 
+#Royal Bar & Patio 3
 
+[Recording](https://www.dropbox.com/s/oj8wlwkk8k5v006/Royal%203.mp3?dl=0)
 
+[Tracklist](lists/Royal 3.txt)
 
+#The Contented Cow
+From 2014.
 
+[Recording](https://www.dropbox.com/s/fe0r22akd390ia2/The%20Contented%20Cow%202014.mp3?dl=0)
 
+[Tracklist](lists/The Contented Cow 2014.txt)
 
+#Tailgait
+Recorded at a UW tailgate party in 2015.  
+
+That dude with the trumpet played along at the end (sadly not in the recording).
+
+[Recording](https://www.dropbox.com/s/4lk6k6443y28ovt/Tailgate.mp3?dl=0)
+
+[Tracklist](lists/Tailgate.txt)
+
+#Golden Gardens
+
+TODO
 
 
 
