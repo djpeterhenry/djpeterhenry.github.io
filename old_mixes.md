@@ -3,7 +3,6 @@ title: Old Mixes
 ---
 
 # 1234
-
 From 2017.  A mix just for fun.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2F1234%2F" frameborder="0" ></iframe>
@@ -13,7 +12,6 @@ From 2017.  A mix just for fun.
 [Tracklist](lists/1234.txt)
 
 # SFT Halloween
-
 Halloween 2016 at the SFT.
 
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fsft-halloween%2F" frameborder="0" ></iframe>
@@ -74,6 +72,7 @@ From 2015.
 [Tracklist](lists/Royal Four To The Floor.txt)
 
 # Royal Bar & Patio 3
+Another night recorded at Royal Bar & Patio.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Froyal-bar-patio-3%2F" frameborder="0" ></iframe>
 
@@ -100,8 +99,9 @@ From 2014.
 [Tracklist](lists/The Contented Cow 2014.txt)
 
 # Golden Gardens 5
-
 From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
+
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fgolden-gardens-5%2F" frameborder="0" ></iframe>
 
 [Recording (Part 1)](https://www.dropbox.com/s/038skeh7gzgkbt0/Golden%20Gardens%205%20%28Part%201%29.mp3?dl=0)
 
@@ -112,7 +112,6 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 [Tracklist](lists/Golden Gardens 5.txt)
 
 # Golden Gardens 3
-
 2014-08-02.  The first time I used my new JBL speakers!
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-3%2F" frameborder="0" ></iframe>
@@ -122,7 +121,6 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 [Tracklist](lists/Golden Gardens 3.txt)
 
 # Golden Gardens 2
-
 2014-07-26.  At the beach again.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-2%2F" frameborder="0" ></iframe>
@@ -132,7 +130,6 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 [Tracklist](lists/Golden Gardens 2.txt)
 
 # Golden Gardens 1
-
 2014-07-08.  First time at the beach!
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-1%2F" frameborder="0" ></iframe>
@@ -142,17 +139,15 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 [Tracklist](lists/Golden Gardens 1.txt)
 
 # Sunday Morning
+2014-07-06.  On Gerry's deck while the more athletically inclined were embroiled in a gambit.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fsunday-morning%2F" frameborder="0" ></iframe>
-
-2014-07-06.  On Gerry's deck while the more athletically inclined were embroiled in a gambit.
 
 [Recording](https://www.dropbox.com/s/7e1hesnw465zzj7/Sunday%20Morning.mp3?dl=0)
 
 [Tracklist](lists/Sunday Morning.txt)
 
 # Woke Up Early
-
 From 2013.  Quite enjoyable!
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fwoke-up-early%2F" frameborder="0" ></iframe>
@@ -162,7 +157,6 @@ From 2013.  Quite enjoyable!
 [Tracklist](lists/Woke Up Early.txt)
 
 # It's Cool To Know Nothing
-
 From 2011. I’d caught that case of dubstep that was going around.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fits-cool-to-know-nothing%2F" frameborder="0" ></iframe>
@@ -172,7 +166,6 @@ From 2011. I’d caught that case of dubstep that was going around.
 [Tracklist](lists/It's Cool To Know Nothing.txt)
 
 # Bitter Orange Marmalade
-
 From 2011.  Still enjoy this one for sure.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fbitter-orange-marmalade%2F" frameborder="0" ></iframe>
@@ -182,7 +175,6 @@ From 2011.  Still enjoy this one for sure.
 [Tracklist](lists/Bitter Orange Marmalade.txt)
 
 # Left To My Own Devices
-
 From 2009.  My first all-digital mix.  Plenty of fun live mashups.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fleft-to-my-own-devices%2F" frameborder="0" ></iframe>
@@ -192,7 +184,6 @@ From 2009.  My first all-digital mix.  Plenty of fun live mashups.
 [Tracklist](lists/Left To My Own Devices.txt)
 
 # Live From Neverland
-
 Summer 2007.  Recorded live on vinyl.  There’s some fun live mashups using vocals from Ableton in here.  This is the last vinyl mix I ever made before I fully moved over to Ableton.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Flive-from-neverland%2F" frameborder="0" ></iframe>
@@ -202,7 +193,6 @@ Summer 2007.  Recorded live on vinyl.  There’s some fun live mashups using voc
 [Tracklist](lists/Live From Neverland.txt)
 
 # Enchanted Broccoli Forest
-
 From 2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
 
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fenchanted-broccoli-forest%2F" frameborder="0" ></iframe>
@@ -214,7 +204,6 @@ From 2006.  Mixed live on vinyl at the Enchanted Broccoli Forest!
 [Tracklist](lists/Enchanted Broccoli Forest.txt)
 
 # Breakbeat Mix
-
 From 2004.  One of my first proper mixes. Recorded live on vinyl, naturally.
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fbreakbeat-mix%2F" frameborder="0" ></iframe>
@@ -222,6 +211,4 @@ From 2004.  One of my first proper mixes. Recorded live on vinyl, naturally.
 [Recording](https://www.dropbox.com/s/mcvf5bve2tcd9na/Breakbeat%20Mix.mp3?dl=0)
 
 [Tracklist](lists/Breakbeat Mix.txt)
-
-
 
