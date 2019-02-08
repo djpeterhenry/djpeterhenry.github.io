@@ -115,6 +115,8 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 
 2014-08-02.  The first time I used my new JBL speakers!
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-3%2F" frameborder="0" ></iframe>
+
 [Recording](https://www.dropbox.com/s/e7d4c76hnhqzfs7/Golden%20Gardens%203.mp3?dl=0)
 
 [Tracklist](lists/Golden Gardens 3.txt)
@@ -122,6 +124,8 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 # Golden Gardens 2
 
 2014-07-26.  At the beach again.
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-2%2F" frameborder="0" ></iframe>
 
 [Recording](https://www.dropbox.com/s/23cb6iuncm0g59u/Golden%20Gardens%202.mp3?dl=0)
 
@@ -131,11 +135,15 @@ From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 
 2014-07-08.  First time at the beach!
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fgolden-gardens-1%2F" frameborder="0" ></iframe>
+
 [Recording](https://www.dropbox.com/s/t5cwny0f9psqs00/Golden%20Gardens%201.mp3?dl=0)
 
 [Tracklist](lists/Golden Gardens 1.txt)
 
 # Sunday Morning
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fsunday-morning%2F" frameborder="0" ></iframe>
 
 2014-07-06.  On Gerry's deck while the more athletically inclined were embroiled in a gambit.
 
