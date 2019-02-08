@@ -99,13 +99,49 @@ From 2014.
 
 [Tracklist](lists/The Contented Cow 2014.txt)
 
+# Golden Gardens 5
 
+From 2014.  Another great day DJing at Golden Gardens beach in Seattle.
 
-#Golden Gardens
+[Recording (Part 1)](https://www.dropbox.com/s/038skeh7gzgkbt0/Golden%20Gardens%205%20%28Part%201%29.mp3?dl=0)
 
-TODO
+[Recording (Part 2)](https://www.dropbox.com/s/00pwd8iha4d4nza/Golden%20Gardens%205%20%28Part%202%29.mp3?dl=0)
 
+[Recording (Part 3)](https://www.dropbox.com/s/1zxgbs2jktnct26/Golden%20Gardens%205%20%28Part%203%29.mp3?dl=0)
 
+[Tracklist](lists/Golden Gardens 5.txt)
+
+# Golden Gardens 3
+
+2014-08-02.  The first time I used my new JBL speakers!
+
+[Recording](https://www.dropbox.com/s/e7d4c76hnhqzfs7/Golden%20Gardens%203.mp3?dl=0)
+
+[Tracklist](lists/Golden Gardens 3.txt)
+
+# Golden Gardens 2
+
+2014-07-26.  At the beach again.
+
+[Recording](https://www.dropbox.com/s/23cb6iuncm0g59u/Golden%20Gardens%202.mp3?dl=0)
+
+[Tracklist](lists/Golden Gardens 2.txt)
+
+# Golden Gardens 1
+
+2014-07-08.  First time at the beach!
+
+[Recording](https://www.dropbox.com/s/t5cwny0f9psqs00/Golden%20Gardens%201.mp3?dl=0)
+
+[Tracklist](lists/Golden Gardens 1.txt)
+
+# Sunday Morning
+
+2014-07-06.  On Gerry's deck while the more athletically inclined were embroiled in a gambit.
+
+[Recording](https://www.dropbox.com/s/7e1hesnw465zzj7/Sunday%20Morning.mp3?dl=0)
+
+[Tracklist](lists/Sunday Morning.txt)
 
 # Woke Up Early
 
