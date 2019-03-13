@@ -174,6 +174,15 @@ From 2011.  Still enjoy this one for sure.
 
 [Tracklist](lists/Bitter Orange Marmalade.txt)
 
+# A Tasty Tidbit
+From 2009.  One day we're gonna live in Paris.
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fa-tasty-tidbit%2F" frameborder="0" ></iframe>
+
+[Recording](https://www.dropbox.com/s/9y4d6n477by9s61/A%20Tasty%20Tidbit.mp3?dl=0)
+
+[Tracklist](lists/A Tasty Tidbit.txt)
+
 # Left To My Own Devices
 From 2009.  My first all-digital mix.  Plenty of fun live mashups.
 
