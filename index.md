@@ -7,7 +7,7 @@ title: djpeterhenry.com
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
 # Music In The Meadows 2
-2019-04-28.  Another beautiful day in the park.
+2019-04-28.  Another beautiful day in the park.  Sharing the tables with Loic Tambay and Peter Clarke.
 
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fmusic-in-the-meadows-2%2F" frameborder="0" ></iframe>
 
@@ -16,7 +16,7 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [Part 2 Recording](https://www.dropbox.com/s/d258a0jq8ouzsuc/Music%20In%20The%20Meadows%202%20%28Part%202%29.mp3?dl=0)
 
 # Music In The Meadows
-2019-03-31.  Met on Thursday, partied on Sunday.  Sharing the vibe with Loic Tambay and Andy Koch.
+2019-03-31.  Met on Thursday, partied on Sunday.  Sharing the tables with Loic Tambay and Andy Koch.
 
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fmusic-in-the-meadows%2F" frameborder="0" ></iframe>
 
