@@ -6,6 +6,43 @@ title: djpeterhenry.com
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
+# Shasta 2019
+2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.  Tracklists are coming...until then, ask me about ones you like!
+
+[Thursday Night Part 1](https://www.dropbox.com/s/y1cjtanjui5kpur/Shasta%202019%20Thursday%20Night%20Part%201.mp3?dl=0)
+
+[Thursday Night Part 2](https://www.dropbox.com/s/sqcpxw1khi9op7b/Shasta%202019%20Thursday%20Night%20Part%202.mp3?dl=0)
+
+[Thursday Night Part 3](https://www.dropbox.com/s/2x3mcunutsme8vx/Shasta%202019%20Thursday%20Night%20Part%203.mp3?dl=0)
+
+[Friday Afternoon Part 1](https://www.dropbox.com/s/xiacpqccanhfsqy/Shasta%202019%20Friday%20Afternoon%20Part%201.mp3?dl=0)
+
+[Friday Afternoon Part 2](https://www.dropbox.com/s/36lc0rv61zo9kci/Shasta%202019%20Friday%20Afternoon%20Part%202.mp3?dl=0)
+
+[Friday Night Part 1](https://www.dropbox.com/s/ajse4vtv4lqvs49/Shasta%202019%20Friday%20Night%20Part%201.mp3?dl=0)
+
+[Friday Night Part 2](https://www.dropbox.com/s/22p699cncus8viv/Shasta%202019%20Friday%20Night%20Part%202.mp3?dl=0)
+
+[Saturday Afternoon Part 1](https://www.dropbox.com/s/c84n33qja6g1yvg/Shasta%202019%20Saturday%20Afternoon%20Part%201.mp3?dl=0)
+
+[Saturday Afternoon Part 2](https://www.dropbox.com/s/qasc0babl6icynh/Shasta%202019%20Saturday%20Afternoon%20Part%202.mp3?dl=0)
+
+[Saturday Afternoon Part 3](https://www.dropbox.com/s/1fue12tx2b8bfv1/Shasta%202019%20Saturday%20Afternoon%20Part%203.mp3?dl=0)
+
+[Saturday Afternoon Part 4](https://www.dropbox.com/s/q3zi31wwkiw2aj2/Shasta%202019%20Saturday%20Afternoon%20Part%204.mp3?dl=0)
+
+[Sunday Afternoon Part 1](https://www.dropbox.com/s/y83r0uxlyemginc/Shasta%202019%20Sunday%20Afternoon%20Part%201.mp3?dl=0)
+
+[Sunday Afternoon Part 2](https://www.dropbox.com/s/svijw6zbbsfpyfc/Shasta%202019%20Sunday%20Afternoon%20Part%202.mp3?dl=0)
+
+[Sunday Afternoon Part 3](https://www.dropbox.com/s/1qjc2x2l99ftc09/Shasta%202019%20Sunday%20Afternoon%20Part%203.mp3?dl=0)
+
+[Sunday Afternoon Part 4](https://www.dropbox.com/s/jiprx8dypyn4id4/Shasta%202019%20Sunday%20Afternoon%20Part%204.mp3?dl=0)
+
+[Sunday Night Part 1](https://www.dropbox.com/s/2k42h2i58tb49by/Shasta%202019%20Sunday%20Night%20Part%201.mp3?dl=0)
+
+[Sunday Night Part 2](https://www.dropbox.com/s/akw385vbqf9o38h/Shasta%202019%20Sunday%20Night%20Part%202.mp3?dl=0)
+
 # Music In The Meadows 2
 2019-04-28.  Another beautiful day in the park.  Sharing the tables with Loic Tambay and Peter Clarke.
 
