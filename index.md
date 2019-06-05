@@ -18,7 +18,8 @@ Friday:
 Saturday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-saturday%2F" frameborder="0" ></iframe>
 
-Sunday: (coming soon)
+Sunday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-sunday%2F" frameborder="0" ></iframe>
 
 [Thursday Night Part 1](https://www.dropbox.com/s/y1cjtanjui5kpur/Shasta%202019%20Thursday%20Night%20Part%201.mp3?dl=0)
 
