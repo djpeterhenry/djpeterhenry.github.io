@@ -9,23 +9,17 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 # Shasta 2019
 2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.  Tracklists are coming...until then, ask me about ones you like!
 
-Thursday:
+## Thursday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-thursday%2F" frameborder="0" ></iframe>
-
-Friday:
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-friday%2F" frameborder="0" ></iframe>
-
-Saturday:
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-saturday%2F" frameborder="0" ></iframe>
-
-Sunday:
-<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-sunday%2F" frameborder="0" ></iframe>
 
 [Thursday Night Part 1](https://www.dropbox.com/s/y1cjtanjui5kpur/Shasta%202019%20Thursday%20Night%20Part%201.mp3?dl=0)
 
 [Thursday Night Part 2](https://www.dropbox.com/s/sqcpxw1khi9op7b/Shasta%202019%20Thursday%20Night%20Part%202.mp3?dl=0)
 
 [Thursday Night Part 3](https://www.dropbox.com/s/2x3mcunutsme8vx/Shasta%202019%20Thursday%20Night%20Part%203.mp3?dl=0)
+
+## Friday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-friday%2F" frameborder="0" ></iframe>
 
 [Friday Afternoon Part 1](https://www.dropbox.com/s/xiacpqccanhfsqy/Shasta%202019%20Friday%20Afternoon%20Part%201.mp3?dl=0)
 
@@ -35,6 +29,9 @@ Sunday:
 
 [Friday Night Part 2](https://www.dropbox.com/s/22p699cncus8viv/Shasta%202019%20Friday%20Night%20Part%202.mp3?dl=0)
 
+## Saturday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-saturday%2F" frameborder="0" ></iframe>
+
 [Saturday Afternoon Part 1](https://www.dropbox.com/s/c84n33qja6g1yvg/Shasta%202019%20Saturday%20Afternoon%20Part%201.mp3?dl=0)
 
 [Saturday Afternoon Part 2](https://www.dropbox.com/s/qasc0babl6icynh/Shasta%202019%20Saturday%20Afternoon%20Part%202.mp3?dl=0)
@@ -42,6 +39,9 @@ Sunday:
 [Saturday Afternoon Part 3](https://www.dropbox.com/s/1fue12tx2b8bfv1/Shasta%202019%20Saturday%20Afternoon%20Part%203.mp3?dl=0)
 
 [Saturday Afternoon Part 4](https://www.dropbox.com/s/q3zi31wwkiw2aj2/Shasta%202019%20Saturday%20Afternoon%20Part%204.mp3?dl=0)
+
+## Sunday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-sunday%2F" frameborder="0" ></iframe>
 
 [Sunday Afternoon Part 1](https://www.dropbox.com/s/y83r0uxlyemginc/Shasta%202019%20Sunday%20Afternoon%20Part%201.mp3?dl=0)
 
