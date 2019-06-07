@@ -25,53 +25,53 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-friday%2F" frameborder="0" ></iframe>
 
 [Friday Afternoon Part 1](https://www.dropbox.com/s/xiacpqccanhfsqy/Shasta%202019%20Friday%20Afternoon%20Part%201.mp3?dl=0)
-[Tracklist](lists/fri_a1.txt)
+- [Tracklist](lists/fri_a1.txt)
 
 [Friday Afternoon Part 2](https://www.dropbox.com/s/36lc0rv61zo9kci/Shasta%202019%20Friday%20Afternoon%20Part%202.mp3?dl=0)
-[Tracklist](lists/fri_a2.txt)
+- [Tracklist](lists/fri_a2.txt)
 
 [Friday Night Part 1](https://www.dropbox.com/s/ajse4vtv4lqvs49/Shasta%202019%20Friday%20Night%20Part%201.mp3?dl=0)
-[Tracklist](lists/fri_n1.txt)
+- [Tracklist](lists/fri_n1.txt)
 
 [Friday Night Part 2](https://www.dropbox.com/s/22p699cncus8viv/Shasta%202019%20Friday%20Night%20Part%202.mp3?dl=0)
-[Tracklist](lists/fri_n2.txt)
+- [Tracklist](lists/fri_n2.txt)
 
 
 ### Saturday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-saturday%2F" frameborder="0" ></iframe>
 
 [Saturday Afternoon Part 1](https://www.dropbox.com/s/c84n33qja6g1yvg/Shasta%202019%20Saturday%20Afternoon%20Part%201.mp3?dl=0)
-[Tracklist](lists/sat_1.txt)
+- [Tracklist](lists/sat_1.txt)
 
 [Saturday Afternoon Part 2](https://www.dropbox.com/s/qasc0babl6icynh/Shasta%202019%20Saturday%20Afternoon%20Part%202.mp3?dl=0)
-[Tracklist](lists/sat_2.txt)
+- [Tracklist](lists/sat_2.txt)
 
 [Saturday Afternoon Part 3](https://www.dropbox.com/s/1fue12tx2b8bfv1/Shasta%202019%20Saturday%20Afternoon%20Part%203.mp3?dl=0)
-[Tracklist](lists/sat_3.txt)
+- [Tracklist](lists/sat_3.txt)
 
 [Saturday Afternoon Part 4](https://www.dropbox.com/s/q3zi31wwkiw2aj2/Shasta%202019%20Saturday%20Afternoon%20Part%204.mp3?dl=0)
-[Tracklist](lists/sat_4.txt)
+- [Tracklist](lists/sat_4.txt)
 
 ### Sunday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-sunday%2F" frameborder="0" ></iframe>
 
 [Sunday Afternoon Part 1](https://www.dropbox.com/s/y83r0uxlyemginc/Shasta%202019%20Sunday%20Afternoon%20Part%201.mp3?dl=0)
-[Tracklist](lists/sun_a1.1.txt)
+- [Tracklist](lists/sun_a1.1.txt)
 
 [Sunday Afternoon Part 2](https://www.dropbox.com/s/svijw6zbbsfpyfc/Shasta%202019%20Sunday%20Afternoon%20Part%202.mp3?dl=0)
-[Tracklist](lists/sun_a2.txt)
+- [Tracklist](lists/sun_a2.txt)
 
 [Sunday Afternoon Part 3](https://www.dropbox.com/s/1qjc2x2l99ftc09/Shasta%202019%20Sunday%20Afternoon%20Part%203.mp3?dl=0)
-[Tracklist](lists/sun_a3.txt)
+- [Tracklist](lists/sun_a3.txt)
 
 [Sunday Afternoon Part 4](https://www.dropbox.com/s/jiprx8dypyn4id4/Shasta%202019%20Sunday%20Afternoon%20Part%204.mp3?dl=0)
-[Tracklist](lists/sun_a4.txt)
+- [Tracklist](lists/sun_a4.txt)
 
 [Sunday Night Part 1](https://www.dropbox.com/s/2k42h2i58tb49by/Shasta%202019%20Sunday%20Night%20Part%201.mp3?dl=0)
-[Tracklist](lists/sun_n1.txt)
+- [Tracklist](lists/sun_n1.txt)
 
 [Sunday Night Part 2](https://www.dropbox.com/s/akw385vbqf9o38h/Shasta%202019%20Sunday%20Night%20Part%202.mp3?dl=0)
-[Tracklist](lists/sun_n2.txt)
+- [Tracklist](lists/sun_n2.txt)
 
 # Music In The Meadows 2
 2019-04-28.  Another beautiful day in the park.  Sharing the tables with Loic Tambay and Peter Clarke.
