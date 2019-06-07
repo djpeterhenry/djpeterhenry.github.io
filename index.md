@@ -13,13 +13,13 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-thursday%2F" frameborder="0" ></iframe>
 
 [Thursday Night Part 1](https://www.dropbox.com/s/y1cjtanjui5kpur/Shasta%202019%20Thursday%20Night%20Part%201.mp3?dl=0)
-- [Tracklist](lists/thu_1.txt)
+ : [Tracklist](lists/thu_1.txt)
 
 [Thursday Night Part 2](https://www.dropbox.com/s/sqcpxw1khi9op7b/Shasta%202019%20Thursday%20Night%20Part%202.mp3?dl=0)
-- [Tracklist](lists/thu_2.txt)
+ : [Tracklist](lists/thu_2.txt)
 
 [Thursday Night Part 3](https://www.dropbox.com/s/2x3mcunutsme8vx/Shasta%202019%20Thursday%20Night%20Part%203.mp3?dl=0)
-- [Tracklist](lists/thu_3.txt)
+ : [Tracklist](lists/thu_3.txt)
 
 ### Friday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-friday%2F" frameborder="0" ></iframe>
