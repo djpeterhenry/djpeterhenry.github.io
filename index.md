@@ -7,7 +7,7 @@ title: djpeterhenry.com
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
 # Shasta 2019
-2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.  Tracklists are coming...until then, ask me about ones you like!
+2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.
 
 ### Thursday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-thursday%2F" frameborder="0" ></iframe>
