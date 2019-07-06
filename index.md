@@ -56,10 +56,10 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2019-sunday%2F" frameborder="0" ></iframe>
 
 [Sunday Afternoon Part 1](https://www.dropbox.com/s/y83r0uxlyemginc/Shasta%202019%20Sunday%20Afternoon%20Part%201.mp3?dl=0)
-[(Tracklist)](lists/sun_a1.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday A1.txt)
 
 [Sunday Afternoon Part 2](https://www.dropbox.com/s/svijw6zbbsfpyfc/Shasta%202019%20Sunday%20Afternoon%20Part%202.mp3?dl=0)
-[(Tracklist)](lists/sun_a2.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday A2.txt)
 
 [Sunday Afternoon Part 3](https://www.dropbox.com/s/1qjc2x2l99ftc09/Shasta%202019%20Sunday%20Afternoon%20Part%203.mp3?dl=0)
 [(Tracklist)](lists/sun_a3.txt)
