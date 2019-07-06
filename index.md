@@ -62,16 +62,16 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [(Tracklist)](lists/Shasta 2019 Sunday A2.txt)
 
 [Sunday Afternoon Part 3](https://www.dropbox.com/s/1qjc2x2l99ftc09/Shasta%202019%20Sunday%20Afternoon%20Part%203.mp3?dl=0)
-[(Tracklist)](lists/sun_a3.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday A3.txt)
 
 [Sunday Afternoon Part 4](https://www.dropbox.com/s/jiprx8dypyn4id4/Shasta%202019%20Sunday%20Afternoon%20Part%204.mp3?dl=0)
-[(Tracklist)](lists/sun_a4.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday A4.txt)
 
 [Sunday Night Part 1](https://www.dropbox.com/s/2k42h2i58tb49by/Shasta%202019%20Sunday%20Night%20Part%201.mp3?dl=0)
-[(Tracklist)](lists/sun_n1.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday N1.txt)
 
 [Sunday Night Part 2](https://www.dropbox.com/s/akw385vbqf9o38h/Shasta%202019%20Sunday%20Night%20Part%202.mp3?dl=0)
-[(Tracklist)](lists/sun_n2.txt)
+[(Tracklist)](lists/Shasta 2019 Sunday N2.txt)
 
 # Music In The Meadows 2
 2019-04-28.  Another beautiful day in the park.  Sharing the tables with Loic Tambay and Peter Clarke.
