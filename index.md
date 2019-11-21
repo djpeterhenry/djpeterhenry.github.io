@@ -6,7 +6,7 @@ title: djpeterhenry.com
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
-[Collection](Collection)
+[Collection](collection)
 
 # Shasta 2019
 2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.
