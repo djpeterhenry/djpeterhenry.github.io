@@ -6,7 +6,9 @@ title: djpeterhenry.com
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
-[Collection](collection)
+[Touch](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/date_or_add.txt)
+[Name](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/name.txt)
+[Num](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/num.txt)
 
 # Shasta 2019
 2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.
