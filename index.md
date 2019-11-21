@@ -6,10 +6,10 @@ title: djpeterhenry.com
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
-[(Touch)](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/date_or_add.txt)
-[(New)](https://github.com/djpeterhenry/djpeterhenry.github.io/blob/master/collection/add.txt)
-[(Name)](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/name.txt)
-[(Number)](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/num.txt)
+[(Touch)](collection/date_or_add.txt)
+[(New)](collection/add.txt)
+[(Name)](collection/name.txt)
+[(Number)](collection/num.txt)
 
 # Shasta 2019
 2019-05-23 to 2019-05-27.  On Shasta Lake playing for days.
