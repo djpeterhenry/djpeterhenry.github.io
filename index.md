@@ -7,7 +7,7 @@ title: djpeterhenry.com
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
 [Touch](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/date_or_add.txt)
-[New}(https://github.com/djpeterhenry/djpeterhenry.github.io/blob/master/collection/add.txt)
+[New](https://github.com/djpeterhenry/djpeterhenry.github.io/blob/master/collection/add.txt)
 [Name](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/name.txt)
 [Num](https://raw.githubusercontent.com/djpeterhenry/djpeterhenry.github.io/master/collection/num.txt)
 
