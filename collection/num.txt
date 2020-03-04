@@ -202,6 +202,7 @@ James Hersey - Coming Over (Filous Remix)
 Kaskade - Disarm You (Acapella)
 London Elektricity - Just One Second (Apex Remix)
 Miguel Migs - What Do You Want (Rodriguez Jr Remix)
+Moony - Dove (I'll Be Loving You) (T&F vs. Moltosugo Radio Mix)
 Nero - Promises (Skrillex & Nero Remix)
 Olderic & Peter Pardeike - Connaisseur
 Phoebe Ryan - Mine (Elephante Remix Extended)
@@ -222,7 +223,6 @@ Holy Other - Held (Fort Romeau Remix)
 Kaskade - Turn It Down (Le Castle Vania Remix)
 Kav Verhouzer - It's All Good (Original Mix)
 Monkey Safari - Walls (Original Mix)
-Moony - Dove (I'll Be Loving You) (T&F vs. Moltosugo Radio Mix)
 Rihanna - Stay (Ghosts Edit)
 Sander van Doorn - Guitar Track (Sam Feldt Remix)
 Skrillex - With You Friends
@@ -268,6 +268,7 @@ Nora En Pure - Driving With Whales (Daniel Portman Remix)
 Porter Robinson - The Seconds (NGHTMRE & Davey Gray Remix)
 Skeletone & Silence Groove - Calling for You
 Syn Cole - Miami 82 (Vocal Mix)
+The Cure - Just Like Heaven (The Penelopes Remix)
 The Weeknd - Devil May Cry (Fabich & Ferdinand Weber Edit)
 Twin Shadow - Five Seconds
 Zhu - Moves Like Ms Jackson (Outkast Covers)
@@ -286,7 +287,6 @@ Purity Ring - Grammy (Soulja Boy Cover)
 Sam Smith - Stay With Me (Throttle Remix)
 Sash! - Ecuador (Wax Motif 2012 Wikileaks Remix)
 Silicone Soul - Devil Drives (Darkroom Dub)
-The Cure - Just Like Heaven (The Penelopes Remix)
 Todd Terje - Snooze 4 Love (Dixon Remix)
 Vijay & Sofia Zlatko - Wildest Dreams (Extended Mix)
 ASTR - Operate (The Chainsmokers Remix)
@@ -980,6 +980,7 @@ Oskar Karl & Carlotta - How Will I Know (Whitney Houston Cover)
 Paulo Rocha - Dreamwalker (Dancing In Our Sleep Mix)
 Pepe Bradock - Deep Burnt
 Robert Miles - Children (Eat More Cake Remix)
+Rockers Hi-Fi - Push Push (MANDY Pusher Remix)
 Royksopp - What Else Is There (Thin White Duke Mix)
 Russ Chimes - Turn Me Out (Extended Mix)
 Sam Feldt - Show Me Love
@@ -998,6 +999,7 @@ Annie - Heartbeat (Alan Braxe Remix)
 Aphex Twin - Bucephalus Bouncing Ball
 Atish - Peculiar Colors
 BAAL - Lumen
+Bicep - Glue (Original Mix)
 Birdy - Skinny Love (TEEMID Remix)
 Bit Funk & Shae Jacobs - Off The Ground (Extended)
 Blue Effect - Aquathought
@@ -1052,7 +1054,6 @@ REM - The Great Beyond (Hybrid Remix)
 Rachael Starr - Till There Was You (John Creamer and Stephane K Club Mix)
 Radiohead - Nude (N8UR Dressed Up Mix)
 Red Carpet - Alright (Brad Carter Remix)
-Rockers Hi-Fi - Push Push (MANDY Pusher Remix)
 Sander Van Doorn & Martin Garrix & DVBBS - Gold Skies (Acapella)
 Sigma - Nobody To Love
 Solee - Sommerliebe (Eelke Kleijn Remix)
@@ -1107,6 +1108,7 @@ John Christian - Flight 643 (Tiesto Cover)
 Joshua Ryan - Pistolwhip (James Holden Remix)
 Kaskade & Felix Cartal - Fakin It
 Kaskade - Day Trippin' (feat. Estelle)
+Kidnap Kid - Stronger
 Klangkarussell - Sonnentanz (Sun Dont Shine)
 Krewella - Alive
 Laura Jansen - Use Somebody (Oliver Flohr Remix)
@@ -1144,7 +1146,6 @@ Axwell - I Found U (Matoma Remix)
 Bassnectar - Ephemeral
 Battlestar Galactica - Main Title (UK version)
 Beach House - Master of None
-Bicep - Glue (Original Mix)
 Bloc Party - One More Chance (Alex Metric Remix)
 Bonobo - Flashlight
 Bruno Mars - Locked Out Of Heaven (Cazzette's Answering Machine Remix)
@@ -1179,7 +1180,6 @@ Junior Boys - In The Morning (Hot Chip Remix)
 Kavinsky - Nightcall (Eewas Cesium Remix)
 Kid Loco - Love Me Sweet
 Kidnap Kid - Moments
-Kidnap Kid - Stronger
 Kill Paris - Baby Come Back
 Layo & Bushwacka! - It's Up To You (Lee Cabrera Remix)
 London Grammar - Wasting My Young Years (Sound Remedy Remix)
@@ -1289,6 +1289,7 @@ Micrologue - Tourmaline (Original Mix)
 Miguel Migs - Secrets
 Moby - Go (Victor Ruiz Warehouse Mix)
 Moloko - Sing It Back (Mousse T's Feel Love Mix)
+Monolink - Father Ocean (Ben Böhmer Remix)
 Mylo - Drop The Pressure (Rex The Dog Remix)
 New Order - Crystal (Lee Coombs Remix)
 Nick Warren, Tripswitch - Voight Kampff (Original Mix)
@@ -1377,7 +1378,6 @@ Michael Jackson - Billie Jean
 Mighty Mike - City Down Under (Men At Work vs M83)
 Mini Viva - Left My Heart In Tokyo (Fred Falke Dub Mix)
 Modest Mouse - Float On
-Monolink - Father Ocean (Ben Böhmer Remix)
 Montell Jordan - This Is How We Do It (Viceroy Jet Life Remix)
 Morgan Page - In The Air (Original Extended Mix)
 Morgan Page - The Longest Road (Deadmau5 Remix)
@@ -1619,6 +1619,7 @@ Nora En Pure - Sweet Melody
 Notorious B.I.G. - Hypnotize (Club Mix)
 Obadiah Parker - Hey Ya (unwarped)
 Passion Pit - Tonight Tonight (Smashing Pumpkins Cover)
+Pete Heller - Big Love (Dr Packer Extended Remix)
 Pony Pony Run Run - Hey You (Disco Wizards Remix)
 Pryda - Allein (Original Mix)
 Radiohead - Stop Whispering
@@ -1766,7 +1767,6 @@ Owl Eyes - Something About Us (Daft Punk Cover)
 Passion Pit - Sleepyhead (Cerulean City Remix)
 Patterns - Sunny Days (Fred Falke Remix)
 Paul Simon - You Can Call Me Al (Flight Facilities Edit)
-Pete Heller - Big Love (Dr Packer Extended Remix)
 Pete Heller - Big Love
 Peter Pardeike - Love Supreme (Original Mix)
 Powel - Hor
@@ -1806,6 +1806,7 @@ Vindata - All I Really Need (Regulated Edition)
 Way Out West - Tuesday Maybe (Modd Extended Mix)
 Whilk & Misky - Clap Your Hands (Solomun Remix)
 WoodS (NL) - Desert Storms (Joris Voorn Remix)
+Yotto - North (Original Mix)
 Zedd - Stay the Night (Liquid Stranger Bootleg)
 2Pac - California Love
 AHA - Take On Me (Extended Version)
@@ -1975,7 +1976,6 @@ White Town - Your Woman
 Wolfgang Gartner - Montezuma (Original Mix)
 X-Press 2 feat. David Byrne - Lazy (Original Mix)
 Yeah Yeah Yeahs - Maps (Tommie Sunshine & CID & Modern Machines Remix)
-Yotto - North (Original Mix)
 Young Empires - White Doves (Natural Animal Remix)
 Zeds Dead & The Killabits - Bassmentality
 &ME - Woods
@@ -2214,6 +2214,7 @@ Darius Syrossian - Andranik (Gorge & Homm Remix)
 Dave DK - Kronsee (Ulrich Schnauss Mix)
 David Guetta & Showtek - Bad (Original Mix)
 David Guetta - Lovers on the Sun (feat. Sam Martin)
+Deadmau5 - COASTED (Original Mix)
 Deadmau5 - Ghosts n Stuff
 Deadmau5 - Some Chords
 Death in Vegas - Rocco (Dub)
@@ -2776,7 +2777,6 @@ David Anthony - I Don't Know Why (Manoo Remix)
 Dead Or Alive - You Spin Me Round (Like a Record)
 Deadmau5 & Kaskade - I Remember (Caspa Remix)
 Deadmau5 - Aural Psynapse (2nd Edit)
-Deadmau5 - COASTED (Original Mix)
 Deadmau5 - Clockwork
 Deadmau5 - Jaded (Ambient Mix)
 Deadmau5 - Maths (Botnek Remix)
@@ -3581,6 +3581,7 @@ Bassnectar - Nothing Has Been Broken (ft. Tina Malia)
 Bastille - Pompeii (Kat Krazy Remix)
 Basto & Yves V - Cloudbreaker (Original Mix)
 Beastie Boys - Body Movin' (Fatboy Slim Remix)
+Beatamines - Osiris (Township Rebellion Remix)
 Beck - Nobody's Fault But My Own
 Bedouin - Spiral Eyes
 Bedouin - Walk Away
@@ -4220,7 +4221,6 @@ Beach House - Lazuli (Natural Animal Reimagining Act I II and III)
 Beach House - Walk In The Park
 Beat Connection - Palace Garden 4 Am
 Beat Connection - Silver Screen (Dreamtrak Diamond Sound)
-Beatamines - Osiris (Township Rebellion Remix)
 Beckers, D-Nox - Secret Games (Original Mix)
 Beckwith & Catherine Porter - Back To Love
 Bedrock - Emerald (Henry Saiz Remix)
