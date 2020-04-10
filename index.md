@@ -6,6 +6,7 @@ title: djpeterhenry.com
 
 Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficial/)
 
+[(Sets)](collection/sets.txt)
 [(Touch)](collection/date_or_add.txt)
 [(New)](collection/add.txt)
 [(Name)](collection/name.txt)
