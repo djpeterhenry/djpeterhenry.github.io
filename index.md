@@ -12,6 +12,11 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [(Name)](collection/name.txt)
 [(Number)](collection/num.txt)
 
+# Yes Please
+2020-04-10.  The bit of the livestream that I recorded.
+
+[Recording](https://www.dropbox.com/s/md9eb6fzf5q4uvl/Yes%20Please.mp3?dl=0)
+
 # A New Chapter
 2020-02-01.  A new chapter begins at the Kansas Street house.  Jamming into the wee hours with Endres.
 
