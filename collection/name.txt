@@ -226,7 +226,6 @@ Alesso vs. OneRepublic - If I Lose Myself (Alesso Extended Remix)
 Alex Aark - Get Away From You
 Alex Adair - Make Me Feel Better (Club Edit)
 Alex Adair - Make Me Feel Better (Don Diablo & Cid Remix)
-Alex Adair - Make Me Feel Better (Klingande Remix)
 Alex Clare - Too Close
 Alex Dimou & Black Soda - This Time
 Alex Guesta - In The Air (Original Mix)
@@ -271,8 +270,6 @@ All-4-One - I Swear
 Alle Farben - Galant (Original Mix)
 Alle Farben - She Moves (Acoustic Guitar Version)
 Alle Farben - She Moves (Far Away) (Extended Mix)
-Alle Farben - She Moves (Far Away) (Hippie Sabotage Remix)
-Alle Farben - She Moves (Far Away) (Mazego & Vitesse Remix)
 Alle Farben - She Moves Far Away (Acapella)
 Alle Farben - Sometimes
 Alma & Sound Remedy & Kill Paris - Avalanches (128-140)
@@ -756,6 +753,7 @@ Ben Bohmer - After Earth (Original Mix)
 Ben Bohmer - Morning Falls (Original Mix)
 Ben Bohmer - Soulline (Original Mix)
 Ben Bohmer, Malou - Lost In Mind (Volen Sentir Extended Vision)
+Ben Bohmer, Nils Hoffmann, Malou - Breathing (CRi Remix)
 Ben Bohmer, Nils Hoffmann, Malou - Breathing (Extended Mix)
 Ben Brown - Love and Solace (16 bit lolitas remix)
 Ben E. King - Stand By Me (1961)
@@ -1759,6 +1757,7 @@ David Guetta - Pelican (Edit)
 David Guetta - Titanium (feat. Sia)
 David Guetta - Where Them Girls At (feat. Nicki Minaj & Flo Rida)
 David Guetta vs The Egg - Love Don't Let Me Go (Walking Away) (Joachim Garraud & David Guetta Fuck Me I'm Famous Mix)
+David Hohme - Ascent (Original Mix)
 David Hohme - Soft Landing (Jody Wisternoff & James Grant Remix)
 David Hohme - Without Doubt (Rodriguez Jr. Remix)
 David Keno & ME & her - Walking Boots
@@ -2965,7 +2964,6 @@ Groove Armada - I See You Baby
 Groove Armada - Love Lights The Underground
 Groove Armada - My Friend (Kav Verhouzer & IJsbrand on Sax Sunset Edit)
 Groove Armada - My Friend
-Groove Armada - Superstylin' (Riva Starr Edit)
 Groove Armada - Superstylin'
 Groove Armada - The Girls Say
 Groove Chronicles - Stone Cold
@@ -4392,11 +4390,13 @@ Marco Bailey - Caliente
 Marco Dassi - Le Cosmique Secret
 Marcus Meinhardt - Rabbit Hole (Stereo Express Remix)
 Marcy Playground - Sex and Candy (Papa Skunk Remix)
+Marian Herzog, Modshape. - Trapped in Time (Sascha Braemer Remix)
 Marian Hill - Down
 Maribou State - Wallflower (Lane 8 Remix)
 Marina & The Diamonds - How To Be A Heartbreaker (Dada Life Remix)
 Marina & The Diamonds - I Am Not A Robot (Penguin Prison Remix)
 Marina and the Diamonds - Lies (Zeds Dead Remix)
+Mario & Vidis - Suspend The Feeling (12-Inch Edit)
 Mario Aureo - Gloaming (Original Mix)
 Mario Ochoa & DJ Fist - Electroclave (Original Mix)
 Mario Winans - I Don't Wanna Know (Jerry Folk Remix)
@@ -4427,6 +4427,7 @@ Maro Demark - Tiny Dancer (Deadmau5 Vocal Mix)
 Maroon 5 - Animals
 Maroon 5 - Sugar
 Marquis Hawkes - The Basement Is Burning (Original Mix)
+Marsh - 1992 (Extended Mix)
 Marshall Jefferson - The House Music Anthem (Move Your Body)
 Marshall Jefferson, Solardo - Move Your Body (Extended Mix)
 Marshmello, Khalid - Silence (Illenium Remix)
@@ -5828,7 +5829,6 @@ Rodriguez Jr. - Heal Me (Original Mix)
 Rodriguez Jr. - Kenopsia (Original Mix)
 Rodriguez Jr. - Malecón Azul (Original Mix)
 Rodriguez Jr. - Mistral (Original Mix)
-Rodriguez Jr. - Mistral (Stephan Bodzin Remix)
 Rodriguez Jr. - Monticello (Original Mix)
 Rodriguez Jr. - Radian (Original Mix)
 Rodriguez Jr. - What Is Real feat. Liset Alea (Deep in the Playa Mix)
@@ -5884,6 +5884,7 @@ Royksopp - Remind Me (Someone Else's Radio Mix)
 Royksopp - Running To The Sea (Seven Lions Remix)
 Royksopp - Running to the Sea
 Royksopp - Sordid Affair (Maceo Plex Mix)
+Royksopp - Sordid Affair (Original Mix)
 Royksopp - This Must Be It (Rex The Dog K-DART Remix)
 Royksopp - What Else Is There (Thin White Duke Mix)
 Royksopp - What Else Is There (Trentemoller Remix)
@@ -6436,9 +6437,7 @@ Starfucker - While I'm Alive
 Starkey - Black Monolith
 Starkey - Spacewalk
 Stars - From The Night
-Starsailor - Four To The Floor (Thin White Duke Mix) imp
-Starsailor - Four To The Floor (Thin White Duke Mix)
-Starsailor - Four To The Floor (Thin White Duke Short Mix)
+Starsailor - Four To The Floor (Thin White Duke Mix) (als)
 Stas - Matope
 State Of Mind - Bigger Faster Stronger (Original Mix)
 State Of Mind - Mindslicer
@@ -7068,6 +7067,7 @@ Timbaland & Nelly Furtado & SoShy - Morning After Dark
 Timbaland - Morning After Dark (Chew Fu 2016 BBoy FixXx)
 Timboletti - Dhunche (Original Mix)
 Time (FR) - Bird (Original Mix)
+Time (FR) - Not Alone (Original Mix)
 Timeflies - I Choose U (Fedde Le Grand Remix)
 Timelapse - Heaven
 Timmy Trumpet & Chardy - Hipsta (Original Mix)
