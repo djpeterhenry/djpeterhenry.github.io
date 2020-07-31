@@ -2848,7 +2848,6 @@ Gnarls Barkley - Crazy (Karl G Remix)
 Gnarls Barkley - Crazy
 Gold Panda - Marriage (Star Slinger Remix)
 Gold Panda - Snow & Taxis
-Golden Ages - Africa (Toto Cover)
 Golden Boy & Miss Kittin - Rippin Kittin (Original Mix)
 Golden Boy & Miss Kittin - Rippin Kittin (TV Rock Remix)
 Golden Coast - Futurist (Eau Claire Remix)
@@ -4459,6 +4458,7 @@ Marvin Gaye - Let's Get It On
 Marvin Gaye - Sexual Healing (Kygo Remix)
 Marvin Gaye - Sexual Healing (SNBRN Remix)
 Marvin Gaye - Sexual Healing 2x4
+Marvin Gaye - Sunny (Baumon Remix)
 Marvin Gaye - Sunny (Mercury Edit II)
 Marvin Gaye - Whats Going On (Nit Grit Remix)
 Marvin Gaye and Tammi Terrell - Ain't No Mountain High Enough
@@ -5398,6 +5398,7 @@ Pete Heller - Big Love
 Pete Tha Zouk & Mitch LJ - Monsoon (Rashid Ajami Remix)
 Pete Tong, John Monkman - Placebo (Original)
 Peter Brown - Alegria (Original Mix)
+Peter Gabriel - In Your Eyes
 Peter Pardeike - Love Supreme (Love Over Entropy Remix)
 Peter Pardeike - Love Supreme (Original Mix)
 Peter Schilling - Major Tom
@@ -6320,7 +6321,6 @@ Solarstone - Release (Sunny Lax Extended Remix)
 Solee - Anmut (Original Mix)
 Solee - Blown (Original Mix)
 Solee - Dromen (Original Mix)
-Solee - Dromen (Reinterpretation)
 Solee - Infinidad (Martin Landsky Remix)
 Solee - Infinidad (Original Mix)
 Solee - Jule
@@ -7481,7 +7481,6 @@ Wurtz, Iberian Muse - 73 (Original Mix)
 Wyatt Lamond - Shadows End
 Wyclef & Avicii - Divine Sorrow (Klingande Remix)
 Wyclef - Divine Sorrow (feat. Avicii)
-Wyro, Kpsh - Microverse (Original Mix)
 X-Press 2 - Lazy (Acapella)
 X-Press 2 - Smoke Machine (James Talk Remix)
 X-Press 2 feat. David Byrne - Lazy (Original Mix)
