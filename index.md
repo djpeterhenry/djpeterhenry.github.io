@@ -12,7 +12,39 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [(Name)](collection/name.txt)
 [(Number)](collection/num.txt)
 
-These are all good ^^^
+# Shasta 2020
+2020-08-17 to 2020-08-20.  Heat testing the system at Shasta Lake.  Conclusion: Hot!
+
+Tracklists coming eventually...
+
+### Monday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-monday%2F" frameborder="0" ></iframe>
+
+[Monday Night Part 1](https://www.dropbox.com/s/romo0ps2oeqo428/Shasta%202020%20Monday%20Night%20%28Part%201%29.mp3?dl=0)
+
+[Monday Night Part 2](https://www.dropbox.com/s/qsoiu1hqgrv2i2v/Shasta%202020%20Monday%20Night%20%28Part%202%29.mp3?dl=0)
+
+### Tuesday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-tuesday%2F" frameborder="0" ></iframe>
+
+[Tuesday Evening Bangers](https://www.dropbox.com/s/na2hmujoecjtcp9/Shasta%202020%20Tuesday%20Evening%20Bangers.mp3?dl=0)
+
+[Tuesday Night Part 1](https://www.dropbox.com/s/2wohgac0bfwjxgk/Shasta%202020%20Tuesday%20Night%20%28Part%201%29.mp3?dl=0)
+
+[Tuesday Night Part 2](https://www.dropbox.com/s/9p1kkhyzr1ruvob/Shasta%202020%20Tuesday%20Night%20%28Part%202%29.mp3?dl=0)
+
+
+### Wednesday:
+<iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-wednesday%2F" frameborder="0" ></iframe>
+
+[Wednesday Day](https://www.dropbox.com/s/y792gz8k2zs769i/Shasta%202020%20Wednesday%20Day.mp3?dl=0)
+
+[Wednesday Evening](https://www.dropbox.com/s/08jwjbof07fh8bs/Shasta%202020%20Wednesday%20Evening.mp3?dl=0)
+
+[Wednesday Night Part 1](https://www.dropbox.com/s/s00e66ruxijue8g/Shasta%202020%20Wednesday%20Night%20%28Part%201%29.mp3?dl=0)
+
+[Wednesday Night Part 2](https://www.dropbox.com/s/pwxd6pu42tw2h6x/Shasta%202020%20Wednesday%20Night%20%28Part%202%29.mp3?dl=0)
+
 
 # A New Chapter
 2020-02-01.  A new chapter begins at the Kansas Street house.  Jamming into the wee hours with Endres.
