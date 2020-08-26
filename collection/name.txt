@@ -107,9 +107,11 @@ Ace Of Base - All That She Wants
 Ace Of Base - The Sign
 Ace Wilder - Do It (New Version)
 Ace Wilder - Do It (The Ionics Remix)
+Acid Pauli & Friends - How Strange (Original Mix)
 Acid Pauli & Nancy - Ibang
 Acid Pauli & Nico Stojan - Acid Revisited
 Acid Pauli - Nana (Original Mix)
+Acid Pauli, Monolink - New Morning (Original Mix)
 Acidulant - Jack Into House
 Acoustic Cuts - Show Me Love (Samuel Remix)
 Active Child & Ellie Goulding - Silhouette (Shoe Scene Symphony Remix)
@@ -998,6 +1000,7 @@ Booka Shade - Body Language
 Booka Shade - In White Rooms (2016 Remaster)
 Booka Shade - In White Rooms (Jonas Rathsman Reprise)
 Booka Shade - Night Falls
+Booka Shade, Kaktus Einarsson - I Go, I Go (Original Mix)
 Booker T & The MGs - Green Onions (Luke Danfields Bluehouse Edit)
 Boom Jinx & Andrew Bayer - By All Means (Solarity Remix)
 Boom Jinx & Maor Levi & Ashley Tomberlin - When You Loved Me
@@ -1144,7 +1147,7 @@ Calibre - Suddenly
 Calippo - Solstice (Daniel Portman Remix)
 Call Super - Migrant
 Calvin Harris & Alesso & Hurts - Under Control (Extended Mix)
-Calvin Harris & Ellie Goulding - I Need Your Love (Acapella)
+Calvin Harris & Ellie Goulding - I Need Your Love (Acapella) (3)
 Calvin Harris & Ellie Goulding - I Need Your Love (Nicky Romero Remix)
 Calvin Harris & Ellie Goulding - I Need Your Love
 Calvin Harris & Florence Welch - Sweet Nothing (Diplo & Grandtheft Remix)
@@ -1792,16 +1795,21 @@ Deadmau5 - Aural Psynapse (2nd Edit)
 Deadmau5 - Aural Psynapse (ATTLAS Remix)
 Deadmau5 - Avaritia
 Deadmau5 - Brazil (2nd Edit)
+deadmau5 - Cat Thruster (Original Mix)
 Deadmau5 - Clockwork
 Deadmau5 - COASTED (Original Mix)
+deadmau5 - FALL (Original Mix)
 Deadmau5 - Faxing Berlin (Chris Lake Edit)
 Deadmau5 - Faxing Berlin (Original Mix)
 Deadmau5 - Faxing Berlin (Piano Acoustic Version)
+Deadmau5 - FML (Original Mix)
 Deadmau5 - Fn Pig
 Deadmau5 - GG (Original Mix)
 Deadmau5 - Ghosts n Stuff (Chuckie Remix)
 Deadmau5 - Ghosts n Stuff (feat Rob Swire)
 Deadmau5 - Ghosts n Stuff
+deadmau5 - Glivch (Original Mix)
+deadmau5 - HaxPigMeow (Original Mix)
 Deadmau5 - HR 8938 Cephei
 Deadmau5 - Imaginary Friends
 Deadmau5 - Infra Turbo Pigcart Racer (Original Mix)
@@ -1828,10 +1836,13 @@ Deadmau5 - Some Kind Of Blue (Original Mix)
 Deadmau5 - Strobe (Club Edit)
 Deadmau5 - Strobe (Full Length Version)
 Deadmau5 - Strobe (Shemce Remix)
+Deadmau5 - Supermaths Meowingtons Hax
 Deadmau5 - The Veldt (PrototypeRaptor's Serve Over Ice Bootleg Remix)
 Deadmau5 - The Veldt (Tommy Trash Remix)
+deadmau5 - Three Pound Chicken Wing (Original Mix)
 Deadmau5 - Where My Keys
 Deadmau5, Grabbitz - Let Go (Extended Mix)
+deadmau5, Shotty Horroh - Legendary (Original Mix)
 Deadmau5, Wolfgang Gartner - Channel 42 (Original Mix)
 Deadset - Farmhouse (Deadset Dub Tool)
 Deadwood - Fuck My Way To The Pacific Ocean
@@ -1933,6 +1944,7 @@ Dimmish - Riddle (Toman Remix)
 DINKS - Street Player (Rework)
 Dionigi - Sun Dance (Original Mix)
 Diplo - Express Yourself feat. Nicky Da B
+Diplo, SIDEPIECE - On My Mind (Purple Disco Machine Remix (Extended))
 Diplo, Tove Lo - Win Win (Original Mix)
 Diplo, Tove Lo - Win Win (Yotto Remix)
 Dire Straights - Money For Nothing
@@ -1995,7 +2007,7 @@ DJ Luck & MC Neat & JJ - Masterblaster 2000 (Oracles Mix)
 DJ Marky - Silly (DJ Marky VIP)
 DJ Marky and XRS - LK
 DJ Mehdi - Pocket Piano (Brodinski Remix)
-DJ Ross & Marvin - Baker Street (Extended Mix)
+DJ Ross & Marvin - Baker Street (Extended Mix) (2)
 DJ S.K.T - Ballers (Original Mix)
 DJ Sammy - Heaven (Acapella)
 DJ Sammy - Heaven (Candlelight Mix)
@@ -2225,6 +2237,7 @@ Eelke Kleijn - Moments Of Clarity (Extended Mix)
 Eelke Kleijn - Rubicon (Extended Mix)
 Eelke Kleijn - The Magician (Extended Mix)
 Eelke Kleijn - The Voices
+Eelke Kleijn - Woodstock (Extended Mix)
 Eels - Beautiful Freak (unwarped)
 Eels - Beautiful Freak
 Eels - Manchild
@@ -2233,6 +2246,7 @@ Eels - Your Lucky Day In Hell
 Eiblonski & Schulleri - Tusnelda (Worakls Remix)
 Eiffel 65 - Blue (DJ Ponte Ice Pop Mix)
 Einmusik - Dune Suave (Original Mix)
+Einmusik - Flare (Original Mix)
 Einmusik - I.D.C.
 Einmusik - Jabloko (Original Mix)
 Einmusik - Milky Way
@@ -2240,6 +2254,7 @@ Einmusik - Night Train (Original Mix)
 Einmusik - Pristine (Original Mix)
 Einmusik - Serenade (Original Mix)
 Einmusik - Silveroid (Solee Remix)
+Einmusik, Dirty Doering - Centaurio (Original Mix)
 Einmusik, Olivier Weiter, Alex Preda - Zebra (Einmusik Remix)
 Ejecta - It's Only Love
 El_Txef_A - The Love We Lost (Bedouin Remix)
@@ -2341,8 +2356,6 @@ Empire Of The Sun - Alive
 Empire Of The Sun - Walking On A Dream (Acapella)
 Empire Of The Sun - Walking On A Dream (Van She Tech Remix)
 Empire Of The Sun - Walking On A Dream
-Empire Of The Sun - We Are The People (Crazy P UK Edit)
-Empire Of The Sun - We Are The People (Fyor Remix)
 Empire Of The Sun - We Are The People (Jimmy2sox Remix)
 Empire Of The Sun - We Are The People (Sub Focus Remix)
 Empire Of The Sun - We Are The People (The Golden Filter Remix)
@@ -2457,6 +2470,8 @@ Fatboy Slim - The Rockafeller Skank (Acapella)
 Fatboy Slim - Weapon Of Choice
 Father-Daughter Wedding Dance Ver 2 Take 2
 Fatima Yamaha - Araya
+Fatima Yamaha - Only Of The Universe
+Fatima Yamaha - The Creature from Culture Creation
 Fatima Yamaha - What's a Girl to Do
 Faul & Wad Ad vs. Pnau - Changes (Original Mix)
 Faul & Wad Ad vs. Pnau - Changes (Tocadisco's Sunny LA Remix)
@@ -3091,6 +3106,7 @@ Henry Saiz, Guy J - Meridian (Pryda Remix)
 Herbert - Around The House
 Herbert - It's Only (DJ Koze Remix)
 Herbert - So Now
+Hercules & Love Affair - Blind (Frankie Knuckles Remix)
 Hercules And Love Affair - Blind (Full Album Version)
 Hercules and Love Affair - Do You Feel The Same (Extended Club Mix)
 Hercules and Love Affair - Do You Feel The Same (Purple Disco Machine Remix)
@@ -3332,6 +3348,7 @@ James Blake - Limit To Your Love (Cazzette Bootleg)
 James Blake - The Wilhelm Scream (YUS Remix)
 James Blake - The Wilhelm Scream
 James Brown - Funk On Ah Roll (Bump & Flex Remix)
+James Brown - Make It Funky (2)
 James Egbert - Back To New (Aditiv & Wild Boyz! Remix)
 James Harcourt - Ultraviolet (Original Mix)
 James Hersey - Coming Over (Filous Remix)
@@ -3350,6 +3367,7 @@ James Zabiela - Perseverance (Original Mix)
 James Zabiela - Robophobia (Original Mix)
 James Zabiela - Weird Science
 Jamie Foxx and T-Pain - Blame It
+Jamie Jones, Alan Fitzpatrick - Sundancing (Original Mix)
 Jamie Lidell - A Little Bit More
 Jamie Lloyd - All The Honey (Jimi Polar's Red Earth Remix)
 Jamie Stevens - Titans (Original Mix)
@@ -3705,12 +3723,14 @@ Kaskade - Something Something Champs
 Kaskade - Sorry (Dirty South Mix)
 Kaskade - Soundtrack To The Soul (Big City Dub)
 Kaskade - Stepping Out (The Beard Remix)
+Kaskade - Tight (Original Mix)
 Kaskade - Turn It Down (feat. Rebecca & Fiona) (Extended Mix)
 Kaskade - Turn It Down (Le Castle Vania Remix)
 Kaskade - Us
 Kaskade - We Don't Stop
 Kaskade vs Martin Garrix - Turn It Down Animals (Kaskade's Paradiso Mash Up)
 Kaskade vs. Martin Garrix & Victor Niglio - Turn It Down Animals (Kaskade's Festival Mash Up) (Freeze)
+Kaskade, Brohug, Mr. Tape - Fun (Extended Mix)
 Kaskade, Project 46 - Last Chance (Extended Mix)
 Kaskade, Romeo, Gorgon City - Go Slow (Club Mix)
 Kaskade, RY X - Only (Kaskade x Lipless Remix)
@@ -3960,7 +3980,7 @@ Kyson - You (Thomas Jack Remix)
 L'Tric, ARLE - Feel It (Original Mix)
 L-Plus - Flood
 L-Wiz - Girl From Codeine City
-L. Doblado - Lie Alone (16 Bit Lolitas Remix)
+L. Doblado - Lie Alone (16 Bit Lolitas Remix) (2)
 La Bouche - Be My Lover (Radio Edit)
 La Roux - Bulletproof (Gamper & Dadoni Remix)
 La Roux - In For The Kill (Skream's Let's Get Ravey Remix)
@@ -3990,6 +4010,7 @@ Lana Del Rey - Blue Jeans (Patrick Reza Dubstep Remix)
 Lana Del Rey - Born To Die (3.A.M. Remix)
 Lana Del Rey - Born To Die (Monsieur Adi Remix)
 Lana Del Rey - Dark Paradise (Parov Stelar Remix)
+Lana Del Rey - Norman fucking Rockwell
 Lana Del Rey - Shades Of Cool
 Lana Del Rey - Summertime Sadness (Cedric Gervais Vocal Down Mix)
 Lana Del Rey - Summertime Sadness (Hannes Fischer Nightflight Remix)
@@ -4306,6 +4327,8 @@ Maceo Plex - Conjure Superstar
 Maceo Plex - Frisky (Original)
 Maceo Plex - Frisky
 Maceo Plex - Gravy Train (Nicolas Jaar Remix)
+Maceo Plex - When The Lights Are Out (Late Night Mix)
+Maceo Plex - When The Lights Are Out (Original Mix)
 Machineheart - Circles (Vanic Version)
 Macklemore & Ryan Lewis & Wanz - Thrift Shop
 Macklemore & Ryan Lewis - Can't Hold Us (Acapella)
@@ -4622,6 +4645,7 @@ Michael Mayer - Mantasy (Jurgen Paape Mix)
 Michael Woods - Platinum Chains (Original Mix)
 Mickey Avalon - Jane Fonda
 Mickey Avalon - My Dick (ft. Dirt Nasty & Andre Legacy)
+Micky Slim, House Of Pain - Jump Around (Deadmau5 Edit) (bad warp)
 Micrologue - Tourmaline (Original Mix)
 Midland - Blush (Original Mix)
 Midland - Final Credits
@@ -4782,6 +4806,7 @@ Monkey Safari - Cranes (Kolsch Remix)
 Monkey Safari - Cranes (Original Mix)
 Monkey Safari - Dodge (Victor Ruiz Remix)
 Monkey Safari - Hi Life (Cheeky Bold Cover)
+Monkey Safari - New Day (Original Mix)
 Monkey Safari - Safe (Original Mix)
 Monkey Safari - Walls (Guy Gerber's Office Sex Remix)
 Monkey Safari - Walls (Original Mix)
@@ -4910,7 +4935,7 @@ Nat Monday - Waiting (JC & SK Drums)
 Nat Monday - Waiting (John Creamer & Stephane K Remix)
 Natalia Kills - Mirrors (Omega Remix)
 Nathan Fake - Outhouse (Valentino Kanzyani Remix)
-Nathan Fake - The Sky Was Pink (James Holden Remix)
+Nathan Fake - The Sky Was Pink (James Holden Remix) (2)
 Nathan Micay - First Casualty (Original Mix)
 Natious - Amber (Silk Remix)
 Natural Animal - Our Love
@@ -5060,6 +5085,7 @@ Noosa - Sail (New Version)
 Noosa - Walk On By (New Version)
 Noosa - Walk On By (Sound Remedy Remix)
 Nora En Pure & Sons Of Maria - Uruguay (Original Mix)
+Nora En Pure - Bartok (Extended Mix)
 Nora En Pure - Convincing (Original Club Mix)
 Nora En Pure - Driving With Whales (Daniel Portman Remix)
 Nora En Pure - Epiphany (Original Club Mix)
@@ -5453,6 +5479,7 @@ Pierce Fulton & JHart - Landmines
 Pierce Fulton - Kuaga (The Eden Project Remix)
 Pierce Fulton - Kuaga
 Pierce Fulton - Old Man & The Sea (Original Mix)
+Piero Pirupa - Braindead (Original Mix)
 Pink Floyd - Another Brick in the Wall (Part 2)
 Pink Floyd - Another Brick In The Wall (Vintage Culture Remix)
 Pink Floyd - Comfortably Numb (Stylust Beats Remix)
@@ -5856,6 +5883,7 @@ Roosevelt - Elliot (Original Mix)
 Roosevelt - Heart (Cleveland Remix)
 Roosevelt - Night Moves
 Roosevelt - Sea (Original Mix)
+Roosevelt - Sign (Alex Metric Remix)
 Roosevelt - Wait Up
 Rootkit - Do It (Original Mix)
 Roots Panorama - Mars (Deetron Panorama Version)
@@ -6029,6 +6057,7 @@ Sasha - Xpander (Neil Browne Remix)
 Sasha - Xpander
 Sasha et al. - Smoke Cone
 Sasha, Kolsch - The Lights (Original Mix)
+Sasheen, Jacob Acosta - Falling (Original Mix)
 Satellite Empire - Time (Yelhigh Remix)
 Satoshi Tomiie - Love In Traffic (Dark Path Mix)
 Satoshi Tomiie - Love In Traffic (Feat. Kelli Ali)
@@ -6194,7 +6223,6 @@ Silat Beksi - Shushu (Original Mix)
 Silence Groove & Skeletone - Touching Midnight
 Silence Groove - Dreams Do Come True
 Silicone Soul - Devil Drives (Darkroom Dub)
-Silicone Soul - Feeling Blue (Spirals Acid Rock Dub)
 Silicone Soul - Feeling Blue
 Silicone Soul - Les Nocturnes
 Sill Young - Midnight (Original Mix)
@@ -6881,7 +6909,6 @@ The Pixies - Where Is My Mind (Bassnectar Remix)
 The Pixies - Where Is My Mind (Refracture Remix)
 The Pixies - Where Is My Mind
 The Police - Every Little Thing She Does Is Magic
-The Police - Every Step You Take (Deep Chills Remix)
 The Police - King Of Pain (DJ Icey Re-Work) (Vinyl Only)
 The Police - Roxanne (DiscoTech Remix)
 The Polish Ambassador - 360 Degree View Of The Phantasmal
@@ -6980,6 +7007,7 @@ The XX - Infinity (Bachelors Of Science Remix)
 The XX - Intro
 The XX - Islands (Nosaj Thing Remix)
 The XX - Islands
+The XX - Reconsider (Jamie XX Edit)
 The Young Rascals - Good Lovin' (1966)
 The Youngbloods - Get Together
 The Youngsters - Smile (Sasha Remix)
@@ -7435,7 +7463,6 @@ Wish I Was - Cutting Ties (Extended)
 Wiz Khalifa - This Plane (Viceroy Jet Life Remix)
 Wolf Alice - Leaving You (Sound Remedy Remix)
 Wolf Saga & Lemon - Young Folks (Cover)
-Wolfgang Gartner & Popeska - We Are The Computers
 Wolfgang Gartner - Flexx
 Wolfgang Gartner - Illmerica (Extended Mix)
 Wolfgang Gartner - Illmerica (gLAdiator Remix)
