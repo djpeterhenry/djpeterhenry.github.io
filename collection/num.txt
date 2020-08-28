@@ -153,6 +153,7 @@ Peer Kusiv - Let Her Go
 Sigma - Nobody to Love (Sigma's Future Jungle Mix)
 The Chemical Brothers - Wide Open (Kolsch Remix)
 Alicia Keys - In Common (Black Coffee Remix)
+Future Islands - Seasons (DJ Dodger Stadium Remix)
 Gregory Porter - Liquid Spirit (Claptone Remix)
 Jeremy Olander - Pinkerton (Finnebassen Remix)
 The Temper Trap - Sweet Disposition (RAC Mix)
@@ -161,7 +162,6 @@ Zedd - Stay The Night (Acapella)
 Above & Beyond - Blue Sky Action (Extended Radio Mix)
 BT - Rose Of Jericho (Adam K & Soha Remix)
 Destiny's Child - Say My Name (Cyril Hahn Remix)
-Future Islands - Seasons (DJ Dodger Stadium Remix)
 London Grammar - Hell to the Liars (Kolsch Remix)
 Max Manie - Sunday (Klangkarussell Remix)
 N'to - Starlings (Henry Saiz Remix)
@@ -223,6 +223,7 @@ The Whitest Boy Alive - Golden Cage (Fred Falke Remix)
 American Authors - Best Day Of My Life (Just A Gent Remix)
 Arcade Fire - We Used To Wait
 Calvin Harris & Ellie Goulding - I Need Your Love (Nicky Romero Remix)
+Claire - Games (Passion Pit Remix)
 Daft Punk - Digital Love (ALGERONICS Remix)
 Jan Blomqvist - Dancing People Are Never Wrong (feat The Bianca Story)
 Jean-Michel Jarre & M83 - Glory (Steve Angello Remix)
@@ -237,7 +238,6 @@ Third Son - Faucet
 Vitalic - Fade Away (Vitalic Formentera Rework)
 Wrechiski & Jason Ross - Atlas (Original Mix)
 Brass Knuckles - Bad Habits (Joe Maz Remix)
-Claire - Games (Passion Pit Remix)
 Damian DP vs Jose Zamora - Transatlantic (Andy Moor Remix)
 David Guetta & Showtek - Bad (The Rooftop Boys Remix)
 Kaskade - Turn It Down (Le Castle Vania Remix)
@@ -297,6 +297,7 @@ Purity Ring - Grammy (Soulja Boy Cover)
 Sascha Funke - Mango
 Skeletone & Silence Groove - Calling for You
 Syn Cole - Miami 82 (Vocal Mix)
+Yoshimoto - Du What U Du (Trentemoller Remix)
 Zhu - Moves Like Ms Jackson (Outkast Covers)
 ASTR - Operate (The Chainsmokers Remix)
 Bassnectar - So Butterfly (2014 Version)
@@ -320,7 +321,6 @@ Sam Smith - Stay With Me (Throttle Remix)
 Sash! - Ecuador (Wax Motif 2012 Wikileaks Remix)
 Snakadaktal - The Sun II (Just Kiddin Remix)
 Stones & Bones - Amahloni (Manoo Remix)
-Yoshimoto - Du What U Du (Trentemoller Remix)
 Ben Howard - Hideaway (Kiesza Cover) (Vijay & Sofia Zlatko Remix)
 Daughter - Youth (Hybrid Minds Bootleg)
 David Guetta & Usher - Without You (Extended Version)
@@ -1096,6 +1096,7 @@ Moby - Everytime You Touch Me
 Modjo - Lady (Hear Me Tonight)
 Modjo - Lady 1 4x4
 Morgan Page - The Longest Road (Deadmau5 Remix)
+Nero - Reaching Out (Fred Falke Remix)
 Nicki Minaj - Starships
 Nina Simone - Black Is The Color Of My True Loves Hair (Jaffa Remix)
 Odesza - My Friends Never Die
@@ -1175,7 +1176,6 @@ Marlena Shaw - California Soul (Diplo Mad Decent Remix)
 Moby - Go (Victor Ruiz Warehouse Mix)
 Naxxos - New Orleans (Sam Feldt Remix)
 Nero - Promises (Acapella)
-Nero - Reaching Out (Fred Falke Remix)
 New Order - Crystal (Lee Coombs Remix)
 Nosaj Thing - Us (Dntel Remix)
 Parov Stelar - Catgroove
@@ -1905,6 +1905,7 @@ Bassnectar - Bass Head
 Bat For Lashes - Daniel (Mt Eden Dubstep Remix)
 Bat For Lashes - Daniel
 Beach Boys - Wouldn't It Be Nice (The Girls Can Hear Us Remix)
+Ben Watt - Guinea Pig (Vocal Variation Mix feat Julia Biel)
 Benny Benassi - Cinema (Extended Mix)
 Black Coffee - Wish You Were Here (Damian Lazarus Re-Shape)
 Blake Baxter & Marc Romboy - Muzik (KINK Remix)
@@ -2084,7 +2085,6 @@ Bassbin Twins - ESW
 Bee Gees - Tragedy (Forever Kid Remix)
 Behrouz - Where Are You Now
 Ben Howard - The Fear (Moonlight Matters Rework)
-Ben Watt - Guinea Pig (Vocal Variation Mix feat Julia Biel)
 Beyonce - Drunk In Love (Diplo Remix)
 Birdy - Skinny Love
 Bjork - Hyperballad (Fluke Remix)
@@ -2524,6 +2524,7 @@ Calvin Harris - I'm Not Alone (Instrumental)
 Calvin Harris - Summer (Extended Mix)
 Caotico - Bad Heart
 Capsule - JUMPER
+Caribou - Can't Do Without You (Manila Killa & Kidswaste Cover)
 Catz 'n Dogz - They Frontin' (Featuring Monty Luke)
 Cazzette - Sleepless (Hotel Garuda & Thero Remix)
 Charlie Boulala - Sonnenkind (Mowe Remix)
@@ -2817,7 +2818,6 @@ Cake - Mexico
 Cali Swag District - Teach Me How To Dougie (Acapella)
 Calvin Harris & John Newman - Blame (R3HAB Trap Remix)
 Calvin Harris - Blame (feat. John Newman)
-Caribou - Can't Do Without You (Manila Killa & Kidswaste Cover)
 Caribou - Odessa
 Caribou - Our Love (Daphni Mix)
 Carl Craig - The Melody (Henrik Schwarz Remix)
