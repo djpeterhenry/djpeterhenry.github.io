@@ -19,10 +19,10 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-monday%2F" frameborder="0" ></iframe>
 
 [Monday Night Part 1](https://www.dropbox.com/s/romo0ps2oeqo428/Shasta%202020%20Monday%20Night%20%28Part%201%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Monday Night \(Part 1\).txt)
+[(Tracklist)](lists/Shasta 2020 Monday Night (Part 1).txt)
 
 [Monday Night Part 2](https://www.dropbox.com/s/qsoiu1hqgrv2i2v/Shasta%202020%20Monday%20Night%20%28Part%202%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Monday Night \(Part 2\).txt)
+[(Tracklist)](lists/Shasta 2020 Monday Night (Part 2).txt)
 
 ### Tuesday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-tuesday%2F" frameborder="0" ></iframe>
@@ -31,10 +31,10 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [(Tracklist)](lists/Shasta 2020 Tuesday Evening Bangers.txt)
 
 [Tuesday Night Part 1](https://www.dropbox.com/s/2wohgac0bfwjxgk/Shasta%202020%20Tuesday%20Night%20%28Part%201%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Tuesday Night \(Part 1\).txt)
+[(Tracklist)](lists/Shasta 2020 Tuesday Night (Part 1).txt)
 
 [Tuesday Night Part 2](https://www.dropbox.com/s/9p1kkhyzr1ruvob/Shasta%202020%20Tuesday%20Night%20%28Part%202%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Tuesday Night \(Part 2\).txt)
+[(Tracklist)](lists/Shasta 2020 Tuesday Night (Part 2).txt)
 
 ### Wednesday:
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fshasta-2020-wednesday%2F" frameborder="0" ></iframe>
@@ -46,10 +46,10 @@ Follow and booking: [Facebook Page](https://www.facebook.com/djpeterhenryofficia
 [(Tracklist)](lists/Shasta 2020 Wednesday Evening.txt)
 
 [Wednesday Night Part 1](https://www.dropbox.com/s/s00e66ruxijue8g/Shasta%202020%20Wednesday%20Night%20%28Part%201%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Wednesday Night \(Part 1\).txt)
+[(Tracklist)](lists/Shasta 2020 Wednesday Night (Part 1).txt)
 
 [Wednesday Night Part 2](https://www.dropbox.com/s/pwxd6pu42tw2h6x/Shasta%202020%20Wednesday%20Night%20%28Part%202%29.mp3?dl=0)
-[(Tracklist)](lists/Shasta 2020 Wednesday Night \(Part 2\).txt)
+[(Tracklist)](lists/Shasta 2020 Wednesday Night (Part 2).txt)
 
 
 # A New Chapter
