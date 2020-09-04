@@ -89,18 +89,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-1231039-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "DJ Peter Henry"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I have been a DJ for almost 20 years.  I like it louder than you do!"
-  location         : "San Francisco"
+  avatar           : "/assets/images/blue_dj_head_crop.jpg"
+  bio              : "I've been pushing play for almost 20 years.  Put on a mix and turn it up!"
+  location         : #"San Francisco"
   email            : "phenry@gmail.com"
   links:
     - label: "Email"
@@ -114,7 +114,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/djpeterhenryofficial/"
+    - label: "Twitch"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.twitch.tv/djpeterhenry"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
