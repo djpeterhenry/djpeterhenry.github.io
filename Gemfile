@@ -38,3 +38,6 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
+# for minimal mistakes support
+# https://github.com/mmistakes/minimal-mistakes/issues/1937
+gem 'jekyll-include-cache'
