@@ -1,3 +1,7 @@
+---
+title: SFT Halloween
+---
+
 Halloween 2016 at the SFT.
 
 <iframe width="100%" height="180" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fpeter-henry5%2Fplaylists%2Fsft-halloween%2F" frameborder="0" ></iframe>
