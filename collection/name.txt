@@ -482,7 +482,6 @@ ASTR - Activate Me (SNBRN Remix)
 ASTR - Activate Me
 ASTR - Hold On We're Going Home (Drake Cover)
 ASTR - Operate (The Chainsmokers Remix)
-Astrid Suryanto - Home (Neil Quigley Remix)
 Astronaut - Rain (Raise Spirit Remix)
 Astronomyy - Nothin On My Mind (Bearson Remix)
 ATB & Dash Berlin - Apollo Road (Club Version)
@@ -1028,6 +1027,7 @@ Boys Noize - Jeffer
 Boys Noize - Oh (A-Trak Remix)
 Boys Noize - What You Want (Chromeo Remix)
 Boys Noize - XTC (The Chemical Brothers Remix)
+Braaten, Victor Perry - Big Jet Plane
 Brandy & Monica - The Boy Is Mine (Kulkid Remix)
 Brass Knuckles - Bad Habits (Joe Maz Remix)
 Brassica - Tears I Can Afford (Bicep Remix)
@@ -1196,6 +1196,7 @@ Caravan Palace - Clash
 Caravan Palace - Jolie Coquine
 Caravan Palace - Lone Digger
 Caravan Palace - Suzy
+Carbon Based Lifeforms - Supersede (Original Mix)
 Carbon Community vs Burufunk - Community Funk (Deadmau5 Remix)
 Cardi B - I Like It
 Cari Golden & Bambook & Mennie - Slip Away (Olivier Giacomotto Remix)
@@ -1338,6 +1339,7 @@ Chris Malinchak - If U Got It (Mark Knight Remix)
 Chris Malinchak - So Good To Me (Eat More Cake Remix)
 Chris Malinchak - So Good To Me (Original Mix)
 Chris Malinchak - Stranger (ft Mikky Ekko) (Extended Mix)
+Chris Malinchak - The Letter (Original Mix)
 Chris Thile - Bridal Veil Falls
 Chris Young - Gettin' You Home
 Chrispy - Inspector Gadget (Dubstep Refix)
@@ -1408,8 +1410,6 @@ Cider Sky - We Are In Love
 CIOZ - Lucky Shot (Original Mix)
 Circle Sky - The Light (Patrice Bäumel Remix)
 Circulation - Turquoise (differentGear Remix)
-Circulation - Turquoise (Guy J Remix)
-Circulation - Turquoise (Original Mix)
 Cirez D - On Off (Sebastien Leger Remix)
 Cirez D - Ruby (Original Mix)
 Citizenn - Songs of Praise + Worship (Part 2)
@@ -2608,6 +2608,7 @@ Flux Pavilion - International Anthem (feat. Doctor)
 Fly o Tech - Funk Me Down (Original Mix)
 Flying Lotus - All In
 Flying Lotus - Until The Quiet Comes
+Fløa, OAI - You Are (Extended Mix)
 Foals - In Degrees (Purple Disco Machine Remix)
 Foals - Late Night (Solomun Remix)
 Foals - My Number (Hot Chip Remix)
@@ -2896,6 +2897,7 @@ Gorgon City - Imagination
 Gorgon City - Lick Shot (Extended Mix)
 Gorgon City - Motorola (Extended Mix)
 Gorgon City - No More
+Gorgon City - Primal Call (Extended Mix)
 Gorgon City - Roped In (Extended Mix)
 Gorgon City - Sky High
 Gorgon City, Sofi Tukker - House Arrest (Extended Mix)
@@ -2991,6 +2993,7 @@ Gui Boratto - Paralelo (Oliver Schories Remix)
 Gui Boratto - The Rivington
 Guided By Voices - Teenage FBI
 Guru Josh Project - Infinity 2008 (Klaas Remix)
+Gus F - Belfast (feat. Georgi Mottram)
 Gus Gus - Anthem (T-World Remix)
 Gus Gus - Arabian Horse
 Gus Gus - Crossfade (Maceo Plex Mix)
@@ -3472,6 +3475,7 @@ Jessie Ware - Wildest Moments (T. Williams Remix)
 Jetlag - So Right (Axwell & BT's Essence Dub)
 Jez Dior - Hide
 Jhene Aiko - My Afternoon Dream
+Jiggler - Nebula (Original Mix)
 Jiggler - Stairs (Original Mix)
 Jill Scott - Daydreamin (Jerry Folk Remix)
 Jim Henderson - Never Ending (Original Mix)
@@ -4140,6 +4144,7 @@ Lily & Madeleine - Come To Me (Ofenbach Remix) [Radio Edit]
 Lily Allen - Fuck You
 Lily Allen - Not Fair (Oblivion Remix)
 Limahl - Never Ending Story
+Limara - Keep It (Original Mix)
 Lindsey Stirling - Crystallize
 Lindsey Stirling - Elements
 Lindstrom - Closing Shot
@@ -4586,6 +4591,7 @@ Meduza - Lose Control (Extended Mix)
 Mees Salomé - A Simpler Time (Original Mix)
 Mees Salomé - Equivalence (Original Mix)
 Mees Salomé - Magnolia (Original Mix)
+Megan Thee Stallion - Savage (Major Lazer Remix)
 Meghan Trainor - All About That Bass
 Meiko - Leave The Lights On (Cobalt Rabbit Remix)
 Meiko - Leave The Lights On (KROT Remix)
@@ -5140,6 +5146,7 @@ NuKid - Aftermath (Original Mix)
 NuKid - Enemy (Original Mix)
 NuTone - 'Til Dawn
 NuTone - Tides (feat. Lea Lea)
+Nuyorican Soul, George Benson - You Can Do It (Baby) feat. George Benson (Nuyorican Style Mix)
 NVG - First Trip
 NVOY - Going On
 NVOY - Is It Good (DJ Edit)
@@ -6701,6 +6708,7 @@ Tensnake - Coma Cat (Treasure Fingers Remix)
 Tensnake - Coma Cat
 Tensnake - Love Sublime (Duke Dumont Remix)
 Tensnake - See Right Through (feat. Fiora)
+Tensnake, Nile Rodgers, Fiora - Love Sublime (Extended Mix)
 Tep No - It's Alright (NGHTMRE Remix)
 Teser - Duo (Original Mix)
 Tessela - Hackney Parrot
@@ -7095,6 +7103,7 @@ Tim Engelhardt, Leonard Bywa - Chymera (Original Mix)
 Tim Green - Eclipse (Original Mix)
 Tim Green - For A Distant Memory (Original Mix)
 Tim Green - For A Memory
+Tim Green - Sea Parade (Original Mix)
 Tim Green - To Know Nothing (Original Mix)
 Tim Hox - Morbus (Take A Step Back)
 Tim McGraw - Felt Good On My Lips
@@ -7211,6 +7220,7 @@ Tritonal - Now Or Never (Single)
 Tube & Berger - Imprint of Pleasure (Monkey Safari Remix)
 Tube & Berger - Imprint Of Pleasure
 Tube & Berger - Ruckus (Dennis Cruz Remix)
+Tube & Berger, Alegant - Get Down (Original Mix)
 Tube & Berger, in.deed - Highness (Original Mix)
 Tuesday Born - Wake (feat. Dnae) (Pale Remix)
 Tuesday Born - Wake (feat. Dnae) (Two Inch Punch Remix)
@@ -7239,6 +7249,7 @@ Ty Dolla $ign, Khalid, 6lack - OTW
 Tycho - Apogee (RJD2 Remix)
 Tycho - Awake
 Tycho - Dive
+Tycho - Easy (Mild Minds Remix)
 Tycho - Epoch (Luttrell Remix)
 Tycho - Epoch
 Tycho - Hours (Teen Daze Remix)
@@ -7391,6 +7402,7 @@ VNTM - Haunted (Original Mix)
 Voiski - Happy Piece for Happy People Piece
 Volen Sentir - Fatoumata (Original Mix)
 Volkoder - Sex U (Original Mix)
+Vridian - Gabacho (Original Mix)
 VV Brown - Shark In The Water (Blame Remix)
 W&W & Jochen Miller - Summer (Original Mix)
 W&W & Ummet Ozcan - The Code
@@ -7474,6 +7486,8 @@ Wilsen - Oblivion
 Wilson Pickett - Land of 1000 Dances
 Wish I Was - Cutting Ties (Extended)
 Wiz Khalifa - This Plane (Viceroy Jet Life Remix)
+WNDLN - Airwave (Jiminy Hop Remix)
+WNDLN - Airwave (Original Mix)
 Wolf Alice - Leaving You (Sound Remedy Remix)
 Wolf Saga & Lemon - Young Folks (Cover)
 Wolfgang Gartner - Flexx
@@ -7575,6 +7589,7 @@ Yotto - The Owls
 Yotto - Turn It Around (Monkey Safari Extended Mix)
 Yotto - Turn It Around (Ruede Hagelstein's Extended Rise Again Mix)
 Yotto - Wondering (feat. CAPS)
+Yotto, Cassian - Grains (Original Mix)
 Young Empires - White Doves (Natural Animal Remix)
 Young Galaxy - New Summer
 Young Galaxy - Pretty Boy (Peaking Lights Remix)
