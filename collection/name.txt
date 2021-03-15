@@ -751,6 +751,7 @@ Belinda Carlisle - Heaven is a Place on Earth (Acappella Version)
 Belinda Carlisle - Heaven is a Place on Earth
 Bellanova - Stairway To Heaven (Daniele Petronelli Vocal Mix)
 Ben Bohmer - After Earth (Original Mix)
+Ben Bohmer - Cappadocia
 Ben Bohmer - Morning Falls (Original Mix)
 Ben Bohmer - Soulline (Original Mix)
 Ben Bohmer, Malou - Lost In Mind (Volen Sentir Extended Vision)
@@ -1075,7 +1076,7 @@ Brother - A Dream Like State
 Brother Brown - Under The Water (Brother Brown Original Edit)
 Brother Brown - Under The Water (Deep Dish Radio Edit)
 Brother Brown - Under The Water (Deep Dish Under Pressure Remix - Edit)
-Brother Brown - Under The Water (Frankeepella) (als)
+Brother Brown - Under The Water (Frankeepella) (als) 2
 Brother Brown - Under The Water (Starecase Remix)
 Bruce Springsteen - Secret Garden (With Strings) 
 Bruno Mars - Just The Way You Are
@@ -1099,7 +1100,6 @@ BT - Somnambulist (Sander Kleinenbergs Convertible Mix)
 BT - Somnambulist
 Bubbles - Bidibodi Bidibu
 Budakid & Tim Engelhardt - Everyone Is Looking (Jonas Saalbach Remix)
-Budakid & Tim Engelhardt - Everyone Is Looking
 Budakid, Jonas Saalbach - Nautique (Extended Mix)
 Bunji Garlin & Nigel Rojas - Differentology
 BUNT. - Journey (Extended Mix)
@@ -1463,7 +1463,6 @@ Clean Bandit - Rather Be (Acapella)
 Clean Bandit - Rather Be (Elephante Remix)
 Clean Bandit - Rather Be (feat. Jess Glynne) (The Magician Remix)
 Clean Bandit - Rather Be (feat. Jess Glynne)
-Clean Bandit - Real Love (The Chainsmokers Remix)
 Clean Bandit - Rihanna (feat. Noonie Bao)
 Cleavage - Need Someone (Original Mix)
 Cleptmaniacs - All I Do (Bump & Flex Dance Floor Dub)
@@ -1642,7 +1641,6 @@ Daft Punk - Voyager
 Dahlia - Lilia
 Dahlia - My Back
 Dahu, MPathy - Sonder (Original Mix)
-Dahu, MPathy - Sonder (Soul Button Remix)
 Dajae, Detlef - Deep Dip (Original Mix)
 Daktyl - Do Without
 Dale Earnhardt Jr. Jr. - If You Didn't See Me (Then You Weren't On The Dancefloor)
@@ -1778,6 +1776,7 @@ Deadmau5 - All I Had
 Deadmau5 - Alone With You (Original Mix)
 Deadmau5 - Alone With You
 Deadmau5 - Arguru (Original Mix)
+deadmau5 - Arguru 2k19 (Original Mix)
 Deadmau5 - Aural Psynapse (2nd Edit)
 Deadmau5 - Aural Psynapse (ATTLAS Remix)
 Deadmau5 - Avaritia
@@ -1830,6 +1829,7 @@ Deadmau5 - The Veldt (Tommy Trash Remix)
 deadmau5 - Three Pound Chicken Wing (Original Mix)
 Deadmau5 - Where My Keys
 Deadmau5, Grabbitz - Let Go (Extended Mix)
+deadmau5, Kiesza - Bridged By a Lightwave (Lamorn Remix)
 deadmau5, Shotty Horroh - Legendary (Original Mix)
 Deadmau5, Wolfgang Gartner - Animal Rights (Original Mix)
 Deadmau5, Wolfgang Gartner - Channel 42 (Original Mix)
@@ -2620,8 +2620,7 @@ Foals - My Number (Totally Enormous Extinct Dinosaurs Remix)
 Foamo - Without You (Original Mix)
 Follow Me - Somethin Bout You
 Fono - Real Joy (Extended Mix)
-Foreigner - Cold As Ice (Specimen A Remix)
-Foreigner - Cold As Ice
+Foreigner - Cold As Ice (unwarped)
 Fort Arkansas - Mine All Day (Original Club Mix)
 Fort Arkansas - No More Time (Original Club Mix)
 Fort Knox Five - Mission To The Sitars (Sabo Remix)
@@ -3308,6 +3307,7 @@ Jackson 5 - Abc
 Jackson 5 - I Want You Back
 Jackson 5 - I'll Be There
 Jackson And His Computerband - Vista
+Jacob Groening, Joy Tyson - Brace (Original Mix)
 Jacob Plant - Fire (House VIP)
 Jacob Plant - Fire
 Jacques Greene & How To Dress Well - On Your Side (Full Version)
@@ -3718,6 +3718,7 @@ Kaskade - Feeling The Night
 Kaskade - It's You, It's Me (Marques Wyatt's Deep Interpretation Remix)
 Kaskade - Love Like That feat. Dani Poppitt (Extended)
 Kaskade - Never Sleep Alone (Extended)
+Kaskade - Nobody Like You (Sun Soaked Mix)
 Kaskade - On Your Mind (Original Mix)
 Kaskade - SFO To ORD
 Kaskade - Something Something Champs
@@ -3833,6 +3834,7 @@ Kid Loco - Love Me Sweet
 Kid Loco - Relaxing With Cherry
 Kid Rock - All Summer Long
 Kid Simius - The Flute Song (Paul Kalkbrenner Remix)
+Kidnap - Silence (Extended Mix)
 Kidnap - Skin (Rinzen Remix)
 Kidnap Kid - First Light
 Kidnap Kid - Freedom
@@ -3974,6 +3976,7 @@ Kygo - Firestone
 Kygo - Nothing Left (feat. Will Heard)
 Kygo, Oliver Nelson - Riding Shotgun feat. Bonnie McKee (Original Mix)
 Kygo, Whitney Houston - Higher Love (Original Mix)
+Kylie Minogue & Dua Lipa - Real Groove (Studio 2054 Remix)
 Kylie Minogue - Can't Get You Out Of My Head (Soulwax KYLUSS Remix)
 Kylie Minogue - Can't Get You Out of My Head
 Kylie Minogue - Get Outta My Way (Shreddie Mercury Remix)
@@ -3990,11 +3993,7 @@ La Roux - Bulletproof (Gamper & Dadoni Remix)
 La Roux - In For The Kill (Skream's Let's Get Ravey Remix)
 Labtracks - Robotic Love (Lenno remix)
 Lady Bee - Drop It Down Like (Club Edit)
-Lady Gaga - Applause (Purity Ring Remix)
-Lady Gaga - Applause (Viceroy Remix)
 Lady Gaga - Bad Romance
-Lady Gaga - Do What U Want (featuring R. Kelly)
-Lady Gaga - Do What U Want (Steven Redant Barcelona Remix)
 Lady Gaga - Just Dance (Feat. Colby O'Donis)
 Lady Gaga - Paparazzi
 Lady Gaga - Poker Face
@@ -4050,6 +4049,7 @@ Lane 8 - No Captain feat. Polica (Dirty South Remix)
 Lane 8 - No Captain feat. POLICA (Original Mix)
 Lane 8 - The Disappearance of Colonel Mustard (Original Mix)
 Lane 8 feat. Bipolar Sunshine - I Got What You Need (Every Night)
+Lane 8, Julia Church - Oh, Miles
 Lane 8, Kasablanca - Run (Original Mix)
 Lane 8, Khaen - Duchess (Original Mix)
 Lane 8, Massane - And We Knew It Was Our Time (Original Mix)
@@ -4193,7 +4193,6 @@ Logistics - Slow Motion
 London Elektricity - Different Drum
 London Elektricity - Just One Second (Acapella)
 London Elektricity - Just One Second (Apex Remix)
-London Elektricity - Just One Second (Apex VIP)
 London Elektricity - Just One Second
 London Elektricity - Meteorites
 London Elektricity - The Plan That Cannot Fail
@@ -4206,6 +4205,7 @@ London Grammar - Hey Now (Tensnake Remix)
 London Grammar - Hey Now
 London Grammar - If You Wait (Jacques Lu Cont Remix)
 London Grammar - Interlude (PRFFTT & Svyable Remix)
+London Grammar - Lose Your Head (CamelPhat Extended Remix)
 London Grammar - Nightcall (Joe Goddard Remix)
 London Grammar - Sights (Dennis Ferrer Remix)
 London Grammar - Wasting My Young Years (Sound Remedy Remix)
@@ -4232,7 +4232,6 @@ Lorde - White Teeth Teens
 Lorn - Acid Rain
 Lorn - Diamond
 Los Del Rio - Macarena (Bayside Boys Remix)
-Lost Desert, Amand - That Moment and You (Original Mix)
 Lost Frequencies - Are You With Me (DIMARO Remix)
 Lost Frequencies - Are You With Me (Extended Mix)
 Lost Frequencies - Are You With Me (Kungs Remix)
@@ -4460,6 +4459,7 @@ Maroon 5 - Animals
 Maroon 5 - Sugar
 Marquis Hawkes - The Basement Is Burning (Original Mix)
 Marsh - 1992 (Extended Mix)
+Marsh - Face to Face (Original Mix)
 Marshall Jefferson - The House Music Anthem (Move Your Body)
 Marshall Jefferson, Solardo - Move Your Body (Extended Mix) (2)
 Marshmello, Khalid - Silence (Illenium Remix)
@@ -4631,7 +4631,7 @@ Meute - Acamar
 MEUTE - Gula (Deadmau5 Cover)
 Meute - Rej
 MEZERG - Welcome Theremin (Original Mix)
-MGMT - Electric Feel (Justice Remix)
+MGMT - Electric Feel (Justice Remix) (2)
 MGMT - Kids (Original Mix)
 MGMT - Kids (Soulwax Remix)
 MGMT - Time to Pretend (Original Mix)
@@ -4756,8 +4756,6 @@ MitiS - There Within
 Mitski - Francis Forever (Ryan Hemsworth Remix)
 Miyagi - Voyager (Original Mix)
 Miyagi - Voyager (Tara Brooks Remix)
-Miyagi, Allies for Everyone - Clouds (Nicone Remix)
-Miyagi, Allies for Everyone - Clouds (Original Mix)
 Miyagi, Allies for Everyone - Clouds (Solee Remix)
 MJ Cole - Sincere (Nero Remix)
 MK & Lee Foss & Anabel Englund - Electricity
@@ -5091,6 +5089,7 @@ Noah - It Breaks Your Heart (Marv Remix)
 Noel Nanton - Your Love (Ian Pooley Summertime Mix)
 Nohan - Four Walls (Lost Desert Remix)
 Nohan - The Moon (Original Mix)
+Nohan - Time (Armen Miran Remix)
 Noir & Haze - Around (Solomun Dub)
 Noir & Haze - Around (Solomun Vox)
 Noir - My MTV (D. Ramirez Evil Business Remix)
@@ -5287,6 +5286,7 @@ Osunlade, Pastaboys - Deep Musique (Rampa Remix)
 Otto Knows - Million Voices (Acapella)
 Otto Knows - Million Voices
 Out of Sorts - Ullus (Nicone Remix)
+Outcome, Philipp Straub - Lyra (Original Mix)
 Outkast - At Liens (Acapella)
 OutKast - ATLiens
 OutKast - Hey Ya! (Freeze)
@@ -5305,6 +5305,7 @@ Ozone - Dragostea Din Tei (Numa Numa)
 Pablo Bolivar - Edanna (Kora Remix)
 Pablo Bolivar - Try To Touch
 Pablo Cetrini - A Freak
+Pablo Nouvelle - The Karman Line (Original Mix)
 Pacha - One Kiss (Fathers Of Sound One Mix)
 Pachanga Boys - Time
 Pachelbel - Canon in D
@@ -6024,7 +6025,7 @@ Saint & Doobious - Ayo Technology
 SAINt JHN - Roses (Imanbek Remix Extended)
 Saint Motel - My Type (KANT Remix)
 Sainte Vie - High Seas (Original Mix)
-Salt N Pepa - Push It (1988)
+Salt-N-Pepa - Push It
 Sam F & The Lonely Island & Lil Jon - When Will The Bass Drop (Slander Festival Trap Edit)
 Sam Feldt & De Hofnar - Bloesem (Original Mix)
 Sam Feldt & Kav Verhouzer - Hot Skin
@@ -6366,6 +6367,7 @@ Sofi Tukker - Purple Hat (Extended)
 Sofi Tukker - Swing (Crush Club Remix)
 Sofi Tukker - Swing (Mahmut Orhan Remix)
 Sofi Tukker, Betta Lemme - Awoo
+Sofi Tukker, Novak, YAX.X - Emergency
 Sofie Winterson - I Only Wanted You
 Soft Cell - Tainted Love
 Sol Brothers - Turn Me Out (illyus & Barrientos Extended Remix)
@@ -6382,6 +6384,7 @@ Solee - Infinidad (Martin Landsky Remix)
 Solee - Infinidad (Original Mix)
 Solee - Jule
 Solee - Legends (John Tejada Remix)
+Solee - March of the Giants (Original Mix)
 Solee - Pink Panther (Original Mix)
 Solee - Sommerliebe (Eelke Kleijn Remix)
 Solee - Sommerliebe (Original Mix)
@@ -6594,6 +6597,7 @@ Sufjan Stevens - You Are The Blood
 Sugarhill Gang - Apache (Kastra Bootleg)
 Sugarhill Gang - Apache
 Sugarhill Gang - Rapper's Delight (Original '79 Full Length Version)
+Sultan + Shepard - nCTRL (Original Mix)
 Sultan + Shepard - Tarengiri (Original Mix)
 Sun City - High
 Sunny Lax - Enceladus
@@ -7173,13 +7177,13 @@ Tom Pooks - Trouble (Wink Edit)
 Tom Staar - Rocket (Original Club Mix)
 Tommy Trash & Wax Motif - HEX (Original Mix)
 Tone Loc - Wild Thang (1989)
+Tone-Loc - Wild Thing
 Tongues. - Religion
 Toni Braxton - You're Makin' Me High
 Tonic - Groundy (Original Mix)
 Tonite Only - Danger The Bomb (Hook N Sling Kid Kenobi Remix)
 Tontario & Saxokid - A Better World
 Tontario - Late
-Tony Bennett & Lady Gaga - Cheek To Cheek
 Tony Bennett - The Way You Look Tonight
 Toomy Disco - Venezuela
 Toploader - Dancing In The Moonlight
@@ -7291,6 +7295,7 @@ U2 - The Fly
 U2 - With Or Without You (Dr Kucho Rework)
 U2 - With Or Without You (TEEMID Edit)
 UB40 - Can't Help Falling In Love
+Ubbah, Paradoks, Lunar Plane - Fluctus (Original Mix)
 Uffie - Pop The Glock
 Ulrich Schnauss - I Take Comfort In Your Ignorance (Tycho Remix)
 Ulrich Schnauss - Nobody's Home
@@ -7316,6 +7321,7 @@ Underworld - Rez
 Unity - First Play
 Unjam Emery - Sleepwalker (Original Mix)
 UNKLE vs Petter - What Are You To Me (Sashas Involver Remix)
+Unknown7 - One, 2 Step (Original Mix)
 Upercent - Tirant Lo Blanc (Original Mix)
 Urban Cone & Tove Lo - Come Back To Me
 Urban Cone - Come Back To Me (Filous Remix)
@@ -7426,6 +7432,7 @@ Waldeck - Make My Day
 Walk Off The Earth - Somebody That I Used To Know (Gotye Cover)
 Walk Off The Earth - Summer Vibe
 Walk The Moon - Shut Up and Dance
+Walker & Royce - Uh Oh (Original Mix)
 Walker & Royce, VNSSA - Word (Original Mix)
 Walter Meego - Forever
 Wamdue Project - King of My Castle (Roy Malones King Mix)
