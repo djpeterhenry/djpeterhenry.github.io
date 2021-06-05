@@ -1,3 +1,13 @@
+Sisqo - Thong Song (acapella)
+Usher - Yeah (acapella)
+Vanilla Ice - Ice Ice Baby (acapella)
+Sisqo - Thong Song
+ACDC - You Shook Me All Night Long
+ACDC - Thunderstruck
+Talking Heads - And She Was
+Salt-N-Pepa - Push It
+Tone-Loc - Wild Thing
+Kaskade - Us
 Lost Frequencies, Love Harder - Beat of My Heart (Deluxe Extended Edit)
 Lost Frequencies, Love Harder - Beat Of My Heart (Deluxe Intro Edit)
 Kaskade & John Dahlback - A Little More (Extended Mix)
@@ -621,8 +631,6 @@ Lady Gaga - Telephone (feat. Beyonce)
 Lady Gaga - Poker Face
 Journey - Don't Stop Believin'
 Journey - Don't Stop Believing (The Sunday Club 2010 Remix)
-Tone-Loc - Wild Thing
-Salt-N-Pepa - Push It
 Deadmau5 - Aural Psynapse (ATTLAS Remix)
 Madeon - The City (The M Machine Remix)
 Amtrac, Saint Kenaire - Teenage Love (Durante Remix)
@@ -630,7 +638,6 @@ Danijel Kostic - Vinternatt (Nora en Pure & Sons of Maria Remix)
 Solee - March of the Giants (Original Mix)
 Us3 - Cantaloop (Flip Fantasia)
 Stetsasonic - Talkin' All That Jazz (Torti's Old School Of Edits Dub)
-Talking Heads - And She Was
 Talking Heads - This Must Be The Place (Naive Melody)
 Talking Heads - Once In A Lifetime (Gigamesh Remix)
 Drake - Forever (Nosaj Thing Remix)
@@ -1419,7 +1426,6 @@ Zedd & Foxes - Clarity (Vicetone Remix)
 Bastille - Laura Palmer (Kat Krazy Remix)
 Lorde - Team (Elephante Remix)
 Rihanna & Calvin Harris - We Found Love (Extended Version)
-Kaskade - Us
 Kaskade, Brohug, Mr. Tape - Fun (Extended Mix)
 Klingande - Jubel (Original Mix)
 DJ Ross & Marvin - Baker Street (Extended Mix) (2)
@@ -1962,7 +1968,6 @@ Harlem Hustlers - Feelin' (Club Mix)
 Digitalism - Moonlight
 Death Cab For Cutie - I Will Possess Your Heart
 Dominik Eulberg - Sansula (Max Cooper's Lost In Sound Mix)
-Vanilla Ice - Ice Ice Baby
 Ryan Hemsworth - Perfectly
 The Magician - Sunlight (Blonde Remix)
 Rufus - Desert Night
@@ -3709,7 +3714,6 @@ Pogo - Wishery
 Ellie Goulding - High For This (Monsieur Adi Remix)
 John Legend - All Of Me (Tiesto Birthday Treatment Mix)
 Above & Beyond - Counting Down The Days (Extended Mix)
-Usher - Yeah
 Argoman - Chimicalissimo (Original Mix)
 Nu - Geno (Bedouin Remix)
 Ponty Mython - Morning On A Boeing 747
@@ -4146,7 +4150,6 @@ Jose Maria Ramon & William Medagli & Thallulah - No Infinity (Jonas Saalbach Mix
 Kesha - Tik Tok (Acapella)
 Todd Terje - Jungelknugen (Four Tet Remix)
 Funkagenda - Roman a Clef
-FCL & Secondcity - It's You (Secondcity Back to 1990 Mix)
 Dennis Ferrer & Jerome Sydenham - Timbuktu (Pan-African Electro Dub)
 Hellogoodbye - Here [In Your Arms]
 Electric Youth - Runaway
@@ -4358,7 +4361,6 @@ Eco & Martin Roth - Tonight Is Forever (Martin Roth Edit)
 Eco & Martin Roth - Tonight Is Forever (Martin Roth & Paris Nova Remix)
 Moby - Everytime You Touch Me
 Cazzette - Sleepless (Club Edit)
-Sisqo - Thong Song
 Kolsch - DerDieDas
 Hermetico - 2 + 3
 Brother Brown - Under The Water (Deep Dish Under Pressure Remix - Edit)
@@ -5388,7 +5390,6 @@ Iggy Azalea - Fancy (Feat. Charli XCX)
 Brooks & Dunn - Boot Scootin' Boogie
 Redbone - Come And Get Your Love
 Blue Swede - Hooked on a Feeling
-ACDC - You Shook Me All Night Long
 Eric Clapton - Wonderful Tonight
 Van Morrison - Into The Mystic
 Chris Young - Gettin' You Home
@@ -5425,7 +5426,6 @@ Blake Shelton - Sangria
 Beach Boys - Surfin' Safari
 Beach Boys - Kokomo
 Alan Jackson - Livin' On Love
-ACDC - Thunderstruck
 Ed Sheeran - I See Fire (Kygo Remix)
 Say Lou Lou - Instant Crush (Daft Punk Cover)
 Rudimental - Waiting All Night (Kaptain Remix)
@@ -6345,7 +6345,6 @@ Goldroom - Fifteen feat. Chela (Rotkraft Remix)
 Great Good Fine OK - You're the One for Me
 Stevie Wonder - Superstition
 Notorious B.I.G. - Big Poppa (Lucas Chambon Remix)
-AC DC - Back In Black (Samples Remix)
 Sam Smith - Stay With Me (Lost Hustle Mary J Refix)
 Electric 6 - Improper Dancing
 Sigur Ros - The Rains of Castamere
@@ -6545,7 +6544,6 @@ T-Pain - Buy U A Drank
 Squarepusher - Theme from Ernest Borgnine
 Zella Day - Compass (Louis The Child Remix)
 Thee Cool Cats - Will Never Do
-Sisqo - Thong Song (Artful Doger Remix)
 Paul Van Dyk & Plumb - I Don't Deserve You (Seven Lions Remix)
 Brenmar - Medusa feat. Rush Davis
 La Bouche - Be My Lover (Radio Edit)
@@ -7323,7 +7321,6 @@ Burial - Hiders
 Burial - Come Down To Us (not fully warped but sweet)
 Autre Ne Veut - Counting
 Krewella - Lights & Thunder (feat. Gareth Emery)
-Sisqo - Thong Song
 Kanye West - Flashing Lights (TWRK Remix)
 Kill Paris - I Wanna Be Your Lover
 Dyro & Ansol - Top Of The World

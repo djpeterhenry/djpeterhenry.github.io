@@ -509,6 +509,7 @@ Gorgon City, Sofi Tukker - House Arrest (Extended Mix)
 Inner City - Good Life (Kobhi Bootleg)
 Joe Goddard - Music Is The Answer (Hot Since 82 Remix)
 Kaskade - Disarm You (feat. Ilsey) (Extended)
+Kaskade - Us
 Labtracks - Robotic Love (Lenno remix)
 Lana Del Rey - Video Games (Sound Remedy Remix)
 Mat Zo - Lucid Dreams (ilan Bluestone Remix)
@@ -547,7 +548,6 @@ Flight Facilities - Clair De Lune (Motez Remix)
 Freischwimmer - California Dreamin (Acoustic Mix)
 Jack U & Ember Island - Where Are U Now (Gamper & Dadoni Remix)
 Jos & Eli - Instrumental Odyssey (Finnebassen Remix)
-Kaskade - Us
 Kidnap Kid - Moments
 Mat Zo - Synapse Dynamics (Arty Remix)
 Monolink - Burning Sun (DAVI Remix)
@@ -1434,6 +1434,7 @@ The M Machine - A Shadow in the Rose Garden (Original Mix)
 Touch Sensitive - Pizza Guy
 Trentemøller - Always Something Better (DJ Tennis & Mind Against Remix)
 UB40 - Can't Help Falling In Love
+Vanilla Ice - Ice Ice Baby (acapella)
 Whilk & Misky - Clap Your Hands (Solomun Remix)
 Who da Funk - Shiny Disco Balls
 X-Press 2 - Smoke Machine (James Talk Remix)
@@ -1517,12 +1518,12 @@ Silicone Soul - Feeling Blue
 St Germain - Rose Rouge (Joris Voorn Secret Mix)
 Sunshine Jones - If You Wouldn't Mind (Less Hate & Valentina Black Remix)
 Tag Team - Whoomp! (There it is)
+Talking Heads - And She Was
 The Egg - Walking Away 2009 (J Majik & Wickaman Remix)
 The Pharcyde - Runnin (Bit Funk Remix)
 Tube & Berger - Imprint of Pleasure (Monkey Safari Remix)
 Two Gallants - Crow Jane
 Ultraista - Smalltalk (Whomi Remix)
-Vanilla Ice - Ice Ice Baby
 Way Out West - Tuesday Maybe (Modd Extended Mix)
 Whitney Houston - I Learned From The Best (Gryffin Remix)
 WhoMadeWho - Heads Above (Kollektiv Turmstrasse Remix)
@@ -1643,14 +1644,13 @@ Subvader - Arctica
 Swedish House Mafia - Don't You Worry Child
 Syn Cole - Miami 82 (Avicii Edit)
 Taio Cruz - Dynamite (Album Version)
-Talking Heads - And She Was
 Tchami - Untrue (Original Mix)
 The Notwist - Chemicals
 The Orb - Little Fluffy Clouds
 The Police - King Of Pain (DJ Icey Re-Work) (Vinyl Only)
 The Stranglers - Golden Brown
 Tim Green - Eclipse (Original Mix)
-Usher - Yeah
+Usher - Yeah (acapella)
 VHS Or Beta - Can't Believe A Single Word
 Vanilla Ice - Ice Ice Baby
 Walk Off The Earth - Somebody That I Used To Know (Gotye Cover)
@@ -2506,6 +2506,7 @@ Shapeshifters - Lola's Theme (Extended Vocal Mix)
 Shura - Touch
 Silence Groove - Dreams Do Come True
 Sir Mix A Lot - Baby Got Back
+Sisqo - Thong Song (acapella)
 Skrillex - Scary Monsters And Nice Sprites
 Solee, Alyne - Elfen (Original Mix)
 Sonique - It Feels So Good (Breakbeat 12)
@@ -2854,6 +2855,7 @@ ilan Bluestone - Atlantis
 50 Cent - Disco Inferno (Acapella)
 A Tribe Called Quest - Bonita Applebum
 A Tribe Called Quest - Can I Kick It (Sharam Jay Remix)
+ACDC - You Shook Me All Night Long
 ATB - My Dream
 ATB - Zwischenstuck
 AWOLNATION - Sail (Joe Maz Remix)
@@ -3130,6 +3132,7 @@ Rufus Du Sol - Another Life (Hot Since 82 Remix)
 Rufus Du Sol - Underwater (Original Mix)
 Rufus Du Sol - Underwater (Yotto's Dusk Remix Extended)
 SNBRN - California (Original Mix)
+Salt-N-Pepa - Push It
 Sam Goku - Kami (Original Mix)
 Sander Van Doorn & Martin Garrix & DVBBS - Gold Skies (Original Mix)
 Sasha - Cassette Sessions E (Rival Consoles Remix)
@@ -3144,7 +3147,6 @@ Sigur Ros - The Rains of Castamere
 Simon & Garfunkel - Cecilia
 Sir Felix - Hope (Nora En Pure Remix)
 Sir Sly - Gold (Phazz Remix)
-Sisqo - Thong Song
 Skrillex - Fire Away
 Slow Magic - Waited 4 U (ODESZA Remix)
 Snoop Dogg - Drop It Like Its Hot (Tim Gunter Remix)
@@ -3220,7 +3222,6 @@ Zone+ & Usif - Balkan (Monolink Remix)
 50 Cent - Ayo Technology
 50 Cent ft. Nate Dogg - 21 Questions (SNBRN Remix)
 A.Skillz & Krafty Kuts - Happiness
-ACDC - You Shook Me All Night Long
 ATB & Dash Berlin - Apollo Road (Club Version)
 Ace Of Base - The Sign
 Acid Pauli, Monolink - New Morning (Original Mix)
@@ -3589,7 +3590,6 @@ Ry, Frank Wiedemann - Howling (Âme Remix)
 Ryan Hemsworth - Snow In Newark (With Dawn Golden)
 Ryn Weaver - Promises
 Sailor & I - Turn Around (Ame Remix)
-Salt-N-Pepa - Push It
 Saschienne - Horacio Delirium
 Sasha - Cloud Cuckoo
 Sebastian Ingrosso & Tommy Trash - Reload (Vocal Version Extended Mix)
@@ -5075,6 +5075,7 @@ Tim Green - For A Distant Memory (Original Mix)
 Timbaland & Nelly Furtado & SoShy - Morning After Dark
 Timboletti - Dhunche (Original Mix)
 Tom & Hills - Digital Love (Delcroix & Delatour Original Rework)
+Tone-Loc - Wild Thing
 Tontario & Saxokid - A Better World
 Tove Lo - Love Ballad
 Township Rebellion, Kellerkind - Bird Vision (Original Mix)
@@ -5144,8 +5145,8 @@ A&G & Northmark - Run With Me (feat Gabrielle Ross)
 A-Trak - Push (Cazzette Remix)
 ABBA - Dancing Queen
 ABBA - Take A Chance On Me
-AC DC - Back In Black (Samples Remix)
 AC Slater - Calm Down
+ACDC - Thunderstruck
 ASTR - Activate Me
 Aaron Smith & Luvli - Dancin (Krono Remix)
 Above & Beyond - Counting Down The Days (Above & Beyond Club Mix)
@@ -6159,7 +6160,6 @@ Simon Baker - Plastik (Todd Terje Mix)
 Simon Vuarambon - Alcyon (Original Mix)
 Simple Minds - Themes From Great Cities (Fila Brazillia Mix)
 SirensCeol - Can We Survive (Original Mix)
-Sisqo - Thong Song (Artful Doger Remix)
 Skream & Sam Frank - Anticipate (Netsky Mix)
 Skrillex - First Of The Year (Equinox)
 Skrillex - Scary Monsters And Nice Sprites (Noisia Remix)
@@ -6324,7 +6324,6 @@ Tom Middleton - HEVA (Vincenzo Remix)
 Tom Pooks - Trouble (Wink Edit)
 Tom VR - Golden Memory (Original Mix)
 Tommy Trash & Wax Motif - HEX (Original Mix)
-Tone-Loc - Wild Thing
 Tongues. - Religion
 Tony Bennett - The Way You Look Tonight
 Tori Kelly - Shoud've Been Us (Lost Kings Remix)
@@ -6412,7 +6411,6 @@ tyDi & Melanie Fontana - Redefined
 4 Strings - Take Me Away (Into The Night) (Vocal Mix)
 7 Skies - Are We On Air
 A-Trak - Work It Out (Original Mix)
-ACDC - Thunderstruck
 ARTBAT - Best of Me (feat. Sailor & I)
 Aashton - Show You (Night Dubbing Mix)
 Above & Beyond & Zoe Johnston - You Got To Go (Seven Lions Remix)
@@ -6788,7 +6786,6 @@ Evelyn Champagne King - Shame
 EvoRush & Twice Nice - Dance With You (The Mavrik Remix)
 Excision & The Frim - Night Shine
 Eyerer & Namito - Quipa (Etienne De Crecy Remix)
-FCL & Secondcity - It's You (Secondcity Back to 1990 Mix)
 FKA Twigs - Ache
 Faithless - Salva Mea 2.0 (Above & Beyond Remix)
 Fatima Yamaha - The Creature from Culture Creation
