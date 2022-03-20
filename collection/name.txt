@@ -930,8 +930,6 @@ Bloc Party - One More Chance (Alex Metric Remix)
 Blond-ish - Endless Games (Patrice Baumel Mix)
 Blond-ish - Endless Games
 Blond-ish - Lonely Days (Hunter-Game Remix)
-Blonde - All Cried Out (Don Diablo Remix)
-Blonde - All Cried Out (The Magician Remix)
 Blonde - All Cried Out
 Blonde - Foolish (Joe Goddard Remix)
 Blondfire - Walking With Giants (Shreddie Mercury Remix)
@@ -1363,6 +1361,7 @@ Christian Loeffler - York
 Christian Loffler - All Comes
 Christian Loffler - Haul (feat Mohna)
 Christian Loffler - Mt. Grace
+Christian Loffler - Refu (Dominik Eulberg Remix)
 Christian Loffler - Reubin
 Christian Loffler - Veiled Grey
 Christina Aguilera - Genie In a Bottle (Loveless Remix)
@@ -2205,6 +2204,7 @@ Ed Solo & Skool of Thought - When I Was A Yout
 Eddie Money - Take Me Home Tonight
 Eddie Murphy - Party All The Time
 Eddie Thoneick - Solar (Deniz Koyu Mix)
+Eddie, Colleen D'Agostino - Somewhere in Between (Dirty South Extended Mix)
 Eddy M - All I Need (Original Mix)
 Editors - Black Gold (Joe Turner Remix)
 Editors - Honesty (Dinner Date Remix)
@@ -3202,6 +3202,7 @@ Hound Scales - Bokhara Stitch (Cloaka Remix)
 House Of Dad - POETS Day
 House Of Dad - Roof Metal Corrosion
 House Of Pain - Jump Around
+Housemates - Soul Value (Jersey Groove)
 How To Dress Well - Precious Love (Cyril Hahn Remix)
 How To Dress Well - Words I Don't Remember
 How to Save a Life (Instrumental)
@@ -3385,6 +3386,7 @@ James Brown - Make It Funky (2)
 James Egbert - Back To New (Aditiv & Wild Boyz! Remix)
 James Harcourt - Ultraviolet (Original Mix)
 James Hersey - Coming Over (Filous Remix)
+James Hype, Miggy Dela Rosa - Ferrari (Extended Mix)
 James Otto - Just Got Started Lovin' You
 James Talk and Ridney - Forever (Featurecast Remix)
 James Vincent McMorrow - Higher Love (Matoma Remix)
@@ -3607,7 +3609,6 @@ Joris Voorn - Esquape
 Joris Voorn - Fall (Original Mix)
 Joris Voorn - Left (Original Mix)
 Joris Voorn - Messiah (feat. HÆLOS) (Dark Science Extended Piano Mix)
-Joris Voorn - Messiah (feat. HÆLOS) (Original Mix)
 Joris Voorn - Never (Club Mix)
 Joris Voorn - Ringo (Original)
 Joris Voorn - Ryo (Mees Salome Extended Mix)
@@ -3774,6 +3775,7 @@ Kaskade vs Martin Garrix - Turn It Down Animals (Kaskade's Paradiso Mash Up)
 Kaskade vs. Martin Garrix & Victor Niglio - Turn It Down Animals (Kaskade's Festival Mash Up) (Freeze)
 Kaskade, Brohug, Mr. Tape - Fun (Extended Mix)
 Kaskade, Cop Kid - Turn It Down v3 (Extended)
+Kaskade, deadmau5, Kx5 - Escape (feat. Hayla)
 Kaskade, Felix Cartal - More (feat. Jenn Blosil)
 Kaskade, Galantis - Mercy (Original Mix)
 Kaskade, Project 46 - Last Chance (Extended Mix)
@@ -3932,6 +3934,7 @@ KiNK - Fantasia
 KiNK - Pocket Piano (Breakbeat Mix)
 KiNK - RAW (Original Mix)
 Kirsty Hawkshaw - Fine Day (James Holden Remix)
+KISLO - Mandala (Icarus Remix)
 Kissy Sell Out - Garden Friends (Aston Shuffle Remix) 192
 Kissy Sell Out - You're Not The One (Acappella)
 Kissy Sell Out - You’re Not The One (Original Mix)
@@ -4148,6 +4151,7 @@ Lea Lea - Black Or White (Goth Trad Remix)
 Leandro Da Silva - So Crazy (Original Mix)
 LeAnn Rimes - Can't Fight The Moonlight
 Leaving Laurel - Rosaro (Extended Mix)
+Leaving Laurel - sometimes it's scary but it's still just you and me (Original Mix)
 Led Zeppelin - Babe I'm Gona Leave You (Free n Losh Remix)
 Led Zeppelin - Ramble On (Souleance Re-Edit)
 Led Zeppelin - Stairway To Hip-Hop Heaven (Gramatik Remix)
@@ -4394,6 +4398,7 @@ Maceo Plex - Frisky
 Maceo Plex - Gravy Train (Nicolas Jaar Remix)
 Maceo Plex - When The Lights Are Out (Late Night Mix)
 Maceo Plex - When The Lights Are Out (Original Mix)
+Maceo Plex, Program2 - Revision feat. Giovanni (Club Mix)
 Machinegewehr - Above (Original Mix)
 Machineheart - Circles (Vanic Version)
 Macklemore & Ryan Lewis & Wanz - Thrift Shop
@@ -5311,6 +5316,7 @@ Olivier Giacomotto - Bipolar Star
 Olivier Giacomotto, Noir - Reste (Raxon Remix)
 Olivier Giacomotto, Noir - Reste
 Olivier Giacomotto, Thomas Gandey - What About Acid (Supernova Remix)
+Olivier Weiter - Toyger (Mees Salome Remix)
 Olly Murs - Army Of Two (Kat Krazy Extended)
 Om Unit & Sam Binga - Full Bones
 Om Unit & Sam Binga - Transatlantic
@@ -5860,6 +5866,8 @@ Redrago - Redrago (Club Version)
 Redshape - Tel Aviv
 Redsky & Lisa Shaw - Takin' Over You (Club Mix)
 Reflekt - Need To Feel Loved (Adam K & Soha Vocal Mix)
+Reflekt, Delline Bass - Need To Feel Loved (Cristoph Alternative Remix)
+Reflekt, Delline Bass - Need To Feel Loved (Cristoph Remix)
 Regina Spektor - Fidelity
 Reinier Zonneveld - Bending The End (Original Mix)
 Reinier Zonneveld - Centaur (Original Mix)
@@ -5969,6 +5977,7 @@ Rodriguez Jr. - Kenopsia (Original Mix)
 Rodriguez Jr. - Malecón Azul (Original Mix)
 Rodriguez Jr. - Mistral (Original Mix)
 Rodriguez Jr. - Monticello (Original Mix)
+Rodriguez Jr. - Nairobi (Original Mix)
 Rodriguez Jr. - Polaroïd (Original Mix)
 Rodriguez Jr. - Radian (Original Mix)
 Rodriguez Jr. - What Is Real feat. Liset Alea (Deep in the Playa Mix)
@@ -5984,10 +5993,7 @@ Roman Fluegel - 9 Years (DJ Koze Remix)
 Roman Flugel - Gehts Noch vs Walking on the moon
 Roman Salzger - 12Bit Dancer
 Rome - I Belong To You (Gryffin Remix)
-Ron Flatter - Apricot (Original Mix)
-Ron Flatter - Desert (Microtrauma Remix)
 Ron Flatter - Molly (Original Mix)
-Ron Flatter - Stupid World (Original Mix)
 Ron May and Alex Menco - Dirty Bee
 Rone - Parade (Dominik Eulberg Remix)
 Roni Size & Reprazent - Brown Paper Bag
@@ -6102,6 +6108,7 @@ Ryan Hemsworth feat. Baths - Still Cold
 Ryan Hemsworth feat. Tinashe - One For Me
 Ryan Murgatroyd - Kanna (Kostakis & Murgatroyd's Re-Edit)
 Ryan Murgatroyd - Kanna (Original Mix)
+Rylan Taggart - Constellation (Original Mix)
 Ryn Weaver - OctaHate
 Ryn Weaver - Promises
 Sabb - One of Us (Dennis Ferrer Remix)
@@ -6135,8 +6142,6 @@ Sam Smith - How Will I Know (Whitney Houston Cover) soundcloud rip
 Sam Smith - Lay Me Down (Todd Edwards Vocal Mix)
 Sam Smith - Like I Can (Jonas Rathsman Remix)
 Sam Smith - Safe With Me
-Sam Smith - Stay With Me (Bender Remix)
-Sam Smith - Stay With Me (Lost Hustle Mary J Refix)
 Sam Smith - Stay With Me (Throttle Remix)
 Sam Smith - Stay With Me
 Sam Smith vs. Lana Del Rey - Pretty When You Latch (Carlos Serrano Mix)
@@ -7738,6 +7743,7 @@ Young Wolf Hatchlings & Thomas D'Arcy - You Lovely You
 Youngblood Hawke - We Come Running (Milkman Remix)
 Youngblood Hawke - We Come Running (Vicetone Remix)
 Yousef - Come Home
+Ytram (Martin Garrix), Citadelle - Alive (Extended Mix)
 Yumi Zouma - A Long Walk Home for Parted Lovers
 Yumi Zouma - The Brae
 Yuna - Lullabies (Adventure Club Remix)
