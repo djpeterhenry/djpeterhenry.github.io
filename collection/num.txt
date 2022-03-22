@@ -2334,6 +2334,7 @@ Noir - My MTV (D. Ramirez Evil Business Remix)
 Nora En Pure - Lake Arrowhead (Original Mix)
 Odesza - Say My Name (Jai Wolf Remix)
 Orbital - Are We Here (Dusky Remix)
+Orbital - Bigpipe Style
 Otto Knows - Million Voices (Acapella)
 Paperboy - Ditty
 Paul Kalkbrenner - The Palisades
@@ -2359,6 +2360,7 @@ Sigur Ros - Rafstraumur (Cyril Hahn Remix)
 Snoop Dogg - Drop It Like It's Hot
 Snow Patrol - Your Eyes (Allende Remix)
 Solee - Infinidad (Martin Landsky Remix)
+Sonique - It Feels So Good (Breakbeat 12)
 Soul Coughing - Blueeyed Devil
 Soul Coughing - Lazybones
 Spooky - Belong (Sasha Involver Remix - Prankster Edit)
@@ -2548,7 +2550,6 @@ No Doubt - Hella Good (Dr. Fresch's Summer Revival Remix)
 ODESZA - Without You
 Oliver Heldens - Gecko
 Oliver Koletzki, Niko Schwind - Agitation (AFFKT Remix)
-Orbital - Bigpipe Style
 Orbital - Funny Break (One is Enough)
 Orbital - Illuminate (Charlie May Remix)
 Orbital - One Perfect Sunrise (Stereo 8 remix)
@@ -2587,7 +2588,6 @@ Sisqo - Thong Song
 Skrillex - Scary Monsters And Nice Sprites
 Sofi Tukker, John Summit - Sun Came Up (Extended Mix)
 Solee, Alyne - Elfen (Original Mix)
-Sonique - It Feels So Good (Breakbeat 12)
 Specialivery - Amon
 Specialivery - Aton
 Spencer Brown, Danny Shamoun - Blue Magic
@@ -2834,6 +2834,7 @@ Oliver Heldens & Becky Hill - Gecko (Overdrive) (Extended Edit)
 Olly Murs - Army Of Two (Kat Krazy Extended)
 Outkast - At Liens (Acapella)
 PQM - You Are Sleeping (Shiba San Remix)
+Paradoks - Flourish (Extended Mix)
 Parra For Cuva & Anna Naklab - Wicked Games (Original Mix)
 Passenger - Let Her Go (Soco Remix of Jasmine Thompson Cover)
 Passion Pit - Carried Away
@@ -3192,9 +3193,9 @@ ODESZA - Rely
 Odesza - It's Only (feat. Zyra)
 Odesza - Say My Name (feat. Zyra) (Hermitude Remix)
 Oliver Koletski - Up In The Air (feat Fran)
+Orbital - Style
 OutKast - The Way You Move
 Paolo Nutini - Pencil Full Of Lead
-Paradoks - Flourish (Extended Mix)
 Parov Stelar - Spider
 Paul Kalkbrenner - Aaron
 Paul Kalkbrenner - Feed Your Head (Robin Schulz Remix)
@@ -3651,10 +3652,10 @@ Oliver Dollar, Jimi Jules - Pushing On (Original Mix)
 Oliver Koletzki & Fran - Hypnotized (Original Version)
 Opus 3 - Fine Day (Omega Remix)
 Orbital - Nothing Left (Les Rythmes Digitales Remix) 192
-Orbital - Style
 Osunlade - Envision (Yoruba Soul Mix)
 PSY - Gangnam Style
 Pachanga Boys - Time
+Paradoks - Floating (Original Mix)
 Parov Stelar - Piano Boy
 Parov Stelar - The Phantom (Extended Version)
 Passion Pit - Sleepyhead (Starsmith Remix with Ellie Goulding)
@@ -4210,7 +4211,6 @@ Opus 3 - It's A Fine Day (Acapella)
 Opus III - It's a Fine Day (Original Mix)
 Orbital - The Box (Zeno Boxed In Remix)
 Osborne - 16th Stage
-Paradoks - Floating (Original Mix)
 Paradoks - Stay (Rauschhaus Remix)
 Parov Stelar - Nobody's Fool
 Parov Stelar - Shine
@@ -6029,8 +6029,6 @@ Max Elto - Shadow of the Sun (Adventure Club Remix)
 Maxxi Soundsystem - Medicine (Featuring Name One)
 Me & My Toothbrush - One Thing (Original Mix)
 Meiko - Leave The Lights On (Morgan Page Remix)
-Melokind - Hope (Original Mix)
-Melokind - Immer Richtung Sonne
 Mena Keys - Bone Delicious (Original Mix)
 Mercer - Turn It Up (Tchami Remix)
 Metallica - Seek & Destroy (Bassnectar Remix)
@@ -7064,6 +7062,7 @@ Hex Hector - My Body Is A Cage
 Hiatus & Shura - Fortune's Fool (Sorrow Remix)
 Hidden Empire - Palmito
 Hidden Empire - Pont de la Caille (Extended)
+Hidden Empire - Resurgence (Original Mix)
 High Contrast - Music Is Everything
 Hiroyuki Kajino, Yuichiro Kotani - Playground #1 (Original Mix)
 Hitmane - Over U (Chet Porter Remix)
@@ -7094,6 +7093,7 @@ Indiana - Solo Dancing (Radio Edit)
 Ingrid Lukas - We Are (Manuel Tur Remix 3)
 Ingrid Michaelson - You and I
 Inkline - Bluff (Left-Right Remix)
+Innellea - Loss Of Hope (Original Mix)
 Ivy Lab - Sunday Crunk (Mefjus Remix)
 Izzy Azalea - Black Widow (Feat. Rita Ora)
 Jack U - Take U There (Zeds Dead Remix)
@@ -7356,6 +7356,7 @@ Moby - Bodyrock (Hybrid's Bodyshock Remix)
 Mogwai - Remurdered
 Monkey Safari - Artifact (Afro Drums)
 Monkey Safari - Cranes (Original Mix)
+Monkey Safari - Safe (Joris Voorn Remix)
 Monsieur Adi - Youth
 Monte - True
 Moonbootica - Pretty Little Angel (Preocoop Remix Baalsaal)
@@ -7448,6 +7449,8 @@ Paolo Martini - Red Rocks (Original Mix)
 Paperchaser feat. Corey Hart - Night Visions (Sunglasses) (Money Mix)
 Parachute - Hearts Go Crazy (Myndset Remix)
 Paradise & Grace - Together (Festival Mix)
+Paradoks - Tierra (Original Mix)
+Paradoks - Voices Inside (Original Mix)
 Paramore - Still Into You (Synchronice Remix)
 Paris Blohm & Taylr Renee - Left Behinds (Original Mix)
 Parov Stelar - Jimmy's Gang (Parov Stelar Remix)
@@ -7626,6 +7629,7 @@ Starcadian - HE^RT (Album Mix)
 Starkey - Black Monolith
 Stas - Matope
 State Of Mind - Mindslicer
+Stephan Jolk - A Declaration of Love (Original Mix)
 Stereo Underground - Empire of the Soul (Beatless Dub Mix)
 Stereo Underground - Empire of the Soul (Original Mix)
 Stereo Underground - Endless Sun
