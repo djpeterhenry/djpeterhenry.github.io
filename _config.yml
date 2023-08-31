@@ -126,7 +126,7 @@ author:
       url: "https://www.facebook.com/djpeterhenryofficial/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:phenry@gmail.com"
+      # url: "mailto:phenry@gmail.com"
 
 # Site Footer
 footer:
