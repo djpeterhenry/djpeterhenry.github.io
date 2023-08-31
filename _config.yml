@@ -112,9 +112,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/djpeterhenryofficial/"
     - label: "Twitch"
       icon: "fas fa-fw fa-link"
       url: "https://www.twitch.tv/djpeterhenry"
@@ -123,7 +120,13 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/djpeterhenry/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/djpeterhenryofficial/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:phenry@gmail.com"
 
 # Site Footer
 footer:
@@ -284,6 +287,6 @@ defaults:
       author_profile: true
       read_time: false
       comments: # true
-      share: true
+      share: false
       related: false
       show_date: true
