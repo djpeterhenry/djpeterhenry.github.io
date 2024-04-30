@@ -89,6 +89,7 @@ Kollektiv Turmstrasse - Ordinary (Lake People's Circle Motive Remix)
 Gregory Porter - Liquid Spirit (Claptone Remix)
 Claptone - No Eyes (Just Kiddin Remix)
 Bob Moses - Tearing Me Up (Slaptop Remix)
+Zedd & Foxes - Clarity (Acapella)
 Robert Babicz - Dark Flower (Joris Voorn Magnolia Mix)
 Paul Kalkbrenner - Jestrupp (Joris Voorn Remix)
 Morgan Page - Your Love (feat The Outfield)
@@ -97,7 +98,6 @@ Kaskade - 4 AM (Adam K & Soha Mix)
 Jeremy Olander - Pinkerton (Finnebassen Remix)
 Cazzette - Sleepless (Jenaux & Prince Fox Remix)
 Avicii & Nicky Romero - I Could Be The One
-Zedd & Foxes - Clarity (Acapella)
 Purity Ring - Repetition
 Orbital - Halcyon + On + On
 Duke Dumont - I Got U (Kav Verhouzer Resouled Mix)
@@ -166,12 +166,12 @@ Zedd & Foxes - Clarity (Vicetone Remix)
 Tube & Berger - Imprint Of Pleasure
 Sub Focus - Tidal Wave (feat. Alpines)
 Rufus - Desert Night
+Paul Kalkbrenner - Sky and Sand (Robag's Borsi Alpakka Rehand)
 Kaskade - Eyes (feat. Mindy Gledhill) (Extended Mix)
 Bastille - Pompeii (Audien Remix)
 Adrian Lux - Teenage Crime (Axwell & Henrik B Remode)
 The Whitest Boy Alive - Golden Cage (Fred Falke Remix)
 Sigma - Nobody to Love (Sigma's Future Jungle Mix) 2
-Paul Kalkbrenner - Sky and Sand (Robag's Borsi Alpakka Rehand)
 Kennedy - Karate
 Haim - Falling (Duke Dumont Remix)
 Galantis - You (Wax Motif Remix)
@@ -296,6 +296,7 @@ Stones & Bones - Amahloni (Manoo Remix)
 Rufus - You Were Right
 RJD2 - Ghostwriter
 Nero - Promises (Skrillex & Nero Remix)
+Mr Probz - Waves (Robin Schulz Remix)
 Mahmut Orhan - Vesaire (Boral Kibil Remix)
 Lorde - Tennis Court (Flume Remix)
 Felguk - All Night Long (Darth & Vader Remix)
@@ -314,7 +315,6 @@ Xavier Rudd - Follow The Sun (Alex Cruz Remix)
 Tchami - Adieu (Original Mix)
 Stephan Bodzin & Marc Romboy - Atlas (Album Edit)
 Passion Pit - Carried Away (Acapella)
-Mr Probz - Waves (Robin Schulz Remix)
 Monolink - Father Ocean (Ben Böhmer Remix)
 Luke Chable & Bonnici - Ride (Mashtronic Remix)
 Lobsterdust - Love City (REM vs The Panthers)
@@ -642,6 +642,7 @@ Empire Of The Sun - We Are The People (Jimmy2sox Remix)
 Editors - Upside Down (Joris Voorn Remix)
 Chvrches - Leave a Trace (Four Tet Remix)
 Calvin Harris & Florence Welch - Sweet Nothing (Extended Mix)
+Bow Anderson - Heavy (Icarus Extended Remix)
 Bicep - Back 2 U (Original Mix)
 BT - Skylarking (Original Mix)
 Axwell - Center Of The Universe (Remode)
@@ -674,7 +675,6 @@ Devin The Dude - I'm Just Gettin' Blowed
 Der Dritte Raum - Hale Bopp (D3R-25 Remix)
 Chvrches - The Mother We Share (Alucard Session)
 Calvin Harris - Feel So Close (Acapella)
-Bow Anderson - Heavy (Icarus Extended Remix)
 Beyonce - Broken-Hearted Girl (Alan Braxe Dub)
 Avicii - Penguin (Janski Remix)
 Audien - Hindsight (Original Mix)
@@ -911,6 +911,7 @@ Sofi Tukker, Betta Lemme - Awoo
 Skrillex - Leaving
 Royksopp - What Else Is There (Thin White Duke Mix)
 Rihanna - We Found Love (Acapella)
+Pepe Bradock - Deep Burnt
 Orbital - Are We Here (Dusky Remix)
 Nora En Pure - Epiphany (Original Club Mix)
 Noosa - Clocktower (Sound Remedy Remix)
@@ -922,6 +923,7 @@ Mirwais - Naive Song
 Mikey Lion, Sacha Robotti - Ol' Dirty Hearts
 Miike Snow - Black & Blue (Netsky Remix)
 London Grammar - Darling Are You Gonna Leave Me (LCAW Remix)
+Lane 8, Khaen - Duchess (Original Mix)
 Jody Wisternoff - Cold Drink, Hot Girl (Refix)
 Jan Blomqvist - Back In The Taxi (Original Mix)
 Imogen Heap - Hide and Seek (DMoeFunk Remix)
@@ -970,7 +972,6 @@ Purity Ring - Push Pull
 Prince - When Doves Cry
 Porter Robinson - Sea Of Voices (RAC Mix)
 Pogo - Wishery
-Pepe Bradock - Deep Burnt
 Nina Simone - Black Is The Color Of My True Loves Hair (Jaffa Remix)
 Monkey Safari - Dodge (Victor Ruiz Remix)
 Metric - Collect Call (Adventure Club Dubstep Remix)
@@ -979,7 +980,6 @@ Maro Demark - Tiny Dancer (Deadmau5 Vocal Mix)
 Lost Frequencies, Mokita - Black & Blue (Lost Frequencies Sunrise Club Extended Mix)
 London Elektricity - Just One Second
 Little Boots - New In Town (Fred Falke Remix)
-Lane 8, Khaen - Duchess (Original Mix)
 Lane 8 - The Disappearance of Colonel Mustard (Original Mix)
 L. Doblado - Lie Alone (16 Bit Lolitas Remix) (2)
 Kaskade, Cop Kid - Turn It Down v3 (Extended)
@@ -1601,6 +1601,7 @@ Claptone - Heartbeat Feat. Nathan Nicholson (Original Mix)
 City 17 - Ignite It
 Chris Isaak - Wicked Game (Chris Lake & Chris Lorenzo)
 Burial - Archangel
+Braaten, Victor Perry - Big Jet Plane
 Boogie Nights - Buck's Stereo
 Bellanova - Stairway To Heaven (Daniele Petronelli Vocal Mix)
 Belinda Carlisle - Heaven is a Place on Earth (Acappella Version)
@@ -1715,7 +1716,6 @@ Coburn - We Interrupt This Programme (Stanton Warriors Remix)
 Chester French - She Loves Everybody (Pance Party Remix)
 Britney Spears - Till The World Ends
 Brassica - Tears I Can Afford (Bicep Remix)
-Braaten, Victor Perry - Big Jet Plane
 Aquasky and Tayo - Looking For A Session
 Alan Braxe & Fred Falke - Intro (Radio Edit)
 Agoria - Les Violons Ivres
@@ -2494,6 +2494,7 @@ Elliott Smith - Between the Bars
 Ellie Goulding - High For This (Kygo Remix)
 Einmusik - Jabloko (Original Mix)
 Eels - Your Lucky Day In Hell
+Eelke Kleijn - Woodstock (Extended Mix) (2)
 Ed Solo & Skool of Thought - When I Was A Yout
 Ed Sheeran & Passenger - No Diggity (Rossi Sure Remix)
 Earth n Days - Just Be Good To Me (Original Mix)
@@ -2752,7 +2753,6 @@ Engine-Earz Experiment - Reach You (Album Edit)
 Energy 52 - Cafe Del Mar (Dale Middleton Remix)
 Ellie Goulding - Starry Eyed (Minnesota VIP Remix)
 Eli & Fur - Light Up Your Eyes (Extended Mix)
-Eelke Kleijn - Woodstock (Extended Mix) (2)
 Editors - Black Gold (Joe Turner Remix)
 EDX - Breathin' (Extended Vocal Mix)
 Duke Dumont - I Got U (feat. Jax Jones)
@@ -3061,6 +3061,7 @@ Dua Lipa - Physical (Claptone Remix)
 Drew Hill - Talk To You (Groove Armada Remix)
 Dr. Dre & Snoop Dogg - Nuthin' but a 'G' Thang (Metic's Summertime Bootleg)
 Dousk & Jorgio Kioris - One Man (Khen Remix)
+Disclosure - Latch (DJ Premier Remix)
 Der Dritte Raum - Hale Bopp (Der Dritte Raum Ison Adaption)
 Dennis Ferrer - Hey Hey (Acapella) (Freeze)
 Delirium - Silence (Acapella)
@@ -3456,7 +3457,6 @@ Drake & The Weeknd - Crew Love (Shlohmo Remix)
 Don McLean - Vincent (Starry Starry Night)
 Don Diablo - Knight Time (Original Mix)
 Dominik Eulberg, Gabriel Ananda - The Space Between Us (Original Mix)
-Disclosure - Latch (DJ Premier Remix)
 Disclosure - Boiling (Medlar Remix)
 Disclosure & AlunaGeorge - White Noise
 Dillon Francis - Without You (The Rebirth)
@@ -6041,6 +6041,7 @@ Randy Newman - You've Got A Friend In Me
 Rando - 80's (Original Mix)
 Ram - RAMsterdam (Jorn van Deynhoven Remix)
 Rage Against The Machine - Bulls On Parade (Team Awesome Remix)
+Rae Morris - Do It (Icarus Remix)
 Radiohead - Everything In Its Right Place (Refracture Remix)
 Radiohead - Climbing Up The Walls (Fila Brazillia Mix)
 Radioclit - Divine Gosa (Kevstars Latin Remix)
@@ -7218,6 +7219,7 @@ Swoose - Hyphae (Original Mix) [feel my bicep]
 Surrealism - Sunday Love (Original Mix)
 Supacooks - Aftermath (Original Mix)
 Sunstroke Project & Olia Tira - Run Away (Moldova)
+Sunship - Friendly Pressure (Into The Sunshine Mix)
 Sunbeam - Outside World (Bart Skils & Weska Extended Remix)
 Sun City - High
 Sugarhill Gang - Apache (Kastra Bootleg)
@@ -7351,7 +7353,6 @@ Random House Project - Freakin Me (Jon Gurd Remix)
 Rain (A Lil Louis Painting) - Give It Up (MAW Flute Instrumental)
 Raffa FL - Ritmo (HUGEL Extended Edit)
 Rae Sremmurd - No Flex Zone
-Rae Morris - Do It (Icarus Remix)
 Radiohead - Everything in its Right Place (Andi Muller Looong Mix)
 Racing Glaciers - Moths (Carousel Remix)
 Ra-Soul & Don Crisp - Love Power
@@ -7904,6 +7905,7 @@ Gin Blossems - Found Out About You
 Gigamesh - The Music
 Gigamesh - Red Light (Goldroom Remix)
 Gigamesh - Enjoy (Original Mix)
+German Brigante - So Fine (Extended Mix)
 George Strait - I Cross My Heart
 George Maple - Vacant Space
 George Maple - Vacant Space (Sondrio Remix)
