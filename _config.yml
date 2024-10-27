@@ -110,7 +110,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Youtube"
-      icon: "fas fa-fw fa-youtube"
+      icon: "fas fa-fw fa-link"
       url: "https://www.youtube.com/@DJPeterHenry"
     - label: "Twitch"
       icon: "fas fa-fw fa-link"
