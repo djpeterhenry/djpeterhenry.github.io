@@ -1065,7 +1065,7 @@ Sofi Tukker - Swing (Crush Club Remix)
 Skrillex - Scary Monsters And Nice Sprites (Zedd Remix)
 Sam Smith - Like I Can (Jonas Rathsman Remix)
 Rampue - Leporidae (Original Mix)
-REM - The Great Beyond (Hybrid Remix)
+R.E.M. - The Great Beyond (Hybrid Booty Mix)
 Propellerheads - Take California
 Postiljonen - How Will I Know (All That We Had Is Lost)
 Pogo - Wishery
@@ -1177,6 +1177,7 @@ Active Child - When Your Love Is Safe (Classixx Remix)
 AHA - The Sun Always Shines On TV (Matoma Remix)
 Zedd - Clarity (Zedd Union Mix)
 Yolanda Be Cool & DCUP - We No Speak Americano (Original mix)
+Vernon - Vernon's Wonderland (Hybrid's Matrix Dub) 2
 Unclubbed & Kim Wayman - We Are The People
 The XX - Islands (Nosaj Thing Remix)
 The Rapture - House Of Jealous Lovers
@@ -1548,7 +1549,6 @@ AYYBO - RIZZ (Extended Mix)
 ATB - Don't Stop
 &ME, Rampa, Adam Port - Muyè (Black Coffee Remix)
 Worakls - Bleu
-Vernon - Vernon's Wonderland (Hybrid Matrix Dub) (Vinyl Rip)
 UB40 - Can't Help Falling In Love
 Two Door Cinema Club - Something Good Can Work (RAC Remix)
 Trentemøller - Always Something Better (DJ Tennis & Mind Against Remix)
@@ -3159,7 +3159,6 @@ Whitney Houston - How Will I Know (Ed Marquis Bootleg)
 Westend, Hosanna - Drum Death (Extended Mix)
 Way Out West - One Bright Night (Scuba's Broken Window Dub)
 Vintage Culture, Goodboys - This Feeling (Original Mix)
-Vernon - Vernon's Wonderland (Hybrid's Echoplex Mix)
 Vanity vs Vaya Con Dios - Nah Neh Nah
 Valentino Khan - Deep Down Low (Original Mix)
 Utah Jazz - January Silence
@@ -6266,6 +6265,7 @@ Sainte Vie - Cenote (Original Mix)
 Sade - Smooth Operator (RICHIE ROZEX REMIX)
 SZA - Childs Play (feat. Chance the Rapper)
 SIDEPIECE, Barney Bones - Ménage À Trois (Extended Mix)
+SIDEPIECE - Function (Extended Mix)
 SIDEPIECE - Cry For You (Shitty Official Release)
 SG Lewis, Shygirl - Sugar (Sweeter Than Edit)
 SG Lewis, Robyn, Channel Tres - Impact (Original Mix)
@@ -6687,6 +6687,7 @@ Lana Del Rey - Summertime Sadness (SidePiece Treat)
 Lana Del Rey - Born To Die (Monsieur Adi Remix)
 Lana Del Rey - Born To Die (3.A.M. Remix)
 Lady Gaga, Matroda, KLP - Telephone (Emmy Adelle Edit)
+Lady Gaga, Beyonce - Telephone (HayaT & W3TT3R Remix)
 Lady Gaga - Telephone (feat. Beyonce) (Demucs Vocal) 2
 Lady Gaga - Paparazzi (Kasey Koehler & CHALANT Remix)
 Lady Bee - Drop It Down Like (Club Edit)
@@ -6815,6 +6816,7 @@ Jon Gurd - Together (Extended Mix)
 Joker - Midnight
 John Talabot - So Will Be Now (feat. Pional)
 John Summit, cloves - Focus (Alok Extended Remix)
+John Summit, The Chainsmokers - All The Time (VIZON Remix)
 John Summit, Paige Cavell - Tears (Max Styler Remix)
 John Summit, Of The Trees - Stay With Me (Original Mix)
 John Summit, Hayla - Shiver (Extended Mix)
@@ -6892,11 +6894,13 @@ Hoxton Whores, HXTN - Power (Original Mix)
 How To Dress Well - Words I Don't Remember
 Hound Scales - Bokhara Stitch (Cloaka Remix)
 Hot Since 82, Temple - Nightfall (Original Mix)
+Hot Since 82, 2 Eivissa - Oh La La La (Extended Mix)
 Hot Chip - Over and Over
 Hot Chip - Colours (Fred Falke Remix)
 Holistix - If This Was
 Higher Self - Ghosts (Bit Funk Remix)
 High Noon At Salinas - Tarida feat. Noah Shah (Extended Mix)
+Hidde van Wee - Shamans Vision (Original Mix)
 Hi Tack - Say Say Say
 Hermitude - HyperParadise (Flume Remix)
 Hermetico - 2 + 3
@@ -6988,6 +6992,7 @@ Gab Rhome - La Maison (Original)
 Gab Rhome - Drifting
 GRiZ - You Got To Change
 GRiZ - Where Is The Love
+GLOVA - Pumpin' (Original Mix)
 G-Eazy - Runaround Sue (ft. Greg Banks)
 G Jones - Alias
 Future Islands - The Chase
@@ -7216,6 +7221,7 @@ Cubicolor - No Dancers (Adam Port Remix)
 Crystal Fighters - I Love London
 Crystal Castles - Suffocation
 Crusy - Kiki (Extended Mix)
+Crazy Town, bradeazy - Butterfly 2026 (Extended Mix)
 Crazy P - The Way We Swing (Original Mix)
 Crazy P - Heartbreaker (Original)
 Cozzy D - Rood (Original Mix)
@@ -7532,6 +7538,7 @@ A&G & Northmark - Run With Me (feat Gabrielle Ross)
 Øyvind - Floater
 wilo wilde - i'll be there
 rBert - Sinere (Elfenberg Remix)
+les visiteurs - snoop's acid drop
 jackLNDN - Don't Forget
 it's murph - High and I Like it (Original Mix)
 deadmau5, Wolfgang Gartner - Channel 43 (Extended Mix)
@@ -7898,7 +7905,6 @@ SNBRN - Never Let You Go (Extended Mix)
 SIDEPIECE, Westend - Take Your Places (Extended Mix)
 SIDEPIECE, Disco Lines - Give It To Me Good (Extended Mix)
 SIDEPIECE, Bobby Shmurda - Cash Out (EXTENDED MIX)
-SIDEPIECE - Function (Extended Mix)
 SG Lewis, Shygirl - Sugar
 SEAN PAUL - GET BUSY (SENATVS Remix)
 Ryan Hemsworth feat. Tinashe - One For Me
@@ -8322,7 +8328,6 @@ Lana Del Rey - Ultraviolence
 Lana Del Rey - This Is What Makes Us Girls
 Lana Del Rey - Shades Of Cool
 Laherte - Pump Up The Jam (Extended Mix)
-Lady Gaga, Beyonce - Telephone (HayaT & W3TT3R Remix)
 Lady Gaga - Abracadabra (Kastra Remix)
 LSB - Walking Blues (Original Mix)
 LOPAZZ & Casio Casino - The Drift (Grumpy's Mellow Drifting Remix)
@@ -8435,7 +8440,6 @@ John Tejada - The End Of It All (2015 Mix)
 John Talabot - Destiny (feat. Pional)
 John Summit, venbee - palm of my hands
 John Summit, The Chainsmokers, Ilsey - ALL THE TIME (Extended Mix)
-John Summit, The Chainsmokers - All The Time (VIZON Remix)
 John Summit, Sub Focus, Julia Church - Go Back (Kyle Watson Extended Remix)
 John Summit, Sub Focus, Julia Church - Go Back (D&B VIP) (87 start and end)
 John Summit, Sub Focus, Julia Church - Go Back (136 straight warp)
@@ -8542,7 +8546,6 @@ Huminal - Hedonica (Original Mix)
 Hudson Mohawke - Ryderz
 Hrdvsion - I Like the Feeling You're Giving Me
 Hozier - Too Sweet (Spoone Flip)
-Hot Since 82, 2 Eivissa - Oh La La La (Extended Mix)
 Hot Natured - Emerald City
 Hot Natured & Ali Love - Benediction
 Hot Chip - Dancing In The Dark
@@ -8557,7 +8560,6 @@ High Contrast - If We Ever (Original Mix)
 Hidden Empire - Resurgence (Original Mix)
 Hidden Empire - Pont de la Caille (Extended)
 Hidden Empire - Palmito
-Hidde van Wee - Shamans Vision (Original Mix)
 Hiatus & Shura - Fortune's Fool (Sorrow Remix)
 Hex Hector - My Body Is A Cage
 Hernan Cattaneo & Soundexile - Lunar (Simon Vuarambon Interpretation)
@@ -8650,7 +8652,6 @@ Gabrielle Aplin - The Power of Love (AZEDIA remix)
 Gabriel Rios - Gold (Thomas Jack Remix)
 Gabriel Moraes - Die Hoelle
 GRiZ - Smash The Funk
-GLOVA - Pumpin' (Original Mix)
 G Jones - Strawberries 4x2
 Fyfe - Solace
 Funkagenda - Roman a Clef
@@ -8892,7 +8893,6 @@ Crystal Fighters - I Love London (Delta Heavy Remix)
 Crystal Castles - Vietnam
 Crystal Castles - Vanished (Phantoms Remix)
 Crystal Castles - Affection
-Crazy Town, bradeazy - Butterfly 2026 (Extended Mix)
 Crazibiza, Black Blood - Take It Easy (Original Mix)
 Cozzy D - Jungle Bells
 Coyote Kisses - Illusion
