@@ -549,6 +549,7 @@ Kaskade - Us
 Kaskade - Never Sleep Alone (Extended)
 Justin Martin - The Sad Piano (Charles Webster Remix)
 Joywave - Tongues (feat. Kopps)
+Josh Butler - Got A Feeling (Bontan Remix) (Pleasurekraft Edit)
 Jack Shaft - Superlogical
 Editors - Upside Down (Joris Voorn Remix)
 Dr Dre - Forgot About Dre
@@ -569,7 +570,6 @@ M83 - Midnight City
 Kill Paris - I Do Love You
 Kaskade - Stepping Out (The Beard Remix)
 Kaskade - Disarm You (feat. Ilsey) (Extended)
-Josh Butler - Got A Feeling (Bontan Remix) (Pleasurekraft Edit)
 Icona Pop - I Love It
 Gorgon City & Mnek - Ready For Your Love
 Feed Me & Kill The Noise - Far Away
@@ -2172,6 +2172,7 @@ Rodriguez Jr - Nausicaa
 Robyn - Dancing On My Own (Original Mix)
 Rihanna - Umbrella (feat. Jay-Z)
 Rihanna - Diamonds (Congorock Extended Mix)
+Ratatat - Seventeen Years
 Radiohead - Everything In Its Right Place (Simon Doty Remix)
 RAC & Penguin Prison - Hollywood
 Qbig - Sleepless
@@ -2228,6 +2229,7 @@ London Elektricity - The Plan That Cannot Fail
 Logistics - Kaleidascope (Jeuce Rework)
 Lane 8 - Nuclear Lethargy (Original Mix)
 Lane 8 - No Captain feat. POLICA (Original Mix)
+Ladytron - Playgirl
 Kungs & Molly - West Coast (Lana Del Rey Cover)
 Kill Paris - I Love You Lana Del Rey (Where I Left My Heart)
 Kiesza - Hideaway (Gorgon City Remix)
@@ -2369,7 +2371,6 @@ Rodriguez Jr. - 2 Miles Away (Original Mix)
 Robyn - Dancing On My Own (Acapella)
 Rihanna - Stay (Demucs Vocal) 2
 Rex The Dog - Circulate
-Ratatat - Seventeen Years
 Radiohead - Idioteque
 RY X - Lençóis (Love Me) (Cassian Remix)
 Purple Disco Machine - Devil in Me (Extended Mix)
@@ -2419,7 +2420,6 @@ Lost Frequencies - Chemical High (Deluxe Extended Mix)
 Loofy - Last Night (Anyma x Layton Giordani Extended Remix)
 Lobsterdust - Say It Aint Flow (Weezer vs Major Lazer)
 Laurent Garnier - The Man With The Red Face
-Ladytron - Playgirl
 LP Giobbi, Sofi Tukker - If Love Is A Skill
 L-Wiz - Girl From Codeine City
 Kylie Minogue - Speakerphone
@@ -3415,6 +3415,7 @@ Great Good Fine OK - You're the One for Me
 Gorgon City, Hayden James - Foolproof (Andhim Extended Remix)
 Gorgon City - Lick Shot (Extended Mix)
 Goldroom - St. Ides Heaven (Elliott Smith Cover)
+Goldfrapp - Ooh La La (Tiefschwarz Dub)
 Golden Coast - Futurist
 Fritz Kalkbrenner - A Good Day
 Freemasons - Dirty Organ (feat. Joel Edwards) (Extended)
@@ -3947,7 +3948,7 @@ Gorgon City - Here For You (Bingo Players Remix)
 Gorgon City - Go All Night (Booka Shade Remix)
 Goosebumpz - Acute Delirium
 Goldroom - Embrace
-Goldfrapp - Ooh La La (Tiefschwarz Dub)
+Goldfrapp - Number 1
 Glass Animals - Gooey
 Gigi D'Agostino - I'll Fly With You (Fatsync & Lifesland Edit) (Unreleased)
 Germany Germany - Transatlantic
@@ -4455,6 +4456,7 @@ Le Jeune Flueck - Foenix (Township Rebellion Remix)
 Layo & Bushwacka! - It's Up To You (Roni Size Vocal Mix)
 Lane 8, Grigore - Pipi Dormir (Original Mix)
 Lane 8 & Lucy Stone - Nothing You Can Say
+Ladytron - Seventeen
 Lady Gaga - Poker Face
 Kolsch - Grey
 Koan Sound - Sly Fox
@@ -4563,7 +4565,6 @@ Gorgon City - 5AM At Bagleys (Extended Mix)
 Gordon Edge - Trumpet Funk
 Goldroom - Till Sunrise (feat. Mammals)
 Goldroom - Fifteen feat. Chela (Rotkraft Remix)
-Goldfrapp - Number 1
 Goldfish, Diamond Thug - Deep Of The Night (Slaptop Extended Remix)
 Glass Animals - Pools (Roosevelt Remix)
 George Michael - Faith
@@ -5351,7 +5352,6 @@ Lancelot - We Can Dance (Goldroom Remix)
 Lana Del Rey - Norman fucking Rockwell
 Lana Del Rey - Blue Jeans (Patrick Reza Dubstep Remix)
 Lake Haze - Dog Walking in the Park (Original Mix)
-Ladytron - Seventeen
 Ladytron - Seventeen (Soulwax Mix)
 Lady Gaga, Beyonce - Telephone (HayaT & W3TT3R Remix)
 Lady Gaga - Poker Face (Demucs Vocal) 2
@@ -7676,6 +7676,7 @@ U2 - Ordinary Love (Pretty Pink Remix)
 Tycho - Spectre (Original Mix)
 Ty Dolla $ign, Khalid, 6lack - OTW
 TwoThirds - Skywards (feat. Lambert McGaughy)
+Two To the Power - Noise & Music (Archie Hamilton's Higher Repurpose Mix)
 Tujamo & Plastik Funk - Who (Original Mix)
 Tuesday Born - Wake
 Tuesday Born - Wake (feat. Dnae) (Pale Remix)
@@ -8323,6 +8324,7 @@ Lubelski - Animalistic (Original Mix)
 Lou Reed - Walk on the Wild Side
 Lostep - Burma (Sasha Dub Mix)
 Loquace - Black Point
+Long Island Sound - I Still Love You (Original Mix)
 Lone - Chroma (Original Mix)
 London Grammar - Hey Now
 Loadstar - Memories
@@ -8564,6 +8566,7 @@ Indiana - Solo Dancing (Radio Edit)
 Indeep - Last Night a D.J. Saved My Life (Smeddles More Ass Edit)
 In The Valley Below - Peaches
 Ikonika - PR812
+Igor Gonya - Zui Quan (Original Mix)
 Idris Muhammad - Could Heaven Ever Be Like This (Walker & Royce and Chris Lorenzo Extended Mix)
 Icarus - October (Original Mix)
 Ibeyi - River (goes off at second marker)
@@ -8578,6 +8581,7 @@ Hybrid Minds - Im Through
 Hunter Hayes - I Want Crazy (Encore)
 Hundred Waters - Boreal (Blood Diamonds Remix)
 Huminal - Hedonica (Original Mix)
+Hugel, Ultra Nate, Imael Angel - Movin' To The Sun (Extended Mix)
 Hudson Mohawke - Ryderz
 Hrdvsion - I Like the Feeling You're Giving Me
 Hozier - Too Sweet (Spoone Flip)
@@ -8666,6 +8670,7 @@ Goldie - Kemistry (Justin Martin Remake - DJ Version)
 Golden Features - Tell Me
 Gnarls Barkley - Crazy (Max Dean Rework)
 Gloria Gaynor - I Will Survive
+Glass Petals - We Stay Inside (feat. Sophiegrophy)
 Glass Animals - It’s All So Incredibly Loud
 Giselle - Silk (Ianborg Remix)
 Gipsy Kings - Bamboleo
@@ -8909,6 +8914,7 @@ Da Hool, Cassian, YOTTO - Love Parade (Extended Mix)
 DVS1 - Black Russian
 DSF - In My Own World (Original Mix)
 DLR & Break - Human Error
+DJ Susan - Transformation (Extended Mix)
 DJ Snake, Bipolar Sunshine - Paradise (Original Mix)
 DJ Misjah, DJ Tim - Access (Joris Voorn Extended Remix)
 DJ Mehdi - Signatune (Thomas Bangalter Edit)
