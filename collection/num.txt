@@ -2558,6 +2558,7 @@ Totally Enormous Extinct Dinosaurs - Your Love
 Tom Aspaul - Indiana (Bronze Whale Remix)
 Toad The Wet Sprocket - All I Want
 Tim Berg - Bromance (Avicii's Arena Mix)
+Tiga, Audion - Let's Go Dancing (Matroda Remix)
 They Might Be Giants - New York City
 The Youngsters - Smile (Sasha Remix)
 The XX - Reconsider (Jamie XX Edit)
@@ -2621,6 +2622,7 @@ Pang - Eye Of The Tiger
 Opus III - It's a Fine Day (Original Mix)
 Oliver Koletzki, Niko Schwind - Agitation (AFFKT Remix)
 Oliver Heldens - Gecko
+OFFAIAH - Find A Way (Extended Mix)
 ODESZA - Without You
 Northern Lite - No Escape
 Noir - My MTV (D. Ramirez Evil Business Remix)
@@ -2827,7 +2829,6 @@ Tinlicker - Just To Hear You Say (Joseph Ray Extended Mix)
 Tim Engelhardt - We Didn't Talk For A While (Original Mix)
 Tim Engelhardt - Kissing Your Eyes (Andre Hommen Remix)
 Tim Berg - Bromance (Original Mix)
-Tiga, Audion - Let's Go Dancing (Matroda Remix)
 Tiga and Zyntherius - Sunglasses At Night (Popof Remix 2)
 Tiesto & Wolfgang Gartner - We Own The Night
 The Weeknd - High For This
@@ -2917,7 +2918,6 @@ Orbital - Funny Break (One is Enough)
 Olly Murs - Army Of Two (Kat Krazy Extended)
 Oliver Heldens & Becky Hill - Gecko (Overdrive) (Extended Edit)
 Oliver - MYB (Original Mix)
-OFFAIAH - Find A Way (Extended Mix)
 ODESZA - The Last Goodbye (feat. Bettye LaVette)
 Nosaj Thing - Us
 Nite Jewel - Pretty Young Thing (Michael Jackson Cover)
@@ -3168,6 +3168,7 @@ Worakls - 54 (Original Mix)
 Wolf Alice - Leaving You (Sound Remedy Remix)
 Wielki - Empire
 Whitney Houston - How Will I Know (Ed Marquis Bootleg)
+Westend, Max Styler - Rhythm Machine (Original Mix)
 Westend, Hosanna - Drum Death (Extended Mix)
 Way Out West - One Bright Night (Scuba's Broken Window Dub)
 Vintage Culture, Goodboys - This Feeling (Original Mix)
@@ -3351,6 +3352,7 @@ Lexer - Eagle Eye (feat. Fran)
 Levar Burton & Rickie Lee Jones - Little Fluffy Clouds Interview
 Leon Du Star - Close 2 You
 Lemaitre - Wait (Elephante Remix)
+Lekota - I Used To (Extended)
 Lee Cabrera, Kevin McKay, Bleech - Gimme Gimme (Extended Club Mix)
 Lee Burridge & Lost Desert - No wicked for the rest
 Layo & Bushwacka! - Let The Good Times Roll (Reworked)
@@ -3618,7 +3620,6 @@ Will.i.am & Justin Bieber - That Power (Hot Sand Remix)
 Wiley ft Emeli Sande - Never Be Your Woman (Shy FX Radio Edit)
 Whilk & Misky - Burn With Me
 Westseven - The Promise (Hypersleep Remix)
-Westend, Max Styler - Rhythm Machine (Original Mix)
 We Are Scientists - Bomb Inside the Bomb
 Watermat - Bullit
 Walker & Royce, VNSSA - Word (Original Mix)
@@ -3848,7 +3849,6 @@ LevyM - Bluebird (Extended Mix)
 Lenno - Never Stop (Durante Remix)
 Lenka - Trouble is a Friend (RAC Maury Mix)
 Lenka - Trouble is a Friend (Paul Mac Remix)
-Lekota - I Used To (Extended)
 Led Zeppelin - Stairway To Hip-Hop Heaven (Gramatik Remix)
 Led Zeppelin - Ramble On (Souleance Re-Edit)
 Lawrence Hart - Surrender Yourself (Original Mix)
@@ -4309,6 +4309,7 @@ Robyn - Dancing On My Own (Fred Falke Club Mix)
 Robert Miles - Children (Dream Version)
 Riordan, Danny P - 909 (Extended Mix)
 Rhye - Black Rain (Ame Remix)
+Rhianna - Where Have U Been (Hills & Loozbone Edit)
 Reinier Zonneveld - Centaur (Original Mix)
 Red Carpet - Alright 2014 (Lucas & Steve and Nothing But Funk Remix)
 Recondite - Undulate (Original)
@@ -4874,6 +4875,7 @@ We Are Scientists - Ode To Star L23
 We Are Scientists - Mothra Under The Sea
 WatchTheDuck - Making Luv To The Beat (feat. T.I. & DJ E-Feezy) (Merce Remix)
 War - Low Rider (Kyle Watson Remix)
+Walker & Royce, Glass Petals, Elohim - Stop Time (Extended Mix)
 Waldeck - Make My Day
 Waka Flocka Flame - Grove St. Party (Proppa Treatment)
 W&W & Ummet Ozcan - The Code
@@ -4893,6 +4895,7 @@ Varien & Razihel - Toothless Hawkins (And His Robot Jazz Band)
 Vanic x Zella Day - Hypnotic
 Vampire Weekend - A-Punk
 Vakabular - Proper Time (Extended)
+VNSSA, Sian, Sacha Robotti - Smalltown Girl
 VEGA - No Reasons
 VA MO LA - Nasa (Original Mix)
 Usher - Yeah
@@ -5121,7 +5124,6 @@ Richie Blacker, Gus F - Smalltown Boy feat. Jimmy Somerville (Acid Breaks Mix)
 Richard Grey, Lissat - No Diggity (Original Mix)
 Richard Dinsdale and Mark Knight - Crunch
 Rhye - Open
-Rhianna - Where Have U Been (Hills & Loozbone Edit)
 Rezz - Voice In The Wall
 Recondite - Levo (Club Edit)
 Ray LaMontagne - You Are The Best Thing
@@ -5237,6 +5239,7 @@ NVG - First Trip
 NSYNC - It's Gonna Be Me
 NSYNC - Bye Bye Bye
 NO STATIC - Nothing Is (Under Control) (Adam Freeland Edit)
+NO STATIC - Funky Town
 NERVO & Hook N Sling - Reason (Official Studio Acapella)
 NERD - Hypnotize U (Daniel Bortz Edit)
 Mynga - Back Home (Thomas Jack Remix)
@@ -5447,6 +5450,7 @@ Joseph Ashworth - Lost (Original Mix)
 Joris Voorn, YOTTO, White Lies - Seventeen (Extended Mix)
 Joris Voorn - The Wild (Vinyl Edit)
 Joris Voorn - Left (Original Mix)
+Joris Voorn - Horizon (Eelke Kleijn Remix)
 Jonathan Coulton - Still Alive (Album Version)
 John Summit, HAYLA - Where You Are (Millero Extended Remix)
 John Summit, Absolutely - DON'T BELIEVE IT (Extended Mix)
@@ -5997,12 +6001,12 @@ Way Out West - Killa (Guy J Remix)
 War - Low Rider (Lookas Remix)
 Wankelmut & Emma Louise - My Head Is A Jungle (Gui Boratto Remix)
 Wallace (UK) - Willow (Original Mix)
-Walker & Royce, Glass Petals, Elohim - Stop Time (Extended Mix)
 Volaris - Slow Motion (Extended Mix)
 Vitamin String Quartet - A Thousand Years (String Quartet Tribute to Christina Perri)
 Vintage & Morelli - Contrasts
 Village People - YMCA
 Vijay & Sofia Zlatko - Hypnotic (Original Mix)
+Victor Tellagio - Goddess (Original Mix)
 Victims Of Science - The Device Has Been Modified (Version 2)
 Vicetone - White Lies (Original Mix)
 Vicetone - Tremble (Original Mix)
@@ -6017,7 +6021,6 @@ Van Halen x John Summit - Jump x Where You Are  (Wuki Edit)
 Vampire Weekend - Ruby Soho (Rancid cover)
 Valentino Khan, Wuki, Roxanna - Better (Original Mix) 2
 Valentin & Roald Velden - Away From Here (James Woods Remix)
-VNSSA, Sian, Sacha Robotti - Smalltown Girl
 Utah Jazz - Take No More
 Usher feat. Will.I.Am - OMG
 Usher - Love In This Club (MSTRKRFT Remix)
@@ -6551,7 +6554,6 @@ Natema - Everybody Does (10th Anniversary Rework) (INXS - Need You Tonight)
 Nat King Cole - Unforgettable
 NVOY - You Are
 NO STATIC, POLOVICH - Blow Your Mind (Extended)
-NO STATIC - Funky Town
 NIIKO X SWAE - Disco Inferno (Shake That Ass)
 NGHTMRE - MTRD
 NERVO - You're Gonna Love Again
@@ -6748,6 +6750,7 @@ Lana Del Rey - Without You (Kill Paris Remix)
 Lana Del Rey - Summertime Sadness (SidePiece Treat)
 Lana Del Rey - Born To Die (Monsieur Adi Remix)
 Lana Del Rey - Born To Die (3.A.M. Remix)
+Laherte - Pump Up The Jam (Extended Mix)
 Lady Gaga, Matroda, KLP - Telephone (Emmy Adelle Edit)
 Lady Gaga - Telephone (feat. Beyonce) (Demucs Vocal) 2
 Lady Gaga - Paparazzi (Kasey Koehler & CHALANT Remix)
@@ -6872,7 +6875,6 @@ Josh Butler - Got A Feeling (Original Mix)
 Josef Salvat - Open Season (The Chainsmokers Remix)
 Jos & Eli, Eli & Fur - Riffs of the Night (Extended Mix)
 Jorja Smith - Rose Rouge (St Germain Cover)
-Joris Voorn - Horizon (Eelke Kleijn Remix)
 Jordan Nocturne - Nostalgia (Original Mix)
 Joplyn - Keep Me In Your Mind (Einmusik Remix)
 Jon Hopkins - We Disappear
@@ -7692,7 +7694,6 @@ Violet - Antifa Beats
 Vintage Culture, Magnus - Nothing Ever Changes (Camelphat Remix)
 Vimes - Ential
 Village People - Go West
-Victor Tellagio - Goddess (Original Mix)
 Victor Ruiz - Interstellar
 Victor Ruiz & Alex Stein - Consciousness
 Vicetone ft. Collin McLoughlin - Heartbeat (Original Mix)
@@ -8411,7 +8412,6 @@ Lane 8 - Atlas (Original Mix)
 Lana Del Rey - Ultraviolence
 Lana Del Rey - This Is What Makes Us Girls
 Lana Del Rey - Shades Of Cool
-Laherte - Pump Up The Jam (Extended Mix)
 Lady Gaga - Abracadabra (Kastra Remix)
 LSB - Walking Blues (Original Mix)
 LOSTBOYJAY - COULD BE WRONG (Extended Mix)
