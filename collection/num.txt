@@ -271,6 +271,7 @@ Sascha Funke - Mango
 Sander van Doorn - Guitar Track (Sam Feldt Remix)
 Naxxos - New Orleans (Original Mix)
 Kav Verhouzer - It's All Good (Original Mix)
+Foals - Late Night (Solomun Remix)
 Deadmau5 - Avaritia
 Bob Moses - Like It Or Not (Joris Voorn Remix)
 BT - Rose Of Jericho (Adam K & Soha Remix)
@@ -284,7 +285,6 @@ Mylo - Ottos Journey
 Mr Probz - Waves (Robin Schulz Remix)
 Lorde - Tennis Court (Flume Remix)
 James Hersey - Coming Over (Filous Remix)
-Foals - Late Night (Solomun Remix)
 Dirty Vegas - Days Go By
 Ben Bohmer - Soulline (Original Mix)
 Anna Graceman - Words (Glastrophobie Remix)
@@ -335,6 +335,7 @@ Maduk - Never Again
 Kiesza - Take Me To Church (Hozier Cover) (George Whyman Remix)
 Kaskade - Feeling The Night (Atmosphere Version)
 Joshua - Watch Da Bass (Inland Knights Remix CD)
+Jon Hopkins - Open Eye Signal (George FitzGerald Remix)
 Jody Wisternoff feat. Sian Evans - The Bridge
 Inner City - Good Life (Kobhi Bootleg)
 Ficta - Eli (James Zabiela Rave Lizard Mix)
@@ -356,7 +357,6 @@ Paul Kalkbrenner - Sky And Sand
 Passion Pit - Carried Away (Acapella)
 Parachute Youth - Can't Get Better Than This (Just Kiddin Remix)
 Juun & Sam Smith - When It's Alright (Extended)
-Jon Hopkins - Open Eye Signal (George FitzGerald Remix)
 Jadele - Guilty Pleasure (Kotelett & Zadak Remix)
 Felguk - All Night Long (Darth & Vader Remix)
 Fedde Le Grand & Nicky Romero & Matthew Koma - Sparks (Vicetone Remix)
@@ -473,6 +473,7 @@ Carmen McRae - How Long Has This Been Going On (MJ Cole Remix)
 Bat For Lashes - Pearls Dream (Skream's Pour Another Glass Of Champers Remix)
 Bassnectar - So Butterfly (2014 Version)
 Axwell - Center Of The Universe (Remode)
+Acid Pauli - Nana (Original Mix)
 Above & Beyond - We're All We Need (Spada Remix)
 Zedd - Spectrum (Extended Mix)
 Solidisco ft Nina Simone - Feeling Good
@@ -497,7 +498,6 @@ Blackstreet - No Diggity
 Ben Bohmer, Malou - Lost In Mind (Volen Sentir Extended Vision)
 Ascension - Someone (rekordbox)
 AmpLive - Video Tapez (featuring Del the Funky Homosapien)
-Acid Pauli - Nana (Original Mix)
 ATB - 9 PM (Till I Come)
 The Killers - Mr.Brightside (Thin White Duke Remix)
 Skrillex - With You Friends
@@ -587,6 +587,7 @@ Amillionsons - Misti Blu (Schmoov! Dub Mix)
 Wolf Saga & Lemon - Young Folks (Cover)
 UNKLE vs Petter - What Are You To Me (Sashas Involver Remix)
 The Weeknd - Often (Kygo Remix)
+Sunshine Jones - The Sun
 Sunny Lax - Enceladus
 Slam - This World (Slam Instrumental)
 Shout Out Louds - Impossible
@@ -619,7 +620,6 @@ Alaska In Winter - Space Eagle
 Yotto - Mulholland 99
 Wolfgang Gartner - Illmerica (Extended Mix)
 Unclubbed & Kim Wayman - We Are The People (Danny Dove Remix)
-Sunshine Jones - The Sun
 Splittr - All Alone (Extended Vocal Mix)
 Ryan Hemsworth - Perfectly
 Roger Sanchez - Lost (D-Trax & Dimitri Valeff Remix)
@@ -771,6 +771,7 @@ Dsico That No Talent Hack - Smells Like Teen Spirit
 Delilah - Inside My Love (Redlight Remix)
 David August - Epikur
 Dave Spoon - At Night
+Cassian - Lafayette (Extended Mix)
 Ben Kim - Somebody To Love (Gorgon City Extended Remix)
 BT - Skylarking (Original Mix)
 BAILE - Without (Tim Green Remix)
@@ -817,7 +818,6 @@ Everclear - Santa Monica (fixed)
 Ellie Goulding - Burn (Gryffin Remix)
 Drake - Hold On, We're Going Home (TJR 120bpm Refix)
 Chvrches - The Mother We Share (Alucard Session)
-Cassian - Lafayette (Extended Mix)
 Calvin Harris & John Newman - Blame (Acapella)
 Bloc Party - Banquet (Boys Noize Vox Mix)
 Birdy - Skinny Love (Vanic Remix)
@@ -1021,6 +1021,7 @@ Moloko - Sing It Back (Mousse T's Feel Love Mix)
 Modjo - Lady (Hear Me Tonight) 2
 Moby - Go (Victor Ruiz Remix)
 Matthew Dekay & Lee Burridge - Lost In A Moment (Dixon Rework)
+Massano, Stephan Bodzin, Jem Cooke - Healing (Extended Mix)
 Luke Dzierzek - Echo
 Little Jinder - Youth Blood (12th Planet Flinch Remix)
 Le Youth - Swimming (Original Mix)
@@ -1085,7 +1086,6 @@ Mylo - In My Arms
 Mr. Belt & Wezol, RSCL - Way It Is (Extended Mix)
 Minnesota - Bloom
 Miike Snow - The Wave (Flight Facilities Mix)
-Massano, Stephan Bodzin, Jem Cooke - Healing (Extended Mix)
 Macklemore & Ryan Lewis & Wanz - Thrift Shop
 Lane 8, Kasablanca - Run (Original Mix)
 Kyodai - Marea (Original Mix)
@@ -1280,6 +1280,7 @@ Sian Evans - Hide U (Tinlicker Extended Remix)
 Shouse - Love Tonight (Vintage Culture & Kiko Franco Remix)
 Shouse - Love Tonight (Original Mix)
 Sebastien Leger - Rocket To Lee's Little Cloud (Original Mix)
+Sebastien Leger - In A Distorted Galaxy (Original Mix)
 Sander Van Doorn & Martin Garrix & DVBBS - Gold Skies (Acapella)
 Sam Smith - Stay With Me
 Rufus - Like An Animal (Yotto Remix)
@@ -1381,7 +1382,6 @@ Solee - Sommerliebe (Eelke Kleijn Remix)
 Skrillex - Scary Monsters And Nice Sprites (Phonat Remix)
 Skrillex & Ellie Goulding - Summit
 Shinichi Osawa - Star Guitar
-Sebastien Leger - In A Distorted Galaxy (Original Mix)
 Sasha - Channel Deq (Max Cooper Remix)
 Russ Chimes - Turn Me Out (Extended Mix)
 Rufus du Sol - Innerbloom (RUMPUS Edit)
@@ -1566,6 +1566,7 @@ The Avalanches - Since I Left You
 Taio Cruz - Dynamite (Album Version)
 Swedish House Mafia - Don't You Worry Child
 Squarepusher - Love Will Tear Us Apart
+Spencer Brown, Danny Shamoun - Blue Magic
 Sky Ferreira - Everything Is Embarrassing (Krystal Klear Remix)
 Shai T - Where The Heart Is (Original Mix)
 School Of Seven Bells - How To Love (Lil Wayne Cover)
@@ -1678,7 +1679,8 @@ Telefon Tel Aviv - Sound in a Dark Room
 Tchami - Untrue (Original Mix)
 Swedish House Mafia - One (Your Name)
 StoneBridge - Put Em High (JJ Club Mix)
-Spencer Brown, Danny Shamoun - Blue Magic
+Stephan Bodzin - Wir
+Stephan Bodzin - Odyssee
 Sonny Fodera, Gorgon City, Danny Howard - Remember (feat. Stevie Appleton) (Sonny Fodera Extended Sunset Mix)
 Sofi Tukker - Drinkee (Vintage Culture & Slow Motion! Remix)
 Sia - Chandelier (SoulSon & Liva K Remix of Yalena Cover)
@@ -1810,8 +1812,6 @@ T.M.A - Aitne (Monkey Safari Remix)
 Swedish House Mafia, The Weeknd - Moth To A Flame (Moojo Remix)
 Supermode - Tell Me Why (James Carter Extended Remix)
 Stonebridge - Put Em High (Acapella)
-Stephan Bodzin - Wir
-Stephan Bodzin - Odyssee
 Spin Doctors - Two Princes
 Sonique - It Feels So Good (Breakbeat 12)
 Solarstone - Seven Cities (Tom Staar Extended Remix)
@@ -2634,6 +2634,7 @@ Motorcycle - As The Rush Comes (Gabriel & Dresden Sweeping Strings Mix)
 Morgan Geist - Most Of All
 Modest Mouse - Blame It On The Tetons
 Moby - Why Does My Heart Feel So Bad (Lukas Grinys Edit)
+Mitch De Klein - Embrace (Original Mix)
 Mikky Ekko - Pull Me Down (Emperor Remix)
 Mike Red - Cold As Ice (A1-Mix)
 Michael Jackson - Don't Stop 'Til You Get Enough
@@ -2938,7 +2939,6 @@ Monkey Safari - Watching The Stars
 Moby - When It's Cold I'd Like To Die
 Moby - God Moving Over The Face Of The Waters
 Miyagi, Allies for Everyone - Clouds (Solee Remix)
-Mitch De Klein - Embrace (Original Mix)
 Miike Snow - Genghis Khan
 Migos - Bad And Boujee (Zhu Remix)
 Maxxi Soundsystem - In The Woods (Original Mix)
@@ -4512,6 +4512,7 @@ John Summit, Parachute Youth - Better Than This
 John Summit, GUZ (NL) - Thin Line (Extended Mix)
 John Summit - Crystallized (Playa Dub Extended Remix)
 John Newman - Love Me Again
+Jody Wisternoff - The Bridge (Chicane Extended Rework)
 Jimpster - Brought To Bare (Deetron Remix)
 Jimi Jules - We Out Here (Original Mix)
 Jesse Marco - Daddy Cool
@@ -5018,6 +5019,7 @@ Strange Talk - Young Hearts (The Chainsmokers Remix)
 Strange Talk - Painted in Gold (Robotaki Remix)
 Storm Queen - Let's Make Mistakes
 Stereo MC's - Connected (Full Length)
+Stephan Bodzin - Boavista (Original Mix)
 Stephan Bodzin & Marc Romboy - Miranda (Oliver Huntemann Remix)
 Stepcat - Jitterbug
 State Of Mind - Sun King
@@ -5458,7 +5460,6 @@ John Summit - La Danza (Extended Mix)
 John Cougar Mellencamp - Jack & Diane
 Johannes Brecht - Breathe!
 Joe Goddard - Gabriel
-Jody Wisternoff - The Bridge (Chicane Extended Rework)
 Joachim Pastor - Millenium (Original Mix)
 Jimpster - Seventh Wave
 Jessie Ware - Running (Disclosure Remix)
@@ -6208,7 +6209,6 @@ Steven Cee - Makin' Me High (Toni Braxton)
 Stereotic - Lhiver (Original Mix)
 Stereo.type - Visions (Ryan Murgatroyd Remix)
 Stereo Underground - Empire of the Soul (Original Mix)
-Stephan Bodzin - Boavista (Original Mix)
 Stephan Bodzin & Marc Romboy - Atlas (Gui Boratto Remix)
 Stepcat - Piano Dentist
 Steffi, Virginia - Be True To Me (Original Mix)
