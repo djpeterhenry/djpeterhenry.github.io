@@ -1265,6 +1265,7 @@ James Blake - CMYK
 Oliver Heldens - Gecko (Elephante Remix)
 Icona Pop - I Love It (Acapella)
 Yolanda Be Cool & DCUP - We No Speak Americano (Original mix)
+The Killers - Smile Like You Mean It (Madeon Remix)
 Fatboy Slim & Riva Starr - Eat Sleep Rave Repeat
 Anyma, Ellie Goulding - Hypnotized (John Summit Remix) 2
 AYYBO - RIZZ (Extended Mix)
@@ -1368,7 +1369,6 @@ Deadmau5 - Ghosts n Stuff (Chuckie Remix)
 Laura Jansen - Use Somebody (Oliver Flohr Remix)
 Trey Songz - Na Na (Cedric Zeyenne Remix)
 Bassnectar - Heads Up (California Style Mix)
-The Killers - Smile Like You Mean It (Madeon Remix)
 The Temper Trap - Sweet Disposition (Axwell & Dirty South Remix)
 Jake Childs - Bring It (Jay-J Shifted Music Remix)
 Flight Facilities - Down To Earth (Original Mix)
@@ -2342,6 +2342,7 @@ Cookie Monsta - Optimus Prime
 Clean Bandit - Extraordinary (Klingande Remix)
 Avicii - Wake Me Up (Reggae Remix)
 Bit Funk - Soul Satisfaction (Club Mix)
+Martin Solveig - The Night Out (Madeon Remix Extended)
 Max Styler, Deomid - Every Night (Original Mix)
 Tove Lo - Dancing On My Own (Like A Version Unplugged) 2
 The Chemical Brothers - Out Of Control
@@ -2546,7 +2547,6 @@ Cazzette - Sleepless (Oliver Nelson Remix)
 Attack Yourself - Laser Flip (Bit Funk Remix)
 John Newman - Love Me Again (Gemini Remix)
 KH - Looking at Your Pager (Chris Lake Remix)
-Martin Solveig - The Night Out (Madeon Remix Extended)
 CID, Taylr Renee - Fancy $hit (Extended Mix)
 Diplo, SIDEPIECE - On My Mind (SIDEPIECE VIP)
 Chris Lorenzo, Max Styler, Audio Bullys - London's On Fire (Extended Mix)
@@ -7652,6 +7652,10 @@ Lykke Li - Little Bit (Villains Remix)
 The Weeknd - Loft Music
 Torkelsen - Lavkarbovar
 King Creosote - Youve No Clue Do You (Atlantic Conveyor Mix)
+Carloh, Reboot - Panteras (Original Mix)
+Gorillaz - Feel Good Inc (TRIPL FLY LYF Edit)
+Luvstruck - What's A Girl To Do (Yuvèe Remix)
+Rafael - Gotta Be Cool (Luch Remix)
 DJ Seinfeld, Dan Whitlam - If This Is It (Original Mix) 2
 Rafael - Gotta Be Cool (Original Mix)
 NIIKO X SWAE, Luke Alexander - 3D (Extended Mix)
