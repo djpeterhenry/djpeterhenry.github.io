@@ -425,6 +425,7 @@ Nero - Promises (Skrillex & Nero Remix)
 Basto - Gregory's Theme (Extended Mix)
 Kaskade - Turn It Down (Le Castle Vania Remix)
 Yuna - Lullabies (Adventure Club Remix)
+Sorcha Richardson - Last Train (Lexer Remix)
 Bat For Lashes - Pearls Dream (Skream's Pour Another Glass Of Champers Remix)
 Kaskade vs Martin Garrix - Turn It Down Animals (Kaskade's Paradiso Mash Up)
 Zedd - Spectrum (Extended Mix)
@@ -466,7 +467,6 @@ Rodriguez Jr. - Ellipsism (Original Mix)
 Royksopp - Poor Leno (Sander Kleinenberg Northern Beach Mix)
 Joe Goddard - Music Is The Answer (Hot Since 82 Remix)
 Kaskade - 4 AM (Live in Studio) 2
-Sorcha Richardson - Last Train (Lexer Remix)
 David Guetta & Sia - Titanium (Alesso Remix)
 Probspot - Foreplay
 Sublime - Doin Time (Zeds Dead Summer Grime Remix)
@@ -507,6 +507,7 @@ Daft Punk - Doin' it Right
 AmpLive - Video Tapez (featuring Del the Funky Homosapien)
 Blackstreet - No Diggity
 Rank 1 - Airware (twoloud Remix)
+Subb-an - What I Do (Burnski's Tulum Remix)
 Pretty Pink - Suvi (Extended Mix)
 Florence And The Machine - Spectrum Say My Name (Acapella)
 Paul Kalkbrenner - Feed Your Head (Robin Schulz Remix)
@@ -549,7 +550,6 @@ Luca Bacchetti - Atlantic (Original Mix)
 Kaskade, Cop Kid - Turn It Down v3 (Extended)
 LP Giobbi, DJ Tennis, Joseph Ashworth - All In A Dream
 Chromeo - Night by Night (Shreddie Mercury Remix)
-Subb-an - What I Do (Burnski's Tulum Remix)
 Kaskade - Never Sleep Alone (Extended)
 Editors - Upside Down (Joris Voorn Remix)
 Schmoov - Spirits (Lights Out Mix)
@@ -2811,6 +2811,7 @@ Ellie Goulding - High For This (Kygo Remix)
 Zhu - Paradise Awaits
 Popof - Toxic Love
 L-Plus - Flood
+Dom Dolla - Saving Up (Extended)
 Raphael Palacci - Big Jet Plane (Remix)
 RÜFÜS DU SOL - In the Moment (Adriatique Extended Remix)
 Westend, Hosanna - Drum Death (Extended Mix)
@@ -3211,7 +3212,6 @@ Flight Facilities - Planet Claire (Original Mix)
 Cassian, Icehouse - Great Southern Land (Original Mix) (1)
 Paul Simon - All Around the World or the Myth of Fingerprints (Photek Remix)
 Berlioz - Jazz is for Ordinary People
-Dom Dolla - Saving Up (Extended)
 Mason, Princess Superstar - Perfect (Exceeder)
 LP Giobbi - Believer (feat. Hermixalot)
 Mau P - BEATS FOR THE UNDERGROUND (Original Mix)
@@ -3610,6 +3610,7 @@ Tiger Stripes - The Shadows
 Swedish House Mafia - Save The World (Futurebound & Metrik Remix)
 Adele - Rolling In The Deep (Jamie XX Remix)
 Ylvis - The Fox
+Lxury - J.A.W.S. (Original Mix)
 Sultan + Shepard - nCTRL (Original Mix)
 Chris Lake, Odd Mob, Abel Balder - Ease My Mind (Odd Mob Extended Remix)
 Britney Spears - I Wanna Go (John Summit Extended Remix)
@@ -4205,7 +4206,6 @@ Disclosure - Latch (Void Edit)
 Disco Lines - TECHNO + TEQUILA
 John Summit, GUZ (NL) - Thin Line (Extended Mix)
 Sophie Ellis-Bextor - Murder On The Dancefloor (Extended Album Version)
-Lxury - J.A.W.S. (Original Mix)
 Kernkraft 400 - Zombie Nation
 Arina Mur - Heaven Can Wait (Gorge Remix)
 Chris Lorenzo, COBRAH - MAMI (Extended Mix)
@@ -7655,6 +7655,9 @@ Lykke Li - Little Bit (Villains Remix)
 The Weeknd - Loft Music
 Torkelsen - Lavkarbovar
 King Creosote - Youve No Clue Do You (Atlantic Conveyor Mix)
+Cloonee, Ranger Trucco - What Would I Do (Extended Mix)
+The XX - On Hold (Jamie xx Remix)
+Van Halen - Jump (Audien Bootleg)
 Carloh, Reboot - Panteras (Original Mix)
 Gorillaz - Feel Good Inc (TRIPL FLY LYF Edit)
 DJ Seinfeld, Dan Whitlam - If This Is It (Original Mix) 2
